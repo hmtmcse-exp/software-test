@@ -9,7 +9,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -23,35 +27,19 @@ public class GoogleCalculatorSteps {
 
     @Before
     public void setup() {
-        System.setProperty("webdriver.chrome.driver","C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
-//        driver = new ChromeDriver();
-//        driver = new FirefoxDriver();
+        try {
+            driver = new RemoteWebDriver(new URL("http://localhost:9515"), DesiredCapabilities.chrome());
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
     }
 
 
     @Given("^I open google$")
     public void i_open_google() {
         //Set implicit wait of 10 seconds and launch google
-//        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-//        driver.get(url);
-
-        WebDriver driver = new ChromeDriver();
-        driver.get("http://www.google.com/xhtml");
-        try {
-            Thread.sleep(5000);  // Let the user actually see something!
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        WebElement searchBox = driver.findElement(By.name("q"));
-        searchBox.sendKeys("ChromeDriver");
-        searchBox.submit();
-        try {
-            Thread.sleep(5000);  // Let the user actually see something!
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        driver.quit();
-
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        driver.get(url);
     }
 
     @When("^I enter \"([^\"]*)\" in search textbox$")
