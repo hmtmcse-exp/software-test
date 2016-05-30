@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 6646354008,
+  "duration": 4633158987,
   "status": "passed"
 });
 formatter.scenario({
@@ -43,7 +43,7 @@ formatter.match({
   "location": "GoogleCalculatorSteps.i_open_google()"
 });
 formatter.result({
-  "duration": 6006148547,
+  "duration": 5365512889,
   "status": "passed"
 });
 formatter.match({
@@ -56,9 +56,8 @@ formatter.match({
   "location": "GoogleCalculatorSteps.i_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 5074031532,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"gbqfq\"}\n  (Session info: chrome\u003d50.0.2661.102)\n  (Driver info: chromedriver\u003d2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform\u003dWindows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.05 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00272.53.0\u0027, revision: \u002735ae25b1534ae328c771e0856c93e187490ca824\u0027, time: \u00272016-03-15 10:43:46\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 8.1\u0027, os.arch: \u0027amd64\u0027, os.version: \u00276.3\u0027, java.version: \u00271.8.0_51\u0027\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, mobileEmulationEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir12936_30416}, takesHeapSnapshot\u003dtrue, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, hasTouchScreen\u003dfalse, version\u003d50.0.2661.102, platform\u003dWIN8_1, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, acceptSslCerts\u003dtrue, locationContextEnabled\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: bb2f14b5ea965c447e7569d42ed19861\n*** Element info: {Using\u003did, value\u003dgbqfq}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:422)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:413)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:218)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)\r\n\tat GoogleCalculatorSteps.i_enter_in_search_textbox(GoogleCalculatorSteps.java:48)\r\n\tat ✽.When I enter \"2+2\" in search textbox(google_calculator.feature:7)\r\n",
-  "status": "failed"
+  "duration": 203646313,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -70,10 +69,11 @@ formatter.match({
   "location": "GoogleCalculatorSteps.i_should_get_result_as(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2220986406,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 74229181,
+  "duration": 11215886,
   "status": "passed"
 });
 });

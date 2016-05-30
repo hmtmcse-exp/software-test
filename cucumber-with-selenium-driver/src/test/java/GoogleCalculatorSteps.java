@@ -45,12 +45,12 @@ public class GoogleCalculatorSteps {
     @When("^I enter \"([^\"]*)\" in search textbox$")
     public void i_enter_in_search_textbox(String arg1) {
         //Write term in google textbox
-        WebElement googleTextBox = driver.findElement(By.id("gbqfq"));
+        WebElement googleTextBox = driver.findElement(By.id("lst-ib"));
         googleTextBox.sendKeys(arg1);
 
 
         //Click on searchButton
-        WebElement searchButton = driver.findElement(By.id("gbqfb"));
+        WebElement searchButton = driver.findElement(By.className("lsb"));
         searchButton.click();
     }
 
@@ -59,8 +59,6 @@ public class GoogleCalculatorSteps {
         //Get result from calculator
         WebElement calculatorTextBox = driver.findElement(By.id("cwos"));
         String result = calculatorTextBox.getText();
-
-        //Verify that result of 2+2 is 4
         Assert.assertEquals(result, arg1);
         driver.close();
     }
