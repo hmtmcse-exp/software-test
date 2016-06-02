@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 739867,
+  "duration": 875641,
   "status": "passed"
 });
 formatter.scenario({
@@ -37,7 +37,7 @@ formatter.match({
   "location": "CalculatorSteps.i_have_a_calculator()"
 });
 formatter.result({
-  "duration": 57556229,
+  "duration": 63967527,
   "status": "passed"
 });
 formatter.match({
@@ -54,7 +54,7 @@ formatter.match({
   "location": "CalculatorSteps.i_add_and(int,int)"
 });
 formatter.result({
-  "duration": 1361554,
+  "duration": 1158919,
   "status": "passed"
 });
 formatter.match({
@@ -67,7 +67,7 @@ formatter.match({
   "location": "CalculatorSteps.the_result_should_be(int)"
 });
 formatter.result({
-  "duration": 73019,
+  "duration": 75072,
   "status": "passed"
 });
 });
