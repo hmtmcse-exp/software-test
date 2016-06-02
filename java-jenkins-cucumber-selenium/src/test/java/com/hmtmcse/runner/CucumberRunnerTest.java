@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        format = { "pretty", "html:target/cucumber" },
+        format = { "pretty", "html:target/cucumber","json:target/cucumber/report.json" },
         glue = "com.hmtmcse.steps",
         features = "classpath:cucumber/google.feature"
 )
