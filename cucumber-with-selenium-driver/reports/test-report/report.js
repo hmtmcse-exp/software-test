@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4633158987,
+  "duration": 2415811798,
   "status": "passed"
 });
 formatter.scenario({
@@ -43,7 +43,7 @@ formatter.match({
   "location": "GoogleCalculatorSteps.i_open_google()"
 });
 formatter.result({
-  "duration": 5365512889,
+  "duration": 2972548690,
   "status": "passed"
 });
 formatter.match({
@@ -56,7 +56,7 @@ formatter.match({
   "location": "GoogleCalculatorSteps.i_enter_in_search_textbox(String)"
 });
 formatter.result({
-  "duration": 203646313,
+  "duration": 130050257,
   "status": "passed"
 });
 formatter.match({
@@ -69,11 +69,11 @@ formatter.match({
   "location": "GoogleCalculatorSteps.i_should_get_result_as(String)"
 });
 formatter.result({
-  "duration": 2220986406,
+  "duration": 2217871812,
   "status": "passed"
 });
 formatter.after({
-  "duration": 11215886,
+  "duration": 10746101,
   "status": "passed"
 });
 });
