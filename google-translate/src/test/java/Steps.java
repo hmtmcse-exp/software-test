@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.SystemClock;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.StringTokenizer;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -68,11 +69,16 @@ public class Steps {
 
     @Then("^save the result$")
     public void save_the_result() {
-        WebElement textArea = driver.findElement(By.xpath("//*[@id=\"result_box\"]/span"));
+        WebElement result = driver.findElement(By.xpath("//*[@id=\"result_box\"]/span"));
+        driver.findElement(By.className("cd-exp-ar")).click();
+        String pFp = driver.findElement(By.className("gt-cd-pos")).getText();
+        String synonyms = driver.findElement(By.className("gt-syn-span")).getText();
 
         System.out.println();
         System.out.println("====================== RESULT ======================");
-        System.out.println(textArea.getText());
+        System.out.println(result.getText());
+        System.out.println("pFp: " + pFp);
+        System.out.println("synonyms: " + synonyms);
         System.out.println("====================== END RESULT ======================");
     }
 
