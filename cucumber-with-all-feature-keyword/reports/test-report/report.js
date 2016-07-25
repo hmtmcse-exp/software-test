@@ -33,14 +33,14 @@ formatter.match({
   "location": "StepDefinition.cleaning_the_database()"
 });
 formatter.result({
-  "duration": 84640049,
+  "duration": 86719551,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.initializing_the_database()"
 });
 formatter.result({
-  "duration": 21994,
+  "duration": 23753,
   "status": "passed"
 });
 formatter.scenario({
@@ -70,21 +70,21 @@ formatter.match({
   "location": "StepDefinition.here_i_given_input()"
 });
 formatter.result({
-  "duration": 21993,
+  "duration": 23167,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.when_the_input_processing()"
 });
 formatter.result({
-  "duration": 19355,
+  "duration": 19648,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.then_i_got_the_result()"
 });
 formatter.result({
-  "duration": 17302,
+  "duration": 16422,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -182,14 +182,14 @@ formatter.match({
   "location": "StepDefinition.cleaning_the_database()"
 });
 formatter.result({
-  "duration": 50439,
+  "duration": 28738,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.initializing_the_database()"
 });
 formatter.result({
-  "duration": 20821,
+  "duration": 18475,
   "status": "passed"
 });
 formatter.scenario({
@@ -239,14 +239,14 @@ formatter.match({
   "location": "StepDefinition.going_to_the_website()"
 });
 formatter.result({
-  "duration": 26979,
+  "duration": 41055,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_on_login_button()"
 });
 formatter.result({
-  "duration": 21701,
+  "duration": 22581,
   "status": "passed"
 });
 formatter.match({
@@ -259,21 +259,21 @@ formatter.match({
   "location": "StepDefinition.user_logs_in_using_Username_as_Tom_and_Password_password(int)"
 });
 formatter.result({
-  "duration": 1881777,
+  "duration": 2249219,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.login_should_be_successful()"
 });
 formatter.result({
-  "duration": 26979,
+  "duration": 27859,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.the_dashboard_not_found()"
 });
 formatter.result({
-  "duration": 22580,
+  "duration": 25219,
   "status": "passed"
 });
 formatter.background({
@@ -297,14 +297,14 @@ formatter.match({
   "location": "StepDefinition.cleaning_the_database()"
 });
 formatter.result({
-  "duration": 29032,
+  "duration": 34896,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.initializing_the_database()"
 });
 formatter.result({
-  "duration": 15542,
+  "duration": 19647,
   "status": "passed"
 });
 formatter.scenario({
@@ -354,14 +354,14 @@ formatter.match({
   "location": "StepDefinition.going_to_the_website()"
 });
 formatter.result({
-  "duration": 18475,
+  "duration": 26978,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_on_login_button()"
 });
 formatter.result({
-  "duration": 15542,
+  "duration": 18182,
   "status": "passed"
 });
 formatter.match({
@@ -374,21 +374,21 @@ formatter.match({
   "location": "StepDefinition.user_logs_in_using_Username_as_Harry_and_Password_password(int)"
 });
 formatter.result({
-  "duration": 107329,
+  "duration": 97359,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.login_should_be_successful()"
 });
 formatter.result({
-  "duration": 15835,
+  "duration": 15542,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.the_dashboard_not_found()"
 });
 formatter.result({
-  "duration": 14956,
+  "duration": 18475,
   "status": "passed"
 });
 formatter.background({
@@ -412,14 +412,14 @@ formatter.match({
   "location": "StepDefinition.cleaning_the_database()"
 });
 formatter.result({
-  "duration": 38709,
+  "duration": 35777,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.initializing_the_database()"
 });
 formatter.result({
-  "duration": 13489,
+  "duration": 19061,
   "status": "passed"
 });
 formatter.scenario({
@@ -469,14 +469,14 @@ formatter.match({
   "location": "StepDefinition.going_to_the_website()"
 });
 formatter.result({
-  "duration": 20821,
+  "duration": 22287,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.click_on_login_button()"
 });
 formatter.result({
-  "duration": 19061,
+  "duration": 18768,
   "status": "passed"
 });
 formatter.match({
@@ -489,21 +489,21 @@ formatter.match({
   "location": "StepDefinition.user_logs_in_using_Username_as_Jerry_and_Password_password(int)"
 });
 formatter.result({
-  "duration": 79470,
+  "duration": 72140,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.login_should_be_successful()"
 });
 formatter.result({
-  "duration": 13196,
+  "duration": 10850,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.the_dashboard_not_found()"
 });
 formatter.result({
-  "duration": 19355,
+  "duration": 10264,
   "status": "passed"
 });
 });
