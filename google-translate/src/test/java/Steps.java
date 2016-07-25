@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.ui.SystemClock;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -47,7 +48,10 @@ public class Steps {
 
     @Then("^select to bangla language$")
     public void select_to_bangla_language() {
-
+        WebElement selectBangla = driver.findElement(By.xpath("//*[@id=\"gt-tl-gms\"]"));
+        selectBangla.click();
+        WebElement banglaButton = selectBangla.findElement(By.xpath("//*[@id=\":36\"]/div"));
+        banglaButton.click();
     }
 
     @Then("^put the ([^\"]*) to input box$")
@@ -64,7 +68,8 @@ public class Steps {
 
     @Then("^save the result$")
     public void save_the_result() {
-
+        WebElement textArea = driver.findElement(By.xpath("//*[@id=\"result_box\"]/span"));
+        System.out.println(textArea.getText());
     }
 
     @After
