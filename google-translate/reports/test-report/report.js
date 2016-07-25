@@ -88,7 +88,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 1092129517,
+  "duration": 1099357739,
   "status": "passed"
 });
 formatter.scenario({
@@ -142,21 +142,21 @@ formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 8605271760,
+  "duration": 21001379645,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 129666550,
+  "duration": 123060683,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 177853890,
+  "duration": 174622333,
   "status": "passed"
 });
 formatter.match({
@@ -169,29 +169,29 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 78975610,
+  "duration": 73190099,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 130172061,
+  "duration": 122710638,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.save_the_result()"
 });
 formatter.result({
-  "duration": 439253523,
+  "duration": 539589668,
   "status": "passed"
 });
 formatter.after({
-  "duration": 130863350,
+  "duration": 86965034,
   "status": "passed"
 });
 formatter.before({
-  "duration": 367335513,
+  "duration": 369174713,
   "status": "passed"
 });
 formatter.scenario({
@@ -245,21 +245,21 @@ formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 7577209184,
+  "duration": 29428515914,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 127525705,
+  "duration": 122985882,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 180491934,
+  "duration": 202995003,
   "status": "passed"
 });
 formatter.match({
@@ -272,78 +272,16 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 72690942,
+  "duration": 68716275,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 79860500,
+  "duration": 75320676,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.save_the_result()"
-});
-formatter.result({
-  "duration": 700525556,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 98579079,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 369541380,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 18,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "put the table to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 12,
-  "name": "save the result",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
 });

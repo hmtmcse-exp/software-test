@@ -69,7 +69,11 @@ public class Steps {
     @Then("^save the result$")
     public void save_the_result() {
         WebElement textArea = driver.findElement(By.xpath("//*[@id=\"result_box\"]/span"));
+
+        System.out.println();
+        System.out.println("====================== RESULT ======================");
         System.out.println(textArea.getText());
+        System.out.println("====================== END RESULT ======================");
     }
 
     @After
