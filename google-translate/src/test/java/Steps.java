@@ -86,7 +86,7 @@ public class Steps {
 
         String line =  MyFileWriter.toUpperFirst(word) + "," + result.getText() + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
 
-        MyFileWriter.appendToFile(line, "D:\\touhid\\software-test\\google-translate\\src\\test\\resources\\data.csv");
+        MyFileWriter.appendToFile(line, "C:\\Users\\Administrator\\Desktop\\codes\\software-test\\google-translate\\src\\test\\resources\\data.csv");
 
     }
 
