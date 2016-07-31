@@ -1,3 +1,4 @@
+import com.processor.MyFileWriter;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
@@ -8,11 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.openqa.selenium.support.ui.SystemClock;
-
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.StringTokenizer;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -67,19 +65,29 @@ public class Steps {
         translateButton.click();
     }
 
-    @Then("^save the result$")
-    public void save_the_result() {
+    @Then("^save the ([^\"]*) result$")
+    public void save_the_result(String word) {
         WebElement result = driver.findElement(By.xpath("//*[@id=\"result_box\"]/span"));
         driver.findElement(By.className("cd-exp-ar")).click();
         String pFp = driver.findElement(By.className("gt-cd-pos")).getText();
         String synonyms = driver.findElement(By.className("gt-syn-span")).getText();
 
+
         System.out.println();
         System.out.println("====================== RESULT ======================");
         System.out.println(result.getText());
-        System.out.println("pFp: " + pFp);
+        System.out.println("word: " + word);
+
+
+
+        System.out.println("pFp: " + MyFileWriter.toUpperFirst(pFp));
         System.out.println("synonyms: " + synonyms);
         System.out.println("====================== END RESULT ======================");
+
+        String line =  MyFileWriter.toUpperFirst(word) + "," + result.getText() + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
+
+        MyFileWriter.appendToFile(line, "D:\\touhid\\software-test\\google-translate\\src\\test\\resources\\data.csv");
+
     }
 
     @After

@@ -9,7 +9,7 @@ Feature: Testing Google Translate
     Then select to bangla language
     And put the <word> to input box
     Then press translate button
-    Then save the result
+    Then save the <word> result
 
     Examples:
     |word|
