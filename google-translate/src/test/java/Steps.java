@@ -5,6 +5,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -67,15 +68,19 @@ public class Steps {
 
     @Then("^save the ([^\"]*) result$")
     public void save_the_result(String word) {
-        WebElement result = driver.findElement(By.xpath("//*[@id=\"result_box\"]/span"));
-        driver.findElement(By.className("cd-exp-ar")).click();
-        String pFp = driver.findElement(By.className("gt-cd-pos")).getText();
-        String synonyms = driver.findElement(By.className("gt-syn-span")).getText();
 
+        String result = findElementBy(By.xpath("//*[@id=\"result_box\"]/span"));
+
+        if (findElementByRObject(By.className("cd-exp-ar")) != null){
+            driver.findElement(By.className("cd-exp-ar")).click();
+        }
+
+        String pFp = findElementBy(By.className("gt-cd-pos"));
+        String synonyms = findElementBy(By.className("gt-syn-span"));
 
         System.out.println();
         System.out.println("====================== RESULT ======================");
-        System.out.println(result.getText());
+        System.out.println(result);
         System.out.println("word: " + word);
 
 
@@ -84,10 +89,28 @@ public class Steps {
         System.out.println("synonyms: " + synonyms);
         System.out.println("====================== END RESULT ======================");
 
-        String line =  MyFileWriter.toUpperFirst(word) + "," + result.getText() + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
+        String line =  MyFileWriter.toUpperFirst(word) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
 
-        MyFileWriter.appendToFile(line, "C:\\Users\\Administrator\\Desktop\\codes\\software-test\\google-translate\\src\\test\\resources\\data.csv");
+        MyFileWriter.appendToFile(line, "csv\\prepositions-50.csv");
 
+    }
+
+    private String findElementBy(By by){
+        try{
+            WebElement result = driver.findElement(by);
+            return result.getText();
+        }catch (NoSuchElementException n){
+            return "";
+        }
+    }
+
+    private WebElement findElementByRObject(By by){
+        try{
+            WebElement result = driver.findElement(by);
+            return result;
+        }catch (NoSuchElementException n){
+            return null;
+        }
     }
 
     @After
