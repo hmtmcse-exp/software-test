@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708a92f8-0749-4cc6-a1b8-cfe3abcc1756" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv/prepositions-50.csv" afterPath="$PROJECT_DIR$/csv/prepositions-50.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv/prepositions-50.csv" afterPath="$PROJECT_DIR$/csv/prepositions-50.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/report.js" afterPath="$PROJECT_DIR$/reports/test-report/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java" afterPath="$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java" />
     </list>
     <ignored path="google-translate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -123,8 +122,8 @@
       <file leaf-file-name="prepositions-50.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csv/prepositions-50.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -906,7 +905,7 @@
       <workItem from="1469331721183" duration="6657000" />
       <workItem from="1469706789510" duration="543000" />
       <workItem from="1469934734649" duration="6752000" />
-      <workItem from="1470468176350" duration="3478000" />
+      <workItem from="1470468176350" duration="3851000" />
     </task>
     <task id="LOCAL-00001" summary="new words">
       <created>1470469395525</created>
@@ -922,13 +921,17 @@
       <option name="project" value="LOCAL" />
       <updated>1470471038949</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new words">
+      <created>1470471667241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1470471667241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CucumberRunner - 2016.07.31 at 15h 50m 57s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CucumberRunner - 2016.07.31 at 15h 57m 24s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
@@ -956,9 +959,12 @@
     <history-entry file="CucumberRunner - 2016.08.06 at 14h 20m 50s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CucumberRunner - 2016.08.06 at 14h 26m 51s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17430000" />
+    <option name="totallyTimeSpent" value="17803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
@@ -1256,6 +1262,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Steps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1266,18 +1280,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csv/prepositions-50.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
