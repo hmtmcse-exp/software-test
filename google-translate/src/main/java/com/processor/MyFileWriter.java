@@ -22,11 +22,17 @@ public class MyFileWriter {
     }
 
     public static String toUpperFirst(String word) {
+        if (word.equals("") || word == null){
+            return "";
+        }
         char first = Character.toUpperCase(word.charAt(0));
         return first + word.substring(1);
     }
 
     public static String commaToList(String word) {
+        if (word.equals("") || word == null){
+            return "";
+        }
         String[] words = word.split(",");
         String list = "";
         String uWord;

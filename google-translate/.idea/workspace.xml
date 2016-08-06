@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708a92f8-0749-4cc6-a1b8-cfe3abcc1756" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csv/prepositions-50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv/prepositions-50.csv" afterPath="$PROJECT_DIR$/csv/prepositions-50.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/report.js" afterPath="$PROJECT_DIR$/reports/test-report/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Steps.java" afterPath="$PROJECT_DIR$/src/test/java/Steps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/translate.feature" afterPath="$PROJECT_DIR$/src/test/resources/translate.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java" afterPath="$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java" />
     </list>
     <ignored path="google-translate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,21 +101,31 @@
       <file leaf-file-name="MyFileWriter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+            <state relative-caret-position="525">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Steps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="219">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prepositions-50.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/csv/prepositions-50.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,7 +154,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/hmtmcse/translate/Steps.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/processor/FileWriter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java" />
         <option value="$PROJECT_DIR$/src/test/resources/data.csv" />
         <option value="$PROJECT_DIR$/words/noun-1500.txt" />
         <option value="$PROJECT_DIR$/words/verbs-1000.txt" />
@@ -154,8 +162,9 @@
         <option value="$PROJECT_DIR$/words/pronouns-60.txt" />
         <option value="$PROJECT_DIR$/words/prepositions-50.txt" />
         <option value="$PROJECT_DIR$/src/test/resources/translate.feature" />
-        <option value="$PROJECT_DIR$/csv/prepositions-50.csv" />
         <option value="$PROJECT_DIR$/src/test/java/Steps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java" />
+        <option value="$PROJECT_DIR$/csv/prepositions-50.csv" />
       </list>
     </option>
   </component>
@@ -897,7 +906,7 @@
       <workItem from="1469331721183" duration="6657000" />
       <workItem from="1469706789510" duration="543000" />
       <workItem from="1469934734649" duration="6752000" />
-      <workItem from="1470468176350" duration="2846000" />
+      <workItem from="1470468176350" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="new words">
       <created>1470469395525</created>
@@ -906,22 +915,17 @@
       <option name="project" value="LOCAL" />
       <updated>1470469395525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new words">
+      <created>1470471038949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470471038949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CucumberRunner - 2016.07.31 at 10h 45m 27s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2016.07.31 at 10h 45m 58s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2016.07.31 at 10h 47m 41s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2016.07.31 at 11h 18m 32s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CucumberRunner - 2016.07.31 at 15h 50m 57s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
@@ -940,9 +944,21 @@
     <history-entry file="CucumberRunner - 2016.08.06 at 14h 10m 02s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CucumberRunner - 2016.08.06 at 14h 11m 03s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2016.08.06 at 14h 11m 35s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2016.08.06 at 14h 19m 06s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2016.08.06 at 14h 20m 50s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16798000" />
+    <option name="totallyTimeSpent" value="17430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
@@ -966,7 +982,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39911798" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39840183" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1224,14 +1240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/words/prepositions-50.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1248,21 +1256,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/processor/MyFileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/csv/prepositions-50.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Steps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
