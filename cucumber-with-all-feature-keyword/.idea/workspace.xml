@@ -231,7 +231,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber-with-selenium-driver" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -795,7 +795,7 @@
       <workItem from="1464755524348" duration="1346000" />
       <workItem from="1469336360044" duration="1293000" />
       <workItem from="1477283668850" duration="2101000" />
-      <workItem from="1477380819599" duration="3189000" />
+      <workItem from="1477380819599" duration="3390000" />
     </task>
     <servers />
   </component>
@@ -817,7 +817,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11337000" />
+    <option name="totallyTimeSpent" value="11538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />

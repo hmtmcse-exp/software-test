@@ -7,6 +7,7 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -26,8 +27,11 @@ public class GoogleCalculatorSteps {
     @Before
     public void setup() {
         try {
-            driver = new RemoteWebDriver(new URL("http://localhost:9515"), DesiredCapabilities.chrome());
-        } catch (MalformedURLException e) {
+            System.setProperty("webdriver.chrome.driver","D:\\touhid\\software-test\\cucumber-with-selenium-driver\\chrome_driver\\chromedriver.exe");
+//            driver = new RemoteWebDriver(new URL("http://localhost:9515"), DesiredCapabilities.chrome());
+            driver = new ChromeDriver();
+            driver.manage().window().maximize();
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
