@@ -12,8 +12,7 @@ Feature: Testing Google Translate
     Then save the <word> result
 
     Examples:
-    |word|
-    ||nobody's|
+    |nobody's|
     |Prepare|
     |explosive|
     |Hall|

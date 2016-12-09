@@ -91,7 +91,7 @@ public class Steps {
 
         String line =  MyFileWriter.toUpperFirst(word) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
 
-        MyFileWriter.appendToFile(line, "csv\\prepositions-50.csv");
+        MyFileWriter.appendToFile(line, "csv\\angry_bird.csv");
 
     }
 
