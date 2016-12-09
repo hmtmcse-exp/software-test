@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="cucumber-with-all-feature-keyword" />
+        <module name="from-cmd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cucumber-with-all-feature-keyword" target="1.7" />
+      <module name="from-cmd" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

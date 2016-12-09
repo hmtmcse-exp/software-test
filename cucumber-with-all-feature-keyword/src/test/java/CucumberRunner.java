@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(format={"pretty","html:reports/test-report"},tags= "@allFeatureKeywordTest")
+@CucumberOptions(plugin = {"pretty"})
 public class CucumberRunner {
 
 }
