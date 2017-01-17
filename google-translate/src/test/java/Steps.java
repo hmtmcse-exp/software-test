@@ -91,7 +91,7 @@ public class Steps {
 
         String line =  MyFileWriter.toUpperFirst(word) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
 
-        MyFileWriter.appendToFile(line, "csv\\angry_bird.csv");
+        MyFileWriter.appendToFile(line, "csv\\ielts_official_1_8.csv");
 
     }
 
