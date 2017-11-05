@@ -1,4 +1,5 @@
 import com.processor.MyFileWriter;
+import cucumber.api.PendingException;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
@@ -9,10 +10,12 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
@@ -28,7 +31,11 @@ public class Steps {
     @Before
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "resources/windows/chromedriver_v2.33.exe");
-        driver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addExtensions(new File("resources/addons/extension_1_13_4.crx"));
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+        driver = new ChromeDriver(capabilities);
     }
 
 
@@ -123,5 +130,27 @@ public class Steps {
     public void closeBrowser() {
         driver.quit();
     }
-    
+
+    @Given("^open synonyms url$")
+    public void openSynonymsUrl() {
+        driver.get("http://www.thesaurus.com");
+    }
+
+
+    @Then("^put the synonyms ([^\"]*) to search box$")
+    public void putTheSynonymsWordToSearchBox(String word) {
+        WebElement textArea = driver.findElement(By.id("searchAreaInputText"));
+        textArea.sendKeys(word);
+    }
+
+    @Then("^press submit button$")
+    public void pressSubmitButton() {
+        WebElement translateButton = driver.findElement(By.id("searchAreaSubmit"));
+        translateButton.click();
+        try {
+            Thread.sleep(9000l);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 }
