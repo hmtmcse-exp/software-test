@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/english-synonyms-helper.iml" filepath="$PROJECT_DIR$/.idea/modules/english-synonyms-helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/english-synonyms-helper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/english-synonyms-helper_main.iml" group="english-synonyms-helper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/english-synonyms-helper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/english-synonyms-helper_test.iml" group="english-synonyms-helper" />
     </modules>
   </component>
 </project>
