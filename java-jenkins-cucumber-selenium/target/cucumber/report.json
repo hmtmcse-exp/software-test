@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 864676250,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleSteps.setup()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Addition",
+        "description": "",
+        "id": "check-addition-in-google-calculator-content-in-order-to-verify-that-google-calculator-work-correctly-as-a-user-of-google-i-should-be-able-to-get-correct-addition-result;addition",
+        "after": [
+          {
+            "result": {
+              "duration": 11018822,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GoogleSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3919887076,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I open google",
+            "match": {
+              "location": "GoogleSteps.i_open_google()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 135368323,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter \"2+2\" in search textbox",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2+2",
+                  "offset": 9
+                }
+              ],
+              "location": "GoogleSteps.i_enter_in_search_textbox(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2188257205,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I should get result as \"4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 24
+                }
+              ],
+              "location": "GoogleSteps.i_should_get_result_as(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Check addition in Google calculator content In order to verify that google calculator work correctly As a user of google I should be able to get correct addition result",
+    "description": "",
+    "id": "check-addition-in-google-calculator-content-in-order-to-verify-that-google-calculator-work-correctly-as-a-user-of-google-i-should-be-able-to-get-correct-addition-result",
+    "keyword": "Feature",
+    "uri": "cucumber/google.feature"
+  }
+]

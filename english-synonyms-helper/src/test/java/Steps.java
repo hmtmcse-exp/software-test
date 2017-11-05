@@ -9,6 +9,7 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -33,6 +34,7 @@ public class Steps {
 
     @Given("^open the url$")
     public void open_the_url() {
+        driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.get("https://translate.google.com");
     }
@@ -69,9 +71,15 @@ public class Steps {
     public void save_the_result(String word) {
 
         String result = findElementBy(By.xpath("//*[@id=\"result_box\"]/span"));
+        WebElement webElement = findElementByRObject(By.className("cd-exp-ar"));
+        try {
+            if (webElement != null) {
+                Actions actions = new Actions(driver);
+                actions.moveToElement(webElement).perform();
+                webElement.click();
+            }
+        } catch (Exception e) {
 
-        if (findElementByRObject(By.className("cd-exp-ar")) != null){
-            driver.findElement(By.className("cd-exp-ar")).click();
         }
 
         String pFp = findElementBy(By.className("gt-cd-pos"));
@@ -81,7 +89,6 @@ public class Steps {
         System.out.println("====================== RESULT ======================");
         System.out.println(result);
         System.out.println("word: " + word);
-
 
 
         System.out.println("pFp: " + MyFileWriter.toUpperFirst(pFp));

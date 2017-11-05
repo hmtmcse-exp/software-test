@@ -21368,7 +21368,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3020738541,
+  "duration": 2574283681,
   "status": "passed"
 });
 formatter.scenario({
@@ -21425,21 +21425,21 @@ formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2593809053,
+  "duration": 3233913261,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 99493970,
+  "duration": 110213672,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 203647367,
+  "duration": 204542069,
   "status": "passed"
 });
 formatter.match({
@@ -21452,14 +21452,14 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 78784754,
+  "duration": 76517943,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 81133382,
+  "duration": 83318964,
   "status": "passed"
 });
 formatter.match({
@@ -21472,15 +21472,15 @@ formatter.match({
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 366987129,
+  "duration": 317895554,
   "status": "passed"
 });
 formatter.after({
-  "duration": 707756660,
+  "duration": 712412275,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1989959168,
+  "duration": 1977065614,
   "status": "passed"
 });
 formatter.scenario({
@@ -21537,22 +21537,23 @@ formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2104685350,
+  "duration": 3186783228,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 95316644,
+  "duration": 122066781,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 188808109,
-  "status": "passed"
+  "duration": 14967115,
+  "error_message": "org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome\u003d61.0.3163.100)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir47556_5268}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d61.0.3163.100, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 4127d0b5ba51dcd25289f94edf218329\n*** Element info: {Using\u003dxpath, value\u003d//*[@id\u003d\"gt-tl-gms\"]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:458)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:361)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)\r\n\tat Steps.select_to_bangla_language(Steps.java:52)\r\n\tat ✽.Then select to bangla language(translate.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -21564,15 +21565,13 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 93250708,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66314065,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -21584,16 +21583,14 @@ formatter.match({
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 721525268,
-  "error_message": "org.openqa.selenium.ElementNotVisibleException: element not visible\n  (Session info: chrome\u003d61.0.3163.100)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir46348_32306}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d61.0.3163.100, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 07f691570d4decdbc8b6356ea7cdddcb\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)\r\n\tat Steps.save_the_result(Steps.java:74)\r\n\tat ✽.Then save the abbotsford result(translate.feature:12)\r\n",
-  "status": "failed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 734941392,
+  "duration": 663444158,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1931778647,
+  "duration": 1942563157,
   "status": "passed"
 });
 formatter.scenario({
@@ -21648,59 +21645,4 @@ formatter.step({
 });
 formatter.match({
   "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 3586942051,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 103105913,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 196800012,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "ability",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 85224200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 70723350,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "ability",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 783126827,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 660716652,
-  "status": "passed"
 });

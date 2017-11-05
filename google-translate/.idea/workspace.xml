@@ -3,47 +3,8 @@
   <component name="ChangeListManager">
     <list id="9da124f9-9963-48be-a042-bf26ff6e3326" name="ignore" comment="" />
     <list default="true" id="708a92f8-0749-4cc6-a1b8-cfe3abcc1756" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../english-synonyms-helper/.idea/gradle.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/3.5-rc-2/file-changes/last-build.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/built.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/modules/english-synonyms-helper.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/modules/english-synonyms-helper_main.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/modules/english-synonyms-helper_test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../src/main/java/empty" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../src/main/resources/empty" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../src/test/java/empty" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../src/test/resources/empty" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/cucumber-with-all-feature-keyword.iml" afterPath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/cucumber-with-all-feature-keyword.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/pom.xml" afterPath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/src/test/resources/all.feature" afterPath="$PROJECT_DIR$/../cucumber-with-all-feature-keyword/src/test/resources/all.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-selenium-driver/.idea/misc.xml" afterPath="$PROJECT_DIR$/../cucumber-with-selenium-driver/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cucumber-with-selenium-driver/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cucumber-with-selenium-driver/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../english-synonyms-helper/reports/test-report/report.js" afterPath="$PROJECT_DIR$/../english-synonyms-helper/reports/test-report/report.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../english-synonyms-helper/src/test/java/Steps.java" afterPath="$PROJECT_DIR$/../english-synonyms-helper/src/test/java/Steps.java" />
     </list>
     <ignored path="google-translate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -825,7 +786,7 @@
       <workItem from="1486100483906" duration="259000" />
       <workItem from="1486100922095" duration="35000" />
       <workItem from="1509843987882" duration="511000" />
-      <workItem from="1509876408611" duration="1165000" />
+      <workItem from="1509876408611" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="comments">
       <created>1484582082084</created>
@@ -884,7 +845,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24071000" />
+    <option name="totallyTimeSpent" value="24380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
