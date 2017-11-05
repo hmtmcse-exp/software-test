@@ -13,8 +13,40 @@ Feature: Testing Google Translate
     Given open synonyms url
     Then put the synonyms <word> to search box
     Then press submit button
+    Then find relevancy list
 
     Examples:
     |word|
-    |a|
-    |abbotsford|
+    |provide|
+    |wonderful|
+    |experience|
+    |arrive|
+    |aquarium|
+    |expanded|
+    |resonably|
+    |along|
+    |stroll|
+    |waterfront|
+    |modernised|
+    |harbour|
+    |craft|
+    |yechts|
+    |amazing|
+    |keen|
+    |relatively|
+    |quiet|
+    |especially|
+    |ancient|
+    |fountain|
+    |as long as|
+    |wherever|
+    |plenty|
+    |entrance|
+    |commentary|
+    |tourist|
+    |office|
+    |rather|
+    |protection|
+    |occasionally|
+    |rainwear|
+    |advised|

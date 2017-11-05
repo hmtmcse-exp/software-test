@@ -5,6 +5,8 @@ import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Element;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -19,6 +21,8 @@ import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 
 /**
  * Created by touhid on 24/07/2016.
@@ -27,6 +31,7 @@ public class Steps {
 
 
     WebDriver driver;
+    String wordLine = "";
 
     @Before
     public void setup() {
@@ -102,9 +107,7 @@ public class Steps {
         System.out.println("synonyms: " + synonyms);
         System.out.println("====================== END RESULT ======================");
 
-        String line =  MyFileWriter.toUpperFirst(word) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
-
-        MyFileWriter.appendToFile(line, "csv\\ielts_official_1_8.csv");
+        wordLine =  MyFileWriter.toUpperFirst(word) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
 
     }
 
@@ -147,10 +150,23 @@ public class Steps {
     public void pressSubmitButton() {
         WebElement translateButton = driver.findElement(By.id("searchAreaSubmit"));
         translateButton.click();
-        try {
-            Thread.sleep(9000l);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+    }
+
+    @Then("^find relevancy list$")
+    public void findRelevancyList() {
+        String body = findElementByRObject(By.className("relevancy-list")).getAttribute("innerHTML");
+        String synonyms = "";
+        int item = 0;
+        for (Element element : Jsoup.parse(body).select("li .text")) {
+            synonyms += element.ownText() + "\n";
+            if (item > 5) {
+                wordLine += "\"" + synonyms + "\",";
+                synonyms = "";
+                item = 0;
+            }
+            item++;
         }
+        wordLine += "\"" + synonyms + "\",";
+        MyFileWriter.appendToFile(wordLine, "csv\\translation.csv");
     }
 }
