@@ -1,0 +1,7 @@
+/out
+.gradle
+.idea
+english-synonyms-helper.iml
+/gradlew
+/gradlew.bat
+gradle

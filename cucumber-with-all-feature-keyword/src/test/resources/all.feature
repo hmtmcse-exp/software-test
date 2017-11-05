@@ -19,7 +19,7 @@ Feature: Here Testing All Keyword which we used in our Feature File
     But the dashboard not found
 
     Examples:
-      |username         |password          |
-      |Tom                     |password1        |
-      |Harry                   |password2        |
-      |Jerry                    |password3        |
+      | username | password  |
+      | Tom      | password1 |
+      | Harry    | password2 |
+      | Jerry    | password3 |
