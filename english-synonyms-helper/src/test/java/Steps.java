@@ -2,27 +2,19 @@ import com.processor.MyFileWriter;
 import cucumber.api.PendingException;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
+import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
-import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
-
 import java.io.File;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.concurrent.TimeUnit;
-import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 
 /**
  * Created by touhid on 24/07/2016.
@@ -32,6 +24,7 @@ public class Steps {
 
     WebDriver driver;
     String wordLine = "";
+    String searchWord = "";
 
     @Before
     public void setup() {
@@ -46,8 +39,6 @@ public class Steps {
 
     @Given("^open the url$")
     public void open_the_url() {
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.get("https://translate.google.com");
     }
 
@@ -70,7 +61,8 @@ public class Steps {
     @Then("^put the ([^\"]*) to input box$")
     public void put_the_to_input_box(String word) {
         WebElement textArea = driver.findElement(By.id("source"));
-        textArea.sendKeys(word);
+//        textArea.sendKeys(word);
+        textArea.sendKeys(searchWord);
     }
 
     @Then("^press translate button$")
@@ -100,14 +92,14 @@ public class Steps {
         System.out.println();
         System.out.println("====================== RESULT ======================");
         System.out.println(result);
-        System.out.println("word: " + word);
+        System.out.println("word: " + searchWord);
 
 
         System.out.println("pFp: " + MyFileWriter.toUpperFirst(pFp));
         System.out.println("synonyms: " + synonyms);
         System.out.println("====================== END RESULT ======================");
 
-        wordLine =  MyFileWriter.toUpperFirst(word) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
+        wordLine +=  MyFileWriter.toUpperFirst(searchWord) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
 
     }
 
@@ -143,7 +135,8 @@ public class Steps {
     @Then("^put the synonyms ([^\"]*) to search box$")
     public void putTheSynonymsWordToSearchBox(String word) {
         WebElement textArea = driver.findElement(By.id("searchAreaInputText"));
-        textArea.sendKeys(word);
+//        textArea.sendKeys(word);
+        textArea.sendKeys(searchWord);
     }
 
     @Then("^press submit button$")
@@ -168,5 +161,34 @@ public class Steps {
         }
         wordLine += "\"" + synonyms + "\",";
         MyFileWriter.appendToFile(wordLine, "csv\\translation.csv");
+    }
+
+    @Given("^open oxford dictionaries url$")
+    public void openOxfordDictionariesUrl() {
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        driver.get("https://en.oxforddictionaries.com/");
+    }
+
+
+    @And("^put the ([^\"]*) to query box$")
+    public void putTheWordToQueryBox(String word) {
+        WebElement textArea = driver.findElement(By.id("query"));
+        textArea.sendKeys(word);
+        wordLine +=  MyFileWriter.toUpperFirst(word) + ",";
+    }
+
+    @And("^press enter into query box$")
+    public void pressEnterIntoQueryBox() {
+        WebElement textArea = driver.findElement(By.id("query"));
+        textArea.sendKeys(Keys.RETURN);
+    }
+
+    @And("^grab the real word$")
+    public void grabTheRealWord() {
+        String result = findElementBy(By.xpath("//h2[@class=\"hwg\"]/span[@class=\"hw\"]"));
+        if (result != null || result.equals("")){
+            searchWord = result;
+        }
     }
 }

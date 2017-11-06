@@ -4,6 +4,10 @@ Feature: Testing Google Translate
 
 
   Scenario Outline:
+    Given open oxford dictionaries url
+    And put the <word> to query box
+    And press enter into query box
+    And grab the real word
     Given open the url
     When select from english language
     Then select to bangla language
@@ -17,36 +21,7 @@ Feature: Testing Google Translate
 
     Examples:
     |word|
-    |provide|
-    |wonderful|
-    |experience|
-    |arrive|
-    |aquarium|
-    |expanded|
-    |resonably|
-    |along|
-    |stroll|
-    |waterfront|
-    |modernised|
-    |harbour|
-    |craft|
-    |yechts|
-    |amazing|
-    |keen|
-    |relatively|
-    |quiet|
-    |especially|
-    |ancient|
-    |fountain|
-    |as long as|
-    |wherever|
-    |plenty|
-    |entrance|
-    |commentary|
-    |tourist|
-    |office|
-    |rather|
-    |protection|
-    |occasionally|
-    |rainwear|
-    |advised|
+    |technologies|
+    |department|
+    |thanks|
+
