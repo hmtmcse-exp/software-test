@@ -21,24 +21,90 @@ Feature: Testing Google Translate
 
     Examples:
     |word|
+    |organiser|
+    |suggested|
+    |takes place|
+    |circular|
+    |around|
+    |courts|
+    |used to be|
+    |lengthened|
+    |training|
+    |gradually|
+    |improve|
+    |cross|
+    |volunteers|
+    |register|
+    |cost|
+    |increased|
+    |enough|
+    |information|
+    |mentioned|
+    |helping out|
+    |complicated|
+    |activities|
+    |involves|
+    |stuff|
+    |guiding|
+    |races|
+    |illustrate|
+    |bought|
+    |whether|
+    |phoneline|
+    |lasting|
+    |approximately|
+    |general|
+    |coast|
+    |west|
+    |attracted|
+    |provide|
+    |wonderful|
+    |experience|
+    |arrive|
+    |aquarium|
+    |expanded|
+    |reasonably|
+    |along|
+    |stroll|
+    |waterfront|
+    |modernised|
+    |harbour|
+    |craft|
+    |yachts|
+    |amazing|
+    |keen|
+    |relatively|
+    |quiet|
+    |especially|
+    |ancient|
+    |fountain|
+    |as long as|
+    |attractions|
+    |wherever|
+    |plenty|
+    |entrance|
+    |guarantee|
+    |commentary|
+    |tourist|
+    |protection|
+    |occasionally|
+    |rainwear|
+    |advised|
     |technologies|
     |department|
     |thanks|
-    |responsible|
     |admissions|
-    |process|
     |enrolments|
     |suit|
     |although|
+    |responsible|
     |introduced|
     |experiencing|
-    |tutors|
     |increasing|
     |crashed|
     |takes ages|
     |timetabling|
     |options|
-    |never|
     |seemed|
     |efficient|
     |obviously|
@@ -50,17 +116,14 @@ Feature: Testing Google Translate
     |although|
     |intake|
     |processing|
-    |afraid|
     |initial|
     |estimate|
     |improve|
     |least|
     |discussed|
-    |keen|
     |ahead|
     |mentioned|
     |analyst|
-    |identify|
     |different|
     |conference|
     |origins|
@@ -71,16 +134,14 @@ Feature: Testing Google Translate
     |glassware|
     |concrete|
     |dig up|
-    |clay|
     |temperature|
     |transformed|
     |rigid|
     |figurines|
-    |statues|
+    |status|
     |depicted|
     |centred|
-    |grain|
-    |drawbacks|
+    |drawback|
     |brittle|
     |shattered|
     |dropped|
@@ -89,16 +150,21 @@ Feature: Testing Google Translate
     |appearance|
     |perfected|
     |porcelain|
+    |lighter|
     |commodity|
     |spies|
     |merchandise|
     |unravel|
     |alchemist|
     |lead|
+    |unfortunately|
+    |experimentation|
     |quartz|
-    |sand|
+    |send|
+    |sent|
     |crystalline|
     |occurring|
+    |innovative|
     |widespread|
     |innovative|
     |draughty|
@@ -106,6 +172,7 @@ Feature: Testing Google Translate
     |observed|
     |numerous|
     |intact|
+    |empire|
     |harbours|
     |hardening|
     |dissolving|

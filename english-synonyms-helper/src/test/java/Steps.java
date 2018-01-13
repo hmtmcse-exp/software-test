@@ -26,6 +26,8 @@ public class Steps {
     String wordLine = "";
     String searchWord = "";
 
+    String name = "official_listening_1" + ".csv";
+
     @Before
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "resources/windows/chromedriver_v2.33.exe");
@@ -88,6 +90,7 @@ public class Steps {
 
         String pFp = findElementBy(By.className("gt-cd-pos"));
         String synonyms = findElementBy(By.className("gt-syn-span"));
+        String englishMeaning = findElementBy(By.className("gt-def-row"));
 
         System.out.println();
         System.out.println("====================== RESULT ======================");
@@ -97,9 +100,10 @@ public class Steps {
 
         System.out.println("pFp: " + MyFileWriter.toUpperFirst(pFp));
         System.out.println("synonyms: " + synonyms);
+        System.out.println("englishMeaning: " + englishMeaning);
         System.out.println("====================== END RESULT ======================");
 
-        wordLine +=  MyFileWriter.toUpperFirst(searchWord) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",,";
+        wordLine +=  MyFileWriter.toUpperFirst(searchWord) + "," + result + "," + MyFileWriter.toUpperFirst(pFp) + ",\"" + MyFileWriter.commaToList(synonyms) + "\",\"" + englishMeaning + "\",,";
 
     }
 
@@ -160,7 +164,7 @@ public class Steps {
             item++;
         }
         wordLine += "\"" + synonyms + "\",";
-        MyFileWriter.appendToFile(wordLine, "csv\\translation.csv");
+        MyFileWriter.appendToFile(wordLine, "csv\\" + name);
     }
 
     @Given("^open oxford dictionaries url$")
