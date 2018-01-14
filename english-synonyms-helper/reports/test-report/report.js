@@ -105,1115 +105,870 @@ formatter.examples({
     },
     {
       "cells": [
-        "organiser"
+        "phoning"
       ],
       "line": 24,
       "id": "testing-google-translate;;;2"
     },
     {
       "cells": [
-        "suggested"
+        "competition"
       ],
       "line": 25,
       "id": "testing-google-translate;;;3"
     },
     {
       "cells": [
-        "takes place"
+        "advert"
       ],
       "line": 26,
       "id": "testing-google-translate;;;4"
     },
     {
       "cells": [
-        "circular"
+        "magazine"
       ],
       "line": 27,
       "id": "testing-google-translate;;;5"
     },
     {
       "cells": [
-        "around"
+        "certainly"
       ],
       "line": 28,
       "id": "testing-google-translate;;;6"
     },
     {
       "cells": [
-        "courts"
+        "organiser"
       ],
       "line": 29,
       "id": "testing-google-translate;;;7"
     },
     {
       "cells": [
-        "used to be"
+        "erm"
       ],
       "line": 30,
       "id": "testing-google-translate;;;8"
     },
     {
       "cells": [
-        "lengthened"
+        "freedom"
       ],
       "line": 31,
       "id": "testing-google-translate;;;9"
     },
     {
       "cells": [
-        "training"
+        "guidelines"
       ],
       "line": 32,
       "id": "testing-google-translate;;;10"
     },
     {
       "cells": [
-        "gradually"
+        "reduced"
       ],
       "line": 33,
       "id": "testing-google-translate;;;11"
     },
     {
       "cells": [
-        "improve"
+        "particular"
       ],
       "line": 34,
       "id": "testing-google-translate;;;12"
     },
     {
       "cells": [
-        "cross"
+        "surprise"
       ],
       "line": 35,
       "id": "testing-google-translate;;;13"
     },
     {
       "cells": [
-        "volunteers"
+        "ending"
       ],
       "line": 36,
       "id": "testing-google-translate;;;14"
     },
     {
       "cells": [
-        "register"
+        "advertising"
       ],
       "line": 37,
       "id": "testing-google-translate;;;15"
     },
     {
       "cells": [
-        "cost"
+        "announce"
       ],
       "line": 38,
       "id": "testing-google-translate;;;16"
     },
     {
       "cells": [
-        "increased"
+        "judged"
       ],
       "line": 39,
       "id": "testing-google-translate;;;17"
     },
     {
       "cells": [
-        "enough"
+        "prizes"
       ],
       "line": 40,
       "id": "testing-google-translate;;;18"
     },
     {
       "cells": [
-        "information"
+        "fantastic"
       ],
       "line": 41,
       "id": "testing-google-translate;;;19"
     },
     {
       "cells": [
-        "mentioned"
+        "eventually"
       ],
       "line": 42,
       "id": "testing-google-translate;;;20"
     },
     {
       "cells": [
-        "helping out"
+        "stories"
       ],
       "line": 43,
       "id": "testing-google-translate;;;21"
     },
     {
       "cells": [
-        "complicated"
+        "brilliant"
       ],
       "line": 44,
       "id": "testing-google-translate;;;22"
     },
     {
       "cells": [
-        "activities"
+        "straight"
       ],
       "line": 45,
       "id": "testing-google-translate;;;23"
     },
     {
       "cells": [
-        "involves"
+        "guess"
       ],
       "line": 46,
       "id": "testing-google-translate;;;24"
     },
     {
       "cells": [
-        "stuff"
+        "surprised"
       ],
       "line": 47,
       "id": "testing-google-translate;;;25"
     },
     {
       "cells": [
-        "guiding"
+        "crocodiles"
       ],
       "line": 48,
       "id": "testing-google-translate;;;26"
     },
     {
       "cells": [
-        "races"
+        "restaurant"
       ],
       "line": 49,
       "id": "testing-google-translate;;;27"
     },
     {
       "cells": [
-        "illustrate"
+        "finished"
       ],
       "line": 50,
       "id": "testing-google-translate;;;28"
     },
     {
       "cells": [
-        "bought"
+        "splash"
       ],
       "line": 51,
       "id": "testing-google-translate;;;29"
     },
     {
       "cells": [
-        "whether"
+        "exciting"
       ],
       "line": 52,
       "id": "testing-google-translate;;;30"
     },
     {
       "cells": [
-        "phoneline"
+        "scary"
       ],
       "line": 53,
       "id": "testing-google-translate;;;31"
     },
     {
       "cells": [
-        "lasting"
+        "wearing"
       ],
       "line": 54,
       "id": "testing-google-translate;;;32"
     },
     {
       "cells": [
-        "approximately"
+        "feeding"
       ],
       "line": 55,
       "id": "testing-google-translate;;;33"
     },
     {
       "cells": [
-        "general"
+        "especially"
       ],
       "line": 56,
       "id": "testing-google-translate;;;34"
     },
     {
       "cells": [
-        "coast"
+        "seals"
       ],
       "line": 57,
       "id": "testing-google-translate;;;35"
     },
     {
       "cells": [
-        "west"
+        "although"
       ],
       "line": 58,
       "id": "testing-google-translate;;;36"
     },
     {
       "cells": [
-        "attracted"
+        "excited"
       ],
       "line": 59,
       "id": "testing-google-translate;;;37"
     },
     {
       "cells": [
-        "provide"
+        "amazed"
       ],
       "line": 60,
       "id": "testing-google-translate;;;38"
     },
     {
       "cells": [
-        "wonderful"
+        "frightening"
       ],
       "line": 61,
       "id": "testing-google-translate;;;39"
     },
     {
       "cells": [
-        "experience"
+        "unsure"
       ],
       "line": 62,
       "id": "testing-google-translate;;;40"
     },
     {
       "cells": [
-        "arrive"
+        "perfectly"
       ],
       "line": 63,
       "id": "testing-google-translate;;;41"
     },
     {
       "cells": [
-        "aquarium"
+        "impressed"
       ],
       "line": 64,
       "id": "testing-google-translate;;;42"
     },
     {
       "cells": [
-        "expanded"
+        "organise"
       ],
       "line": 65,
       "id": "testing-google-translate;;;43"
     },
     {
       "cells": [
-        "reasonably"
+        "afterwards"
       ],
       "line": 66,
       "id": "testing-google-translate;;;44"
     },
     {
       "cells": [
-        "along"
+        "conservation"
       ],
       "line": 67,
       "id": "testing-google-translate;;;45"
     },
     {
       "cells": [
-        "stroll"
+        "aware"
       ],
       "line": 68,
       "id": "testing-google-translate;;;46"
     },
     {
       "cells": [
-        "waterfront"
+        "worrying"
       ],
       "line": 69,
       "id": "testing-google-translate;;;47"
     },
     {
       "cells": [
-        "modernised"
+        "situation"
       ],
       "line": 70,
       "id": "testing-google-translate;;;48"
     },
     {
       "cells": [
-        "harbour"
+        "species"
       ],
       "line": 71,
       "id": "testing-google-translate;;;49"
     },
     {
       "cells": [
-        "craft"
+        "petition"
       ],
       "line": 72,
       "id": "testing-google-translate;;;50"
     },
     {
       "cells": [
-        "yachts"
+        "signatures"
       ],
       "line": 73,
       "id": "testing-google-translate;;;51"
     },
     {
       "cells": [
-        "amazing"
+        "seriously"
       ],
       "line": 74,
       "id": "testing-google-translate;;;52"
     },
     {
       "cells": [
-        "keen"
+        "discover"
       ],
       "line": 75,
       "id": "testing-google-translate;;;53"
     },
     {
       "cells": [
-        "relatively"
+        "learnt"
       ],
       "line": 76,
       "id": "testing-google-translate;;;54"
     },
     {
       "cells": [
-        "quiet"
+        "cave"
       ],
       "line": 77,
       "id": "testing-google-translate;;;55"
     },
     {
       "cells": [
-        "especially"
+        "beyond"
       ],
       "line": 78,
       "id": "testing-google-translate;;;56"
     },
     {
       "cells": [
-        "ancient"
+        "endangered"
       ],
       "line": 79,
       "id": "testing-google-translate;;;57"
     },
     {
       "cells": [
-        "fountain"
+        "overlooked"
       ],
       "line": 80,
       "id": "testing-google-translate;;;58"
     },
     {
       "cells": [
-        "as long as"
+        "apologise"
       ],
       "line": 81,
       "id": "testing-google-translate;;;59"
     },
     {
       "cells": [
-        "attractions"
+        "entertained"
       ],
       "line": 82,
       "id": "testing-google-translate;;;60"
     },
     {
       "cells": [
-        "wherever"
+        "directly"
       ],
       "line": 83,
       "id": "testing-google-translate;;;61"
     },
     {
       "cells": [
-        "plenty"
+        "opposite"
       ],
       "line": 84,
       "id": "testing-google-translate;;;62"
     },
     {
       "cells": [
-        "entrance"
+        "expecting"
       ],
       "line": 85,
       "id": "testing-google-translate;;;63"
     },
     {
       "cells": [
-        "guarantee"
+        "hatched"
       ],
       "line": 86,
       "id": "testing-google-translate;;;64"
     },
     {
       "cells": [
-        "commentary"
+        "quieter"
       ],
       "line": 87,
       "id": "testing-google-translate;;;65"
     },
     {
       "cells": [
-        "tourist"
+        "accent"
       ],
       "line": 88,
       "id": "testing-google-translate;;;66"
     },
     {
       "cells": [
-        "protection"
+        "career"
       ],
       "line": 89,
       "id": "testing-google-translate;;;67"
     },
     {
       "cells": [
-        "occasionally"
+        "decide"
       ],
       "line": 90,
       "id": "testing-google-translate;;;68"
     },
     {
       "cells": [
-        "rainwear"
+        "suppose"
       ],
       "line": 91,
       "id": "testing-google-translate;;;69"
     },
     {
       "cells": [
-        "advised"
+        "theory"
       ],
       "line": 92,
       "id": "testing-google-translate;;;70"
     },
     {
       "cells": [
-        "technologies"
+        "heavy"
       ],
       "line": 93,
       "id": "testing-google-translate;;;71"
     },
     {
       "cells": [
-        "department"
+        "field"
       ],
       "line": 94,
       "id": "testing-google-translate;;;72"
     },
     {
       "cells": [
-        "thanks"
+        "nearby"
       ],
       "line": 95,
       "id": "testing-google-translate;;;73"
     },
     {
       "cells": [
-        "admissions"
+        "cope"
       ],
       "line": 96,
       "id": "testing-google-translate;;;74"
     },
     {
       "cells": [
-        "enrolments"
+        "lecture"
       ],
       "line": 97,
       "id": "testing-google-translate;;;75"
     },
     {
       "cells": [
-        "suit"
+        "knowledgeable"
       ],
       "line": 98,
       "id": "testing-google-translate;;;76"
     },
     {
       "cells": [
-        "although"
+        "seminars"
       ],
       "line": 99,
       "id": "testing-google-translate;;;77"
     },
     {
       "cells": [
-        "responsible"
+        "frustrating"
       ],
       "line": 100,
       "id": "testing-google-translate;;;78"
     },
     {
       "cells": [
-        "introduced"
+        "perhaps"
       ],
       "line": 101,
       "id": "testing-google-translate;;;79"
     },
     {
       "cells": [
-        "experiencing"
+        "appear"
       ],
       "line": 102,
       "id": "testing-google-translate;;;80"
     },
     {
       "cells": [
-        "increasing"
+        "tutor"
       ],
       "line": 103,
       "id": "testing-google-translate;;;81"
     },
     {
       "cells": [
-        "crashed"
+        "approachable"
       ],
       "line": 104,
       "id": "testing-google-translate;;;82"
     },
     {
       "cells": [
-        "takes ages"
+        "dreading"
       ],
       "line": 105,
       "id": "testing-google-translate;;;83"
     },
     {
       "cells": [
-        "timetabling"
+        "assessment"
       ],
       "line": 106,
       "id": "testing-google-translate;;;84"
     },
     {
       "cells": [
-        "options"
+        "residence"
       ],
       "line": 107,
       "id": "testing-google-translate;;;85"
     },
     {
       "cells": [
-        "seemed"
+        "noisy"
       ],
       "line": 108,
       "id": "testing-google-translate;;;86"
     },
     {
       "cells": [
-        "efficient"
+        "somewhere"
       ],
       "line": 109,
       "id": "testing-google-translate;;;87"
     },
     {
       "cells": [
-        "obviously"
+        "dash"
       ],
       "line": 110,
       "id": "testing-google-translate;;;88"
     },
     {
       "cells": [
-        "schedule"
+        "presentation"
       ],
       "line": 111,
       "id": "testing-google-translate;;;89"
     },
     {
       "cells": [
-        "decide"
+        "sociology"
       ],
       "line": 112,
       "id": "testing-google-translate;;;90"
     },
     {
       "cells": [
-        "prefer"
+        "prepare"
       ],
       "line": 113,
       "id": "testing-google-translate;;;91"
     },
     {
       "cells": [
-        "quite"
+        "principles"
       ],
       "line": 114,
       "id": "testing-google-translate;;;92"
     },
     {
       "cells": [
-        "probably"
+        "across"
       ],
       "line": 115,
       "id": "testing-google-translate;;;93"
     },
     {
       "cells": [
-        "although"
+        "audience"
       ],
       "line": 116,
       "id": "testing-google-translate;;;94"
     },
     {
       "cells": [
-        "intake"
+        "instance"
       ],
       "line": 117,
       "id": "testing-google-translate;;;95"
     },
     {
       "cells": [
-        "processing"
+        "group"
       ],
       "line": 118,
       "id": "testing-google-translate;;;96"
     },
     {
       "cells": [
-        "initial"
+        "bear"
       ],
       "line": 119,
       "id": "testing-google-translate;;;97"
     },
     {
       "cells": [
-        "estimate"
+        "supportive"
       ],
       "line": 120,
       "id": "testing-google-translate;;;98"
     },
     {
       "cells": [
-        "improve"
+        "gathering"
       ],
       "line": 121,
       "id": "testing-google-translate;;;99"
     },
     {
       "cells": [
-        "least"
+        "shocking"
       ],
       "line": 122,
       "id": "testing-google-translate;;;100"
     },
     {
       "cells": [
-        "discussed"
+        "relevant"
       ],
       "line": 123,
       "id": "testing-google-translate;;;101"
     },
     {
       "cells": [
-        "ahead"
+        "covering"
       ],
       "line": 124,
       "id": "testing-google-translate;;;102"
     },
     {
       "cells": [
-        "mentioned"
+        "agenda"
       ],
       "line": 125,
       "id": "testing-google-translate;;;103"
     },
     {
       "cells": [
-        "analyst"
+        "detailed"
       ],
       "line": 126,
       "id": "testing-google-translate;;;104"
     },
     {
       "cells": [
-        "different"
+        "summarise"
       ],
       "line": 127,
       "id": "testing-google-translate;;;105"
     },
     {
       "cells": [
-        "conference"
+        "consistent"
       ],
       "line": 128,
       "id": "testing-google-translate;;;106"
     },
     {
       "cells": [
-        "origins"
+        "diagrams"
       ],
       "line": 129,
       "id": "testing-google-translate;;;107"
     },
     {
       "cells": [
-        "inorganic"
+        "histogram"
       ],
       "line": 130,
       "id": "testing-google-translate;;;108"
     },
     {
       "cells": [
-        "solids"
+        "impression"
       ],
       "line": 131,
       "id": "testing-google-translate;;;109"
     },
     {
       "cells": [
-        "earthenware"
+        "enthusiastic"
       ],
       "line": 132,
       "id": "testing-google-translate;;;110"
     },
     {
       "cells": [
-        "crockery"
+        "energetic"
       ],
       "line": 133,
       "id": "testing-google-translate;;;111"
     },
     {
       "cells": [
-        "glassware"
+        "rapidly"
       ],
       "line": 134,
       "id": "testing-google-translate;;;112"
     },
     {
       "cells": [
-        "concrete"
+        "unfamiliar"
       ],
       "line": 135,
       "id": "testing-google-translate;;;113"
     },
     {
       "cells": [
-        "dig up"
+        "terrified"
       ],
       "line": 136,
       "id": "testing-google-translate;;;114"
     },
     {
       "cells": [
-        "temperature"
+        "uncomfortable"
       ],
       "line": 137,
       "id": "testing-google-translate;;;115"
     },
     {
       "cells": [
-        "transformed"
+        "absorb"
       ],
       "line": 138,
       "id": "testing-google-translate;;;116"
     },
     {
       "cells": [
-        "rigid"
+        "thought"
       ],
       "line": 139,
       "id": "testing-google-translate;;;117"
     },
     {
       "cells": [
-        "figurines"
+        "interruptions"
       ],
       "line": 140,
       "id": "testing-google-translate;;;118"
     },
     {
       "cells": [
-        "status"
+        "encouraged"
       ],
       "line": 141,
       "id": "testing-google-translate;;;119"
     },
     {
       "cells": [
-        "depicted"
+        "feedback"
       ],
       "line": 142,
       "id": "testing-google-translate;;;120"
     },
     {
       "cells": [
-        "centred"
+        "ensure"
       ],
       "line": 143,
       "id": "testing-google-translate;;;121"
     },
     {
       "cells": [
-        "drawback"
+        "unwelcome"
       ],
       "line": 144,
       "id": "testing-google-translate;;;122"
     },
     {
       "cells": [
-        "brittle"
+        "beforehand"
       ],
       "line": 145,
       "id": "testing-google-translate;;;123"
     },
     {
       "cells": [
-        "shattered"
+        "prediction"
       ],
       "line": 146,
       "id": "testing-google-translate;;;124"
-    },
-    {
-      "cells": [
-        "dropped"
-      ],
-      "line": 147,
-      "id": "testing-google-translate;;;125"
-    },
-    {
-      "cells": [
-        "despite"
-      ],
-      "line": 148,
-      "id": "testing-google-translate;;;126"
-    },
-    {
-      "cells": [
-        "minerals"
-      ],
-      "line": 149,
-      "id": "testing-google-translate;;;127"
-    },
-    {
-      "cells": [
-        "appearance"
-      ],
-      "line": 150,
-      "id": "testing-google-translate;;;128"
-    },
-    {
-      "cells": [
-        "perfected"
-      ],
-      "line": 151,
-      "id": "testing-google-translate;;;129"
-    },
-    {
-      "cells": [
-        "porcelain"
-      ],
-      "line": 152,
-      "id": "testing-google-translate;;;130"
-    },
-    {
-      "cells": [
-        "lighter"
-      ],
-      "line": 153,
-      "id": "testing-google-translate;;;131"
-    },
-    {
-      "cells": [
-        "commodity"
-      ],
-      "line": 154,
-      "id": "testing-google-translate;;;132"
-    },
-    {
-      "cells": [
-        "spies"
-      ],
-      "line": 155,
-      "id": "testing-google-translate;;;133"
-    },
-    {
-      "cells": [
-        "merchandise"
-      ],
-      "line": 156,
-      "id": "testing-google-translate;;;134"
-    },
-    {
-      "cells": [
-        "unravel"
-      ],
-      "line": 157,
-      "id": "testing-google-translate;;;135"
-    },
-    {
-      "cells": [
-        "alchemist"
-      ],
-      "line": 158,
-      "id": "testing-google-translate;;;136"
-    },
-    {
-      "cells": [
-        "lead"
-      ],
-      "line": 159,
-      "id": "testing-google-translate;;;137"
-    },
-    {
-      "cells": [
-        "unfortunately"
-      ],
-      "line": 160,
-      "id": "testing-google-translate;;;138"
-    },
-    {
-      "cells": [
-        "experimentation"
-      ],
-      "line": 161,
-      "id": "testing-google-translate;;;139"
-    },
-    {
-      "cells": [
-        "quartz"
-      ],
-      "line": 162,
-      "id": "testing-google-translate;;;140"
-    },
-    {
-      "cells": [
-        "send"
-      ],
-      "line": 163,
-      "id": "testing-google-translate;;;141"
-    },
-    {
-      "cells": [
-        "sent"
-      ],
-      "line": 164,
-      "id": "testing-google-translate;;;142"
-    },
-    {
-      "cells": [
-        "crystalline"
-      ],
-      "line": 165,
-      "id": "testing-google-translate;;;143"
-    },
-    {
-      "cells": [
-        "occurring"
-      ],
-      "line": 166,
-      "id": "testing-google-translate;;;144"
-    },
-    {
-      "cells": [
-        "innovative"
-      ],
-      "line": 167,
-      "id": "testing-google-translate;;;145"
-    },
-    {
-      "cells": [
-        "widespread"
-      ],
-      "line": 168,
-      "id": "testing-google-translate;;;146"
-    },
-    {
-      "cells": [
-        "innovative"
-      ],
-      "line": 169,
-      "id": "testing-google-translate;;;147"
-    },
-    {
-      "cells": [
-        "draughty"
-      ],
-      "line": 170,
-      "id": "testing-google-translate;;;148"
-    },
-    {
-      "cells": [
-        "volcanic"
-      ],
-      "line": 171,
-      "id": "testing-google-translate;;;149"
-    },
-    {
-      "cells": [
-        "observed"
-      ],
-      "line": 172,
-      "id": "testing-google-translate;;;150"
-    },
-    {
-      "cells": [
-        "numerous"
-      ],
-      "line": 173,
-      "id": "testing-google-translate;;;151"
-    },
-    {
-      "cells": [
-        "intact"
-      ],
-      "line": 174,
-      "id": "testing-google-translate;;;152"
-    },
-    {
-      "cells": [
-        "empire"
-      ],
-      "line": 175,
-      "id": "testing-google-translate;;;153"
-    },
-    {
-      "cells": [
-        "harbours"
-      ],
-      "line": 176,
-      "id": "testing-google-translate;;;154"
-    },
-    {
-      "cells": [
-        "hardening"
-      ],
-      "line": 177,
-      "id": "testing-google-translate;;;155"
-    },
-    {
-      "cells": [
-        "dissolving"
-      ],
-      "line": 178,
-      "id": "testing-google-translate;;;156"
-    },
-    {
-      "cells": [
-        "mass"
-      ],
-      "line": 179,
-      "id": "testing-google-translate;;;157"
-    },
-    {
-      "cells": [
-        "significant"
-      ],
-      "line": 180,
-      "id": "testing-google-translate;;;158"
-    },
-    {
-      "cells": [
-        "contribution"
-      ],
-      "line": 181,
-      "id": "testing-google-translate;;;159"
     }
   ],
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6652396297,
+  "duration": 6872487480,
   "status": "passed"
 });
 formatter.scenario({
@@ -1221,6 +976,1126 @@ formatter.scenario({
   "name": "",
   "description": "",
   "id": "testing-google-translate;;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the phoning to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the phoning to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the phoning result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms phoning to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 8965336226,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "phoning",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 75028012,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3046611905,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 44512830,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 3050573697,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 98959465,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 169797244,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "phoning",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 78160790,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 59923938,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "phoning",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 15434319442,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3328337839,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "phoning",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 81423770,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2254218312,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 101983154,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1361775539,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4649044170,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 25,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the competition to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the competition to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the competition result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms competition to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 30001662721,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "competition",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 99790826,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4283429123,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 47617749,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1623482254,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85463566,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 167085572,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "competition",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 89776670,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 70476204,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "competition",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 384634875,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4210636254,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "competition",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 219485624,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1298830553,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 32634786,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1384124915,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4771954148,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 26,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the advert to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the advert to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the advert result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms advert to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 17447220045,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "advert",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 56661543,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 300046974361,
+  "error_message": "org.openqa.selenium.TimeoutException: timeout\n  (Session info: chrome\u003d63.0.3239.132)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir11556_27796}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d63.0.3239.132, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: f4e4705db60b90bcd73d3277f6949d5f\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)\r\n\tat Steps.pressEnterIntoQueryBox(Steps.java:188)\r\n\tat ✽.And press enter into query box(translate.feature:9)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "advert",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "advert",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "advert",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.after({
+  "duration": 1396348113,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4945537822,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 27,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;5",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the magazine to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the magazine to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the magazine result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms magazine to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 11365532351,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "magazine",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 68063645,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3743699329,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 31601963,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 2013934892,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 93854296,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 158133565,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "magazine",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 78219147,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 59398728,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "magazine",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 434864591,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 5153180298,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "magazine",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 184578160,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1986682690,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 36737337,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1450614694,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4634335981,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 28,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;6",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the certainly to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the certainly to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the certainly result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms certainly to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 10638773129,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "certainly",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 63287501,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4082281523,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 49525626,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1855275533,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 98323408,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 157565249,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "certainly",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 79979812,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 76807446,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "certainly",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 1370457173,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 5019429203,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "certainly",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 81852207,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 3268127105,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 33541218,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1432276670,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4773157348,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 29,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;7",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -1316,7 +2191,7 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7245613217,
+  "duration": 14072950051,
   "status": "passed"
 });
 formatter.match({
@@ -1329,42 +2204,42 @@ formatter.match({
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 67240789,
+  "duration": 63747022,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2631874450,
+  "duration": 4625204504,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 39424669,
+  "duration": 42287951,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2354648713,
+  "duration": 2400850656,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 115290494,
+  "duration": 101111912,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 190324958,
+  "duration": 155624528,
   "status": "passed"
 });
 formatter.match({
@@ -1377,14 +2252,14 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 122092108,
+  "duration": 86730988,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 83499679,
+  "duration": 58727189,
   "status": "passed"
 });
 formatter.match({
@@ -1397,14 +2272,14 @@ formatter.match({
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 387213705,
+  "duration": 450273352,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3711076860,
+  "duration": 4172891314,
   "status": "passed"
 });
 formatter.match({
@@ -1417,1159 +2292,29 @@ formatter.match({
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 66350779,
+  "duration": 63547026,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1515787199,
+  "duration": 1745359411,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 104001292,
+  "duration": 36403033,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1725273037,
+  "duration": 1294093411,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5021189576,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 25,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the suggested to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the suggested to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the suggested result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms suggested to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11777513268,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suggested",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 89835027,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4764980397,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 39588888,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1872787474,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 127026899,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 219321698,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suggested",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 86069418,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 73171454,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suggested",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 421995951,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3763937311,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suggested",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 61927413,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1860180999,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 35917119,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1666731475,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 5087792842,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 26,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the takes place to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the takes place to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the takes place result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms takes place to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12426201140,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "takes place",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 65077199,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3811296415,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 65049341,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2381843145,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 105144670,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 189901800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "takes place",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 113769999,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 77285149,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "takes place",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5403641799,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3837109352,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "takes place",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 71534539,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1681187470,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 33471717,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1733854964,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 5070723706,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 27,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;5",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the circular to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the circular to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the circular result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms circular to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7395868945,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "circular",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 81661595,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2788104536,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 37445240,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1735423259,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 126836288,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 266461744,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "circular",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 136747219,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 75020975,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "circular",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 421946099,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3163995903,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "circular",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 68606156,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2532585666,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 29933963,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1561358364,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4950362940,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 28,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;6",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the around to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the around to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the around result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms around to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7072530706,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "around",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 61197517,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2846566334,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 42480615,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1613747565,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 108186247,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 184535639,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "around",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 100802241,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 88168200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "around",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 404092816,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3104655824,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "around",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 64047016,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1505802662,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28442793,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1588361011,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4952257033,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 29,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;7",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the courts to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the courts to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the courts result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms courts to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12320400766,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "courts",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 79296543,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2554388132,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 48879892,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1552135394,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 116445015,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 220066256,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "courts",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 88081398,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 83240447,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "courts",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 385634560,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4049894240,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "courts",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 239165848,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1445537090,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 72308130,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1578071496,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4904431372,
+  "duration": 4633444211,
   "status": "passed"
 });
 formatter.scenario({
@@ -2593,7 +2338,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the used to be to query box",
+  "name": "put the erm to query box",
   "matchedColumns": [
     0
   ],
@@ -2626,7 +2371,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the used to be to input box",
+  "name": "put the erm to input box",
   "matchedColumns": [
     0
   ],
@@ -2639,7 +2384,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the used to be result",
+  "name": "save the erm result",
   "matchedColumns": [
     0
   ],
@@ -2652,7 +2397,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms used to be to search box",
+  "name": "put the synonyms erm to search box",
   "matchedColumns": [
     0
   ],
@@ -2672,130 +2417,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12048816843,
+  "duration": 17632807567,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "used to be",
+      "val": "erm",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 71727790,
+  "duration": 56858900,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3062691620,
+  "duration": 4560036984,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 38184226,
+  "duration": 58196702,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1623322727,
+  "duration": 2806641969,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 122623475,
+  "duration": 97225192,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 213750263,
+  "duration": 164022882,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "used to be",
+      "val": "erm",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 114265589,
+  "duration": 61596335,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66369254,
+  "duration": 86863536,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "used to be",
+      "val": "erm",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 15407346998,
+  "duration": 5430009562,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3409696801,
+  "duration": 3573379808,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "used to be",
+      "val": "erm",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 64020624,
+  "duration": 59026302,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2679166399,
+  "duration": 2665005705,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 32173212,
+  "duration": 24756362,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1327094757,
+  "duration": 1259767753,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4626150232,
+  "duration": 4632085589,
   "status": "passed"
 });
 formatter.scenario({
@@ -2819,7 +2564,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the lengthened to query box",
+  "name": "put the freedom to query box",
   "matchedColumns": [
     0
   ],
@@ -2852,7 +2597,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the lengthened to input box",
+  "name": "put the freedom to input box",
   "matchedColumns": [
     0
   ],
@@ -2865,7 +2610,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the lengthened result",
+  "name": "save the freedom result",
   "matchedColumns": [
     0
   ],
@@ -2878,7 +2623,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms lengthened to search box",
+  "name": "put the synonyms freedom to search box",
   "matchedColumns": [
     0
   ],
@@ -2898,130 +2643,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12216465454,
+  "duration": 16031801665,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lengthened",
+      "val": "freedom",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 71670020,
+  "duration": 68930783,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3223457973,
+  "duration": 2822270081,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 56821657,
+  "duration": 39191536,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1619751248,
+  "duration": 1919859780,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 105217102,
+  "duration": 102246491,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 161047578,
+  "duration": 176816449,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lengthened",
+      "val": "freedom",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 77403329,
+  "duration": 63930597,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 67111466,
+  "duration": 59530690,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lengthened",
+      "val": "freedom",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 312880399,
+  "duration": 519232873,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3566316029,
+  "duration": 3623034463,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lengthened",
+      "val": "freedom",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 69486782,
+  "duration": 69133124,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1640417375,
+  "duration": 2396453977,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 31979668,
+  "duration": 31792575,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1513708944,
+  "duration": 1381050787,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4562915516,
+  "duration": 4686128127,
   "status": "passed"
 });
 formatter.scenario({
@@ -3045,7 +2790,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the training to query box",
+  "name": "put the guidelines to query box",
   "matchedColumns": [
     0
   ],
@@ -3078,7 +2823,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the training to input box",
+  "name": "put the guidelines to input box",
   "matchedColumns": [
     0
   ],
@@ -3091,7 +2836,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the training result",
+  "name": "save the guidelines result",
   "matchedColumns": [
     0
   ],
@@ -3104,7 +2849,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms training to search box",
+  "name": "put the synonyms guidelines to search box",
   "matchedColumns": [
     0
   ],
@@ -3124,130 +2869,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6825966189,
+  "duration": 12991355317,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "training",
+      "val": "guidelines",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 74628901,
+  "duration": 67672158,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2601870107,
+  "duration": 2132030312,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 58807246,
+  "duration": 52863678,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1466856282,
+  "duration": 3144074042,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 102845306,
+  "duration": 112104345,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 172547626,
+  "duration": 164243405,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "training",
+      "val": "guidelines",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 74989597,
+  "duration": 73176732,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 58720737,
+  "duration": 58431593,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "training",
+      "val": "guidelines",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 320352087,
+  "duration": 481862119,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3727129302,
+  "duration": 3539179953,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "training",
+      "val": "guidelines",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 70518432,
+  "duration": 72635102,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2317884691,
+  "duration": 2620532464,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 40045770,
+  "duration": 31819553,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1309968145,
+  "duration": 1382963943,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4701448913,
+  "duration": 4676396663,
   "status": "passed"
 });
 formatter.scenario({
@@ -3271,7 +3016,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the gradually to query box",
+  "name": "put the reduced to query box",
   "matchedColumns": [
     0
   ],
@@ -3304,7 +3049,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the gradually to input box",
+  "name": "put the reduced to input box",
   "matchedColumns": [
     0
   ],
@@ -3317,7 +3062,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the gradually result",
+  "name": "save the reduced result",
   "matchedColumns": [
     0
   ],
@@ -3330,7 +3075,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms gradually to search box",
+  "name": "put the synonyms reduced to search box",
   "matchedColumns": [
     0
   ],
@@ -3350,130 +3095,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 10519709402,
+  "duration": 10062816251,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "gradually",
+      "val": "reduced",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 72916034,
+  "duration": 71843037,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2530719431,
+  "duration": 4170427143,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 55522858,
+  "duration": 40802938,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1641722333,
+  "duration": 1778754003,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 109058955,
+  "duration": 92642592,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 183181709,
+  "duration": 178498525,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "gradually",
+      "val": "reduced",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 70911971,
+  "duration": 63774294,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 71491431,
+  "duration": 59086711,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "gradually",
+      "val": "reduced",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 306671734,
+  "duration": 412118744,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3488695110,
+  "duration": 3144758778,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "gradually",
+      "val": "reduced",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 56382371,
+  "duration": 58787598,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1263404039,
+  "duration": 2528876362,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24689794,
+  "duration": 30774707,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1431306016,
+  "duration": 1365217401,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4682017071,
+  "duration": 4648583769,
   "status": "passed"
 });
 formatter.scenario({
@@ -3497,7 +3242,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the improve to query box",
+  "name": "put the particular to query box",
   "matchedColumns": [
     0
   ],
@@ -3530,7 +3275,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the improve to input box",
+  "name": "put the particular to input box",
   "matchedColumns": [
     0
   ],
@@ -3543,7 +3288,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the improve result",
+  "name": "save the particular result",
   "matchedColumns": [
     0
   ],
@@ -3556,7 +3301,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms improve to search box",
+  "name": "put the synonyms particular to search box",
   "matchedColumns": [
     0
   ],
@@ -3576,130 +3321,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6806834047,
+  "duration": 8768139275,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "particular",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 64146427,
+  "duration": 156364102,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3016685566,
+  "duration": 3052677171,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 36549071,
+  "duration": 38889784,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1460054375,
+  "duration": 2812416333,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 147536431,
+  "duration": 113606659,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 184533879,
+  "duration": 167644211,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "particular",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 66930239,
+  "duration": 83606128,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 81648398,
+  "duration": 66251954,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "particular",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 297799783,
+  "duration": 485505442,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3284765165,
+  "duration": 3386481170,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "particular",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 61890464,
+  "duration": 75865238,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3536244532,
+  "duration": 1995690121,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 35959934,
+  "duration": 32571443,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1330580313,
+  "duration": 1374847987,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4667558437,
+  "duration": 4663035660,
   "status": "passed"
 });
 formatter.scenario({
@@ -3723,7 +3468,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the cross to query box",
+  "name": "put the surprise to query box",
   "matchedColumns": [
     0
   ],
@@ -3756,7 +3501,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the cross to input box",
+  "name": "put the surprise to input box",
   "matchedColumns": [
     0
   ],
@@ -3769,7 +3514,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the cross result",
+  "name": "save the surprise result",
   "matchedColumns": [
     0
   ],
@@ -3782,7 +3527,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms cross to search box",
+  "name": "put the synonyms surprise to search box",
   "matchedColumns": [
     0
   ],
@@ -3802,130 +3547,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 8552844177,
+  "duration": 10988285881,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cross",
+      "val": "surprise",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 72532758,
+  "duration": 58242155,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3210239780,
+  "duration": 3175342287,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 48641481,
+  "duration": 33609545,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1841630076,
+  "duration": 2140421627,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 111816081,
+  "duration": 98528976,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 170832413,
+  "duration": 309393377,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cross",
+      "val": "surprise",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 65145526,
+  "duration": 90654364,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 58428368,
+  "duration": 58360041,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cross",
+      "val": "surprise",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 349893096,
+  "duration": 752505005,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3431484311,
+  "duration": 3068791196,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cross",
+      "val": "surprise",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 56520784,
+  "duration": 59710158,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3840584058,
+  "duration": 1916755155,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 34142378,
+  "duration": 38174257,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1315029033,
+  "duration": 1558871614,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4707226795,
+  "duration": 4595536518,
   "status": "passed"
 });
 formatter.scenario({
@@ -3949,7 +3694,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the volunteers to query box",
+  "name": "put the ending to query box",
   "matchedColumns": [
     0
   ],
@@ -3982,7 +3727,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the volunteers to input box",
+  "name": "put the ending to input box",
   "matchedColumns": [
     0
   ],
@@ -3995,7 +3740,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the volunteers result",
+  "name": "save the ending result",
   "matchedColumns": [
     0
   ],
@@ -4008,7 +3753,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms volunteers to search box",
+  "name": "put the synonyms ending to search box",
   "matchedColumns": [
     0
   ],
@@ -4028,130 +3773,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 10015225774,
+  "duration": 7614339634,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "volunteers",
+      "val": "ending",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 63303924,
+  "duration": 52882446,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3272266605,
+  "duration": 2427670024,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 42305546,
+  "duration": 42697620,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1707424152,
+  "duration": 1726023753,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 94344315,
+  "duration": 102033593,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 176529358,
+  "duration": 181944199,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "volunteers",
+      "val": "ending",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 71887024,
+  "duration": 83088544,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 63895113,
+  "duration": 68349563,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "volunteers",
+      "val": "ending",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 346767064,
+  "duration": 448705351,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4312805913,
+  "duration": 3202430857,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "volunteers",
+      "val": "ending",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 76340888,
+  "duration": 63325037,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3103716255,
+  "duration": 2765268955,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 34075224,
+  "duration": 28275935,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1403301044,
+  "duration": 1348386384,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4732551473,
+  "duration": 4702509887,
   "status": "passed"
 });
 formatter.scenario({
@@ -4175,7 +3920,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the register to query box",
+  "name": "put the advertising to query box",
   "matchedColumns": [
     0
   ],
@@ -4208,7 +3953,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the register to input box",
+  "name": "put the advertising to input box",
   "matchedColumns": [
     0
   ],
@@ -4221,7 +3966,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the register result",
+  "name": "save the advertising result",
   "matchedColumns": [
     0
   ],
@@ -4234,7 +3979,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms register to search box",
+  "name": "put the synonyms advertising to search box",
   "matchedColumns": [
     0
   ],
@@ -4254,130 +3999,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 9873957244,
+  "duration": 8046128044,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "register",
+      "val": "advertising",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 50962545,
+  "duration": 69058639,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3154623376,
+  "duration": 2348412190,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 37394214,
+  "duration": 45168242,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1803746136,
+  "duration": 2085702564,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 95565697,
+  "duration": 84269164,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 162371891,
+  "duration": 160708583,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "register",
+      "val": "advertising",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 67732567,
+  "duration": 87409859,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 56714328,
+  "duration": 63105101,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "register",
+      "val": "advertising",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 389915113,
+  "duration": 491106789,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3149888287,
+  "duration": 4389475826,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "register",
+      "val": "advertising",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 92441129,
+  "duration": 88111310,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1790117983,
+  "duration": 1575031092,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 23266658,
+  "duration": 25607663,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1327472168,
+  "duration": 1395431125,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4564276190,
+  "duration": 4562174769,
   "status": "passed"
 });
 formatter.scenario({
@@ -4401,7 +4146,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the cost to query box",
+  "name": "put the announce to query box",
   "matchedColumns": [
     0
   ],
@@ -4434,7 +4179,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the cost to input box",
+  "name": "put the announce to input box",
   "matchedColumns": [
     0
   ],
@@ -4447,7 +4192,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the cost result",
+  "name": "save the announce result",
   "matchedColumns": [
     0
   ],
@@ -4460,7 +4205,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms cost to search box",
+  "name": "put the synonyms announce to search box",
   "matchedColumns": [
     0
   ],
@@ -4480,130 +4225,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7050104206,
+  "duration": 13198860259,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cost",
+      "val": "announce",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 56418147,
+  "duration": 71031617,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2635402233,
+  "duration": 3009152004,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 42503782,
+  "duration": 31664718,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1715402573,
+  "duration": 2058701090,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 95360422,
+  "duration": 92484531,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 164467740,
+  "duration": 173935573,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cost",
+      "val": "announce",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 56993208,
+  "duration": 72525427,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66912057,
+  "duration": 58635108,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cost",
+      "val": "announce",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 366027354,
+  "duration": 409855742,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3440901412,
+  "duration": 2985543711,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "cost",
+      "val": "announce",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 48045306,
+  "duration": 61026259,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1262146881,
+  "duration": 1844621215,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 39350770,
+  "duration": 55370662,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1427721928,
+  "duration": 1416874654,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4806878328,
+  "duration": 4610781059,
   "status": "passed"
 });
 formatter.scenario({
@@ -4627,7 +4372,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the increased to query box",
+  "name": "put the judged to query box",
   "matchedColumns": [
     0
   ],
@@ -4660,7 +4405,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the increased to input box",
+  "name": "put the judged to input box",
   "matchedColumns": [
     0
   ],
@@ -4673,7 +4418,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the increased result",
+  "name": "save the judged result",
   "matchedColumns": [
     0
   ],
@@ -4686,7 +4431,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms increased to search box",
+  "name": "put the synonyms judged to search box",
   "matchedColumns": [
     0
   ],
@@ -4706,130 +4451,118 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11686097042,
-  "status": "passed"
+  "duration": 301150673314,
+  "error_message": "org.openqa.selenium.TimeoutException: timeout\n  (Session info: chrome\u003d63.0.3239.132)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir21720_19750}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d63.0.3239.132, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 1ca4f43feb9ee588558f15f4c12304cc\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:310)\r\n\tat Steps.openOxfordDictionariesUrl(Steps.java:174)\r\n\tat ✽.Given open oxford dictionaries url(translate.feature:7)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increased",
+      "val": "judged",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 62833846,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2853145079,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 28537806,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2003184976,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 117832961,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 160366069,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increased",
+      "val": "judged",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 70456263,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 68553957,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increased",
+      "val": "judged",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 378708902,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3619665620,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increased",
+      "val": "judged",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 71570609,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1442120154,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 44259757,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 1355823174,
+  "duration": 1300702947,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4626752272,
+  "duration": 4745496064,
   "status": "passed"
 });
 formatter.scenario({
@@ -4853,7 +4586,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the enough to query box",
+  "name": "put the prizes to query box",
   "matchedColumns": [
     0
   ],
@@ -4886,7 +4619,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the enough to input box",
+  "name": "put the prizes to input box",
   "matchedColumns": [
     0
   ],
@@ -4899,7 +4632,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the enough result",
+  "name": "save the prizes result",
   "matchedColumns": [
     0
   ],
@@ -4912,7 +4645,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms enough to search box",
+  "name": "put the synonyms prizes to search box",
   "matchedColumns": [
     0
   ],
@@ -4932,130 +4665,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6768443081,
+  "duration": 7830922388,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "enough",
+      "val": "prizes",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 51730564,
+  "duration": 48099557,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2437873031,
+  "duration": 2404703947,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 50276930,
+  "duration": 36717982,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1766829331,
+  "duration": 1969627043,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 108037569,
+  "duration": 93958692,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 165727830,
+  "duration": 163617611,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "enough",
+      "val": "prizes",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 66669247,
+  "duration": 73547986,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 62978124,
+  "duration": 56720487,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "enough",
+      "val": "prizes",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 400224277,
+  "duration": 15308756440,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4650354699,
+  "duration": 3134682747,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "enough",
+      "val": "prizes",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 55143981,
+  "duration": 56881481,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1598689236,
+  "duration": 3909005467,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 56594683,
+  "duration": 34109534,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1384180632,
+  "duration": 1375167922,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4593654153,
+  "duration": 4630217594,
   "status": "passed"
 });
 formatter.scenario({
@@ -5079,7 +4812,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the information to query box",
+  "name": "put the fantastic to query box",
   "matchedColumns": [
     0
   ],
@@ -5112,7 +4845,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the information to input box",
+  "name": "put the fantastic to input box",
   "matchedColumns": [
     0
   ],
@@ -5125,7 +4858,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the information result",
+  "name": "save the fantastic result",
   "matchedColumns": [
     0
   ],
@@ -5138,7 +4871,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms information to search box",
+  "name": "put the synonyms fantastic to search box",
   "matchedColumns": [
     0
   ],
@@ -5158,130 +4891,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12723067219,
+  "duration": 53646984684,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "information",
+      "val": "fantastic",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 61557040,
+  "duration": 68019658,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 5356499407,
+  "duration": 23937845612,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 63836170,
+  "duration": 40765696,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1441412251,
+  "duration": 1570620336,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 114796955,
+  "duration": 156378177,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 149463956,
+  "duration": 227471670,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "information",
+      "val": "fantastic",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 75029772,
+  "duration": 80873635,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 64314459,
+  "duration": 52670720,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "information",
+      "val": "fantastic",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 1045914560,
+  "duration": 349570523,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3496396998,
+  "duration": 2905527536,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "information",
+      "val": "fantastic",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 68982687,
+  "duration": 67396798,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1735005967,
+  "duration": 2412316394,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 35761698,
+  "duration": 35258189,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1437555442,
+  "duration": 1374209584,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4566272335,
+  "duration": 4659753325,
   "status": "passed"
 });
 formatter.scenario({
@@ -5305,7 +5038,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the mentioned to query box",
+  "name": "put the eventually to query box",
   "matchedColumns": [
     0
   ],
@@ -5338,7 +5071,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the mentioned to input box",
+  "name": "put the eventually to input box",
   "matchedColumns": [
     0
   ],
@@ -5351,7 +5084,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the mentioned result",
+  "name": "save the eventually result",
   "matchedColumns": [
     0
   ],
@@ -5364,7 +5097,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms mentioned to search box",
+  "name": "put the synonyms eventually to search box",
   "matchedColumns": [
     0
   ],
@@ -5384,130 +5117,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 13805954887,
+  "duration": 10049228858,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "eventually",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 80001806,
+  "duration": 64894506,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2779207953,
+  "duration": 4010319134,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 35765217,
+  "duration": 41092082,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1708756382,
+  "duration": 1566890797,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 97865940,
+  "duration": 93035545,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 168340384,
+  "duration": 174352572,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "eventually",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 75323021,
+  "duration": 82900865,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66521743,
+  "duration": 57598181,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "eventually",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 1108612338,
+  "duration": 355085067,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3752104720,
+  "duration": 3413433672,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "eventually",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 61433289,
+  "duration": 85834820,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1359826021,
+  "duration": 1259615557,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 26083606,
+  "duration": 45654741,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1368485954,
+  "duration": 1357245432,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4600249321,
+  "duration": 4653076048,
   "status": "passed"
 });
 formatter.scenario({
@@ -5531,7 +5264,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the helping out to query box",
+  "name": "put the stories to query box",
   "matchedColumns": [
     0
   ],
@@ -5564,7 +5297,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the helping out to input box",
+  "name": "put the stories to input box",
   "matchedColumns": [
     0
   ],
@@ -5577,7 +5310,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the helping out result",
+  "name": "save the stories result",
   "matchedColumns": [
     0
   ],
@@ -5590,7 +5323,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms helping out to search box",
+  "name": "put the synonyms stories to search box",
   "matchedColumns": [
     0
   ],
@@ -5610,130 +5343,120 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 14379081328,
+  "duration": 13043697305,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "helping out",
+      "val": "stories",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 124153061,
+  "duration": 52877754,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 7034532985,
-  "status": "passed"
+  "duration": 300030308735,
+  "error_message": "org.openqa.selenium.TimeoutException: timeout\n  (Session info: chrome\u003d63.0.3239.132)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir15996_8003}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d63.0.3239.132, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 4b74b6cd862b4bded0a78fe978f63c6c\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)\r\n\tat Steps.pressEnterIntoQueryBox(Steps.java:188)\r\n\tat ✽.And press enter into query box(translate.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 49711546,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1806444026,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 95040487,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 155211340,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "helping out",
+      "val": "stories",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 63339993,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 65788327,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "helping out",
+      "val": "stories",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 341602365,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4585601540,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "helping out",
+      "val": "stories",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 55918451,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1672172121,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 31300209,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 1379913275,
+  "duration": 1328893252,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4650275522,
+  "duration": 4699784433,
   "status": "passed"
 });
 formatter.scenario({
@@ -5757,7 +5480,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the complicated to query box",
+  "name": "put the brilliant to query box",
   "matchedColumns": [
     0
   ],
@@ -5790,7 +5513,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the complicated to input box",
+  "name": "put the brilliant to input box",
   "matchedColumns": [
     0
   ],
@@ -5803,7 +5526,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the complicated result",
+  "name": "save the brilliant result",
   "matchedColumns": [
     0
   ],
@@ -5816,7 +5539,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms complicated to search box",
+  "name": "put the synonyms brilliant to search box",
   "matchedColumns": [
     0
   ],
@@ -5836,130 +5559,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11890916997,
+  "duration": 8356755119,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "complicated",
+      "val": "brilliant",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 94352233,
+  "duration": 62675785,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3097470054,
+  "duration": 2410668921,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 53895034,
+  "duration": 45146834,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1696836696,
+  "duration": 1950008988,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 126916051,
+  "duration": 88997215,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 157991632,
+  "duration": 161262824,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "complicated",
+      "val": "brilliant",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 81719072,
+  "duration": 80968941,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 57327219,
+  "duration": 60949721,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "complicated",
+      "val": "brilliant",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 353539645,
+  "duration": 408588614,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 23145684564,
+  "duration": 3027226103,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "complicated",
+      "val": "brilliant",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 71963269,
+  "duration": 96442803,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1605061534,
+  "duration": 1983893014,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24160773,
+  "duration": 28806422,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1428969703,
+  "duration": 1373960030,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4770448610,
+  "duration": 4708007424,
   "status": "passed"
 });
 formatter.scenario({
@@ -5983,7 +5706,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the activities to query box",
+  "name": "put the straight to query box",
   "matchedColumns": [
     0
   ],
@@ -6016,7 +5739,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the activities to input box",
+  "name": "put the straight to input box",
   "matchedColumns": [
     0
   ],
@@ -6029,7 +5752,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the activities result",
+  "name": "save the straight result",
   "matchedColumns": [
     0
   ],
@@ -6042,7 +5765,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms activities to search box",
+  "name": "put the synonyms straight to search box",
   "matchedColumns": [
     0
   ],
@@ -6062,130 +5785,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12196480544,
+  "duration": 7096712299,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "activities",
+      "val": "straight",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 82935468,
+  "duration": 64910341,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3193879134,
+  "duration": 2009603313,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 35716538,
+  "duration": 34377857,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1655894170,
+  "duration": 1942359591,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 105454048,
+  "duration": 89693682,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 147190397,
+  "duration": 160298035,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "activities",
+      "val": "straight",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 70869744,
+  "duration": 73713964,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 90522109,
+  "duration": 71197890,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "activities",
+      "val": "straight",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 369746630,
+  "duration": 454201421,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 5953970780,
+  "duration": 3226362016,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "activities",
+      "val": "straight",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 63788957,
+  "duration": 72447716,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 4114024245,
+  "duration": 2539147989,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 42496451,
+  "duration": 31801078,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1408670724,
+  "duration": 1498790202,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4600412953,
+  "duration": 4839456223,
   "status": "passed"
 });
 formatter.scenario({
@@ -6209,7 +5932,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the involves to query box",
+  "name": "put the guess to query box",
   "matchedColumns": [
     0
   ],
@@ -6242,7 +5965,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the involves to input box",
+  "name": "put the guess to input box",
   "matchedColumns": [
     0
   ],
@@ -6255,7 +5978,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the involves result",
+  "name": "save the guess result",
   "matchedColumns": [
     0
   ],
@@ -6268,7 +5991,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms involves to search box",
+  "name": "put the synonyms guess to search box",
   "matchedColumns": [
     0
   ],
@@ -6288,130 +6011,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6692209228,
+  "duration": 7904307034,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "involves",
+      "val": "guess",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 122229641,
+  "duration": 64711225,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 8136783582,
+  "duration": 2223316921,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 34497208,
+  "duration": 52942268,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2506549566,
+  "duration": 1447076353,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 136512327,
+  "duration": 86518089,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 185113339,
+  "duration": 170882266,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "involves",
+      "val": "guess",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 83506716,
+  "duration": 62768451,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 68239008,
+  "duration": 74547965,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "involves",
+      "val": "guess",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 390485482,
+  "duration": 413494668,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3573758685,
+  "duration": 2736769271,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "involves",
+      "val": "guess",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 69833696,
+  "duration": 53417332,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2659520485,
+  "duration": 3230176304,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 31949462,
+  "duration": 34821835,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1451962759,
+  "duration": 1408217947,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4954465197,
+  "duration": 5370563622,
   "status": "passed"
 });
 formatter.scenario({
@@ -6435,7 +6158,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the stuff to query box",
+  "name": "put the surprised to query box",
   "matchedColumns": [
     0
   ],
@@ -6468,7 +6191,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the stuff to input box",
+  "name": "put the surprised to input box",
   "matchedColumns": [
     0
   ],
@@ -6481,7 +6204,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the stuff result",
+  "name": "save the surprised result",
   "matchedColumns": [
     0
   ],
@@ -6494,7 +6217,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms stuff to search box",
+  "name": "put the synonyms surprised to search box",
   "matchedColumns": [
     0
   ],
@@ -6514,130 +6237,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12927305369,
+  "duration": 10328585928,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "stuff",
+      "val": "surprised",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 77858157,
+  "duration": 61204261,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 5325723819,
+  "duration": 4105176927,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 42058337,
+  "duration": 59459138,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1809971223,
+  "duration": 1992954696,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 98153617,
+  "duration": 102457924,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 175388621,
+  "duration": 176797681,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "stuff",
+      "val": "surprised",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 67119677,
+  "duration": 77251718,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 65319130,
+  "duration": 58422503,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "stuff",
+      "val": "surprised",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 400648022,
+  "duration": 373439806,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 6715222812,
+  "duration": 16498255316,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "stuff",
+      "val": "surprised",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 165381210,
+  "duration": 55546905,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1809491175,
+  "duration": 3135664838,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 51195091,
+  "duration": 24511205,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1433498051,
+  "duration": 1431598972,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4749916497,
+  "duration": 4580157082,
   "status": "passed"
 });
 formatter.scenario({
@@ -6661,7 +6384,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the guiding to query box",
+  "name": "put the crocodiles to query box",
   "matchedColumns": [
     0
   ],
@@ -6694,7 +6417,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the guiding to input box",
+  "name": "put the crocodiles to input box",
   "matchedColumns": [
     0
   ],
@@ -6707,7 +6430,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the guiding result",
+  "name": "save the crocodiles result",
   "matchedColumns": [
     0
   ],
@@ -6720,7 +6443,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms guiding to search box",
+  "name": "put the synonyms crocodiles to search box",
   "matchedColumns": [
     0
   ],
@@ -6740,130 +6463,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12392609484,
+  "duration": 7469500506,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "guiding",
+      "val": "crocodiles",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 77020345,
+  "duration": 66242864,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 5118261398,
+  "duration": 2799518368,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 36957860,
+  "duration": 33998686,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1624522701,
+  "duration": 1854384936,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 182382313,
+  "duration": 99088201,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 188119433,
+  "duration": 172222999,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "guiding",
+      "val": "crocodiles",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 70928687,
+  "duration": 81428169,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 85093193,
+  "duration": 71745092,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "guiding",
+      "val": "crocodiles",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 402340654,
+  "duration": 5436071310,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 5029969446,
+  "duration": 2942155783,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "guiding",
+      "val": "crocodiles",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 89647641,
+  "duration": 60044463,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1644889127,
+  "duration": 1852882328,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25156646,
+  "duration": 25352244,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1479955415,
+  "duration": 1351949064,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4888890649,
+  "duration": 4615677729,
   "status": "passed"
 });
 formatter.scenario({
@@ -6887,7 +6610,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the races to query box",
+  "name": "put the restaurant to query box",
   "matchedColumns": [
     0
   ],
@@ -6920,7 +6643,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the races to input box",
+  "name": "put the restaurant to input box",
   "matchedColumns": [
     0
   ],
@@ -6933,7 +6656,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the races result",
+  "name": "save the restaurant result",
   "matchedColumns": [
     0
   ],
@@ -6946,7 +6669,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms races to search box",
+  "name": "put the synonyms restaurant to search box",
   "matchedColumns": [
     0
   ],
@@ -6966,130 +6689,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 13986210852,
+  "duration": 7443937124,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "races",
+      "val": "restaurant",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 71853301,
+  "duration": 66068087,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3644493534,
+  "duration": 2756050970,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 37333805,
+  "duration": 41867139,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1670290636,
+  "duration": 1723928491,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 109176548,
+  "duration": 83226371,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 198959671,
+  "duration": 161087167,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "races",
+      "val": "restaurant",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 128563816,
+  "duration": 83401734,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 67993559,
+  "duration": 58438925,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "races",
+      "val": "restaurant",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 15306754137,
+  "duration": 407665467,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4936626869,
+  "duration": 3003155357,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "races",
+      "val": "restaurant",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 70636905,
+  "duration": 64724421,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 4382710576,
+  "duration": 3590007898,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 37535267,
+  "duration": 44132780,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1403016886,
+  "duration": 1372257427,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4706785163,
+  "duration": 4628672172,
   "status": "passed"
 });
 formatter.scenario({
@@ -7113,7 +6836,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the illustrate to query box",
+  "name": "put the finished to query box",
   "matchedColumns": [
     0
   ],
@@ -7146,7 +6869,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the illustrate to input box",
+  "name": "put the finished to input box",
   "matchedColumns": [
     0
   ],
@@ -7159,7 +6882,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the illustrate result",
+  "name": "save the finished result",
   "matchedColumns": [
     0
   ],
@@ -7172,7 +6895,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms illustrate to search box",
+  "name": "put the synonyms finished to search box",
   "matchedColumns": [
     0
   ],
@@ -7192,130 +6915,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7577972084,
+  "duration": 11118253187,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "illustrate",
+      "val": "finished",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 104809487,
+  "duration": 58649184,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2818453739,
+  "duration": 3756163871,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 55604382,
+  "duration": 28627246,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1634706354,
+  "duration": 1695526166,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 100031289,
+  "duration": 93575416,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 208578526,
+  "duration": 156525388,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "illustrate",
+      "val": "finished",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 108394161,
+  "duration": 77535584,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 61345021,
+  "duration": 59337733,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "illustrate",
+      "val": "finished",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 434278680,
+  "duration": 393916787,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3463995346,
+  "duration": 5916647239,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "illustrate",
+      "val": "finished",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 87316020,
+  "duration": 63466090,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1783400532,
+  "duration": 4470994902,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 32874369,
+  "duration": 48336795,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1369990320,
+  "duration": 1601597385,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4675381730,
+  "duration": 4632412561,
   "status": "passed"
 });
 formatter.scenario({
@@ -7339,7 +7062,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the bought to query box",
+  "name": "put the splash to query box",
   "matchedColumns": [
     0
   ],
@@ -7372,7 +7095,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the bought to input box",
+  "name": "put the splash to input box",
   "matchedColumns": [
     0
   ],
@@ -7385,7 +7108,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the bought result",
+  "name": "save the splash result",
   "matchedColumns": [
     0
   ],
@@ -7398,7 +7121,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms bought to search box",
+  "name": "put the synonyms splash to search box",
   "matchedColumns": [
     0
   ],
@@ -7418,130 +7141,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12466476818,
+  "duration": 10569094269,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "bought",
+      "val": "splash",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 82451607,
+  "duration": 67756027,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4612514454,
+  "duration": 4304788489,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 44270606,
+  "duration": 47659097,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2880564140,
+  "duration": 1669461621,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 104249674,
+  "duration": 85323100,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 176641673,
+  "duration": 163512042,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "bought",
+      "val": "splash",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 65783342,
+  "duration": 68983274,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 61932105,
+  "duration": 60191673,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "bought",
+      "val": "splash",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 381711477,
+  "duration": 400949188,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3839869117,
+  "duration": 3084771206,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "bought",
+      "val": "splash",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 72404608,
+  "duration": 78003902,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1629553091,
+  "duration": 1299838450,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 45568232,
+  "duration": 26625823,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1452452777,
+  "duration": 1356638113,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4668845799,
+  "duration": 4553891075,
   "status": "passed"
 });
 formatter.scenario({
@@ -7565,7 +7288,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the whether to query box",
+  "name": "put the exciting to query box",
   "matchedColumns": [
     0
   ],
@@ -7598,7 +7321,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the whether to input box",
+  "name": "put the exciting to input box",
   "matchedColumns": [
     0
   ],
@@ -7611,7 +7334,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the whether result",
+  "name": "save the exciting result",
   "matchedColumns": [
     0
   ],
@@ -7624,7 +7347,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms whether to search box",
+  "name": "put the synonyms exciting to search box",
   "matchedColumns": [
     0
   ],
@@ -7644,130 +7367,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12255745258,
+  "duration": 10226343835,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "whether",
+      "val": "exciting",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 68897938,
+  "duration": 67305890,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 6006646778,
+  "duration": 16656838138,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 44441277,
+  "duration": 36576050,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1610623585,
+  "duration": 1715697876,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 104554067,
+  "duration": 82398530,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 203285677,
+  "duration": 174720307,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "whether",
+      "val": "exciting",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 79667503,
+  "duration": 76257899,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 70930740,
+  "duration": 59341251,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "whether",
+      "val": "exciting",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 5421642293,
+  "duration": 447027381,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3940521508,
+  "duration": 3983149041,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "whether",
+      "val": "exciting",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 83820200,
+  "duration": 63921505,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1877990589,
+  "duration": 1973655989,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 30593773,
+  "duration": 29892029,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1429022194,
+  "duration": 1359206093,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4818644351,
+  "duration": 4570489254,
   "status": "passed"
 });
 formatter.scenario({
@@ -7791,7 +7514,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the phoneline to query box",
+  "name": "put the scary to query box",
   "matchedColumns": [
     0
   ],
@@ -7824,7 +7547,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the phoneline to input box",
+  "name": "put the scary to input box",
   "matchedColumns": [
     0
   ],
@@ -7837,7 +7560,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the phoneline result",
+  "name": "save the scary result",
   "matchedColumns": [
     0
   ],
@@ -7850,7 +7573,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms phoneline to search box",
+  "name": "put the synonyms scary to search box",
   "matchedColumns": [
     0
   ],
@@ -7870,130 +7593,118 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11632875894,
-  "status": "passed"
+  "duration": 301162905310,
+  "error_message": "org.openqa.selenium.TimeoutException: timeout\n  (Session info: chrome\u003d63.0.3239.132)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir9204_14920}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d63.0.3239.132, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 1d1a2a89ec0b287a9cc268ef671c245f\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:310)\r\n\tat Steps.openOxfordDictionariesUrl(Steps.java:174)\r\n\tat ✽.Given open oxford dictionaries url(translate.feature:7)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "phoneline",
+      "val": "scary",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 70768866,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4029640714,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 5035995710,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1568227718,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 125893199,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 198297221,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "phoneline",
+      "val": "scary",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 52055777,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 49537942,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "phoneline",
+      "val": "scary",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 20189386854,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3174629692,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "phoneline",
+      "val": "scary",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 41871245,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2250067961,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 29105828,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 1454567981,
+  "duration": 1382865998,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4816959050,
+  "duration": 4692947922,
   "status": "passed"
 });
 formatter.scenario({
@@ -8017,7 +7728,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the lasting to query box",
+  "name": "put the wearing to query box",
   "matchedColumns": [
     0
   ],
@@ -8050,7 +7761,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the lasting to input box",
+  "name": "put the wearing to input box",
   "matchedColumns": [
     0
   ],
@@ -8063,7 +7774,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the lasting result",
+  "name": "save the wearing result",
   "matchedColumns": [
     0
   ],
@@ -8076,7 +7787,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms lasting to search box",
+  "name": "put the synonyms wearing to search box",
   "matchedColumns": [
     0
   ],
@@ -8096,130 +7807,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11297218563,
+  "duration": 10057996119,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lasting",
+      "val": "wearing",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 54087698,
+  "duration": 68088865,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3408903857,
+  "duration": 10236558866,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 58218695,
+  "duration": 47172890,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2018861766,
+  "duration": 1859557259,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 110562442,
+  "duration": 88486083,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 169730970,
+  "duration": 165479156,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lasting",
+      "val": "wearing",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 112206689,
+  "duration": 68402934,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 68663046,
+  "duration": 55508196,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lasting",
+      "val": "wearing",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 406664608,
+  "duration": 376558801,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 6229083952,
+  "duration": 3304264161,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "lasting",
+      "val": "wearing",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 65172505,
+  "duration": 57192324,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 5933800244,
+  "duration": 1249066516,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 38871015,
+  "duration": 38049625,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1396078031,
+  "duration": 1340400924,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4668742282,
+  "duration": 4642755155,
   "status": "passed"
 });
 formatter.scenario({
@@ -8243,7 +7954,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the approximately to query box",
+  "name": "put the feeding to query box",
   "matchedColumns": [
     0
   ],
@@ -8276,7 +7987,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the approximately to input box",
+  "name": "put the feeding to input box",
   "matchedColumns": [
     0
   ],
@@ -8289,7 +8000,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the approximately result",
+  "name": "save the feeding result",
   "matchedColumns": [
     0
   ],
@@ -8302,7 +8013,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms approximately to search box",
+  "name": "put the synonyms feeding to search box",
   "matchedColumns": [
     0
   ],
@@ -8322,130 +8033,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6901389794,
+  "duration": 10066075418,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "approximately",
+      "val": "feeding",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 83221385,
+  "duration": 58641560,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2849418766,
+  "duration": 48151689128,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 54656894,
+  "duration": 40000610,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1756975877,
+  "duration": 2177074802,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 100936256,
+  "duration": 103880474,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 210155032,
+  "duration": 161837298,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "approximately",
+      "val": "feeding",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 93448146,
+  "duration": 57973539,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 60071734,
+  "duration": 56079445,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "approximately",
+      "val": "feeding",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 388461185,
+  "duration": 399289400,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3247249546,
+  "duration": 3097455978,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "approximately",
+      "val": "feeding",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 66754290,
+  "duration": 83102033,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1696577463,
+  "duration": 2173434117,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 29319313,
+  "duration": 31055347,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1319646529,
+  "duration": 1393918254,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4644597931,
+  "duration": 4602990317,
   "status": "passed"
 });
 formatter.scenario({
@@ -8453,4978 +8164,6 @@ formatter.scenario({
   "name": "",
   "description": "",
   "id": "testing-google-translate;;;34",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the general to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the general to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the general result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms general to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11226087535,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "general",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 71614596,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2424154263,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 34377857,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1689683476,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 121676281,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 158532677,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "general",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 72316634,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67137272,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "general",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 389415124,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 6534679756,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "general",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 78498319,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1819935819,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 67297680,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1388657662,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4618843937,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 57,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;35",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the coast to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the coast to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the coast result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms coast to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11355080375,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "coast",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 50373115,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4486298094,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 45953268,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1650178163,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 125597311,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 159715936,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "coast",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 80279806,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 66047266,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "coast",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 379522081,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 7140082045,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "coast",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 81486526,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2833169847,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 29424004,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1416988141,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4611419755,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 58,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;36",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the west to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the west to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the west result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms west to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12286328181,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "west",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 64499499,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 5119876320,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 35894247,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1537999333,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 103249402,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 206770940,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "west",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 92259902,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 84943929,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "west",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 357042796,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4577215209,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "west",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 69124914,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2176024678,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 23411229,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1379505952,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4646425165,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 59,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;37",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the attracted to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the attracted to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the attracted result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms attracted to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11606870879,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attracted",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 73566460,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2954917094,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 51048760,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1813536836,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 127829522,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 186923564,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attracted",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 68451027,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 64017105,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attracted",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 382965116,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3598561967,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attracted",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 60067043,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1567812478,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 38160181,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1345382049,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4713212005,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 60,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;38",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the provide to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the provide to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the provide result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms provide to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6731884332,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "provide",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 59599018,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2521906422,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 33151197,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1769158021,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 116283728,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 192590891,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "provide",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 85120172,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 97713744,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "provide",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 343207609,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3172386339,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "provide",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 80266317,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2457551789,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 27204990,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1333468814,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4645442194,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 61,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;39",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the wonderful to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the wonderful to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the wonderful result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms wonderful to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7469209603,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wonderful",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57484987,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2732216583,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 47577867,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1742585276,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 129675523,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 179385309,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wonderful",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 77922086,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 77182805,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wonderful",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 356348090,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3142950312,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wonderful",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 67939015,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1458024506,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 40445762,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1360782893,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4685492656,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 62,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;40",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the experience to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the experience to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the experience result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms experience to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6817082802,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experience",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 65572496,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2586679523,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 35366692,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1734652894,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 93334072,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 174592743,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experience",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 73739477,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 60263812,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experience",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 385414330,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3253533282,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experience",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 112607267,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1443867624,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 34011589,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1404787816,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4736808567,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 63,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;41",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the arrive to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the arrive to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the arrive result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms arrive to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7901819697,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "arrive",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 51099493,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2497574685,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 60724800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1905772985,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 125234562,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 181599339,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "arrive",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 65983339,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 74033313,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "arrive",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 354825542,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 2992936808,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "arrive",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 73394910,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2287655719,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 51275149,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1326433481,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4746272001,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 64,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;42",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the aquarium to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the aquarium to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the aquarium result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms aquarium to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7485306033,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "aquarium",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 51873083,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2839062683,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 150189160,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2207829275,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 122826989,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 170437993,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "aquarium",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 76347340,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 59742416,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "aquarium",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 455235709,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3688277054,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "aquarium",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 66174830,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1644703207,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 23160501,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1381285973,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4757972043,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 65,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;43",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the expanded to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the expanded to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the expanded result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms expanded to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11963711628,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "expanded",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 69986478,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2549875912,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 54306169,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1840901354,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 142081709,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 243199780,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "expanded",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 153961220,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 65262533,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "expanded",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 423554863,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3836051897,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "expanded",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 95551327,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1944078616,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 42036930,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1402629797,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4731291090,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 66,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;44",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the reasonably to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the reasonably to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the reasonably result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms reasonably to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 13226514506,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "reasonably",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 70282073,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4081976838,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 53330237,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1683026140,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 105027957,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 182566766,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "reasonably",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 82919046,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 49565801,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "reasonably",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 363301900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3827327450,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "reasonably",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 68882396,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1728667392,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 48558198,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1394398888,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4645064197,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 67,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;45",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the along to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the along to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the along result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms along to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7347526578,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "along",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 54294733,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2551772352,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 38618822,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1731063822,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 109480061,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 255094833,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "along",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 70114921,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 68379181,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "along",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 370643385,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3495860352,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "along",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 70307879,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1851241308,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 26291813,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1361996063,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4744169113,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 68,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;46",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the stroll to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the stroll to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the stroll result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms stroll to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12182985232,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "stroll",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 66611770,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2595008963,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 46825097,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1803584850,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 113067374,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 176163677,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "stroll",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 63894527,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 51317669,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "stroll",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 351769596,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3361191975,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "stroll",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 66289197,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 4270169582,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 25168376,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1476651087,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4756883504,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 69,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;47",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the waterfront to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the waterfront to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the waterfront result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms waterfront to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11370356001,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "waterfront",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 62227700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4708357563,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 45313693,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1619692599,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 99494058,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 159629427,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "waterfront",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 76943221,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 71537178,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "waterfront",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 359832766,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 6308592514,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "waterfront",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 73234209,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2663080526,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 34338561,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1516479266,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4856552338,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 70,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;48",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the modernised to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the modernised to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the modernised result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms modernised to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 13321091366,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "modernised",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 80945774,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4966243244,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 50405959,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1672557742,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 96901444,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 149288886,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "modernised",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 76317721,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67634623,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "modernised",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 366100373,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 5463787432,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "modernised",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 56361550,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2271300350,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 27390323,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1426323425,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4914530568,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 71,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;49",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the harbour to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the harbour to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the harbour result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms harbour to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12112980573,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbour",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 58258577,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4779458094,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 32640357,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2189994467,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 108238152,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 188121779,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbour",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 101123056,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 68420822,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbour",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 1279921281,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3446127400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbour",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 70463007,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2986035196,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 24791845,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1408287447,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4641887725,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 72,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;50",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the craft to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the craft to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the craft result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms craft to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6919960364,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "craft",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 88477285,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2041836641,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 44959154,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1688001987,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 114715433,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 177145475,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "craft",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 63738811,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 61525662,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "craft",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 394917939,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 5026655148,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "craft",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 66222629,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1544146709,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 24013563,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1361376135,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4660516065,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 73,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;51",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the yachts to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the yachts to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the yachts result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms yachts to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7542054672,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "yachts",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 54516428,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2204800014,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 55591185,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1587527599,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 97346596,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 163185656,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "yachts",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 59336560,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 68890021,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "yachts",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 359222809,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3532894457,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "yachts",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 52981564,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1653595979,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28763313,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1389490489,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4755464473,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 74,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;52",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the amazing to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the amazing to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the amazing result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms amazing to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7859177795,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "amazing",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 118300400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2705301323,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 33421278,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1535355401,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 127512226,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 178816406,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "amazing",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 78350816,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 62437373,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "amazing",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 390731224,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3654680999,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "amazing",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 76401004,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1600612949,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 24522935,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1348155596,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4590729289,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 75,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;53",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the keen to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the keen to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the keen result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms keen to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7310174885,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "keen",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 49351729,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2781220812,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 38577473,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1975766501,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 105674864,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 185964640,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "keen",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 71188212,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 62499249,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "keen",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15340981263,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3385088824,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "keen",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 47935044,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2138912569,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 22695409,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1369584463,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4870576378,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 76,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;54",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the relatively to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the relatively to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the relatively result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms relatively to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12170991940,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "relatively",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 62044713,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3236549188,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 41297650,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1814908361,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 104613890,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 162097116,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "relatively",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 102075820,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 60563806,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "relatively",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 367839340,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 5054689152,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "relatively",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 72895507,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1504087156,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 39297399,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1443035970,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4891176230,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 77,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;55",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the quiet to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the quiet to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the quiet result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms quiet to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 8468576186,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quiet",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 51580128,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2556251141,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 50190714,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1750237605,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 147863403,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 175308564,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quiet",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 70659484,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 59261782,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quiet",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 383053676,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3113012243,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quiet",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 136458369,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1651791912,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 43887330,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1386441874,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4737641101,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 78,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;56",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -13520,7 +8259,7 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7235477364,
+  "duration": 9996612390,
   "status": "passed"
 });
 formatter.match({
@@ -13533,42 +8272,42 @@ formatter.match({
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 65743461,
+  "duration": 61111889,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2512950895,
+  "duration": 4074996048,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 53346659,
+  "duration": 37246123,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1723393605,
+  "duration": 2255904786,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 95165411,
+  "duration": 83255989,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 176106787,
+  "duration": 155367642,
   "status": "passed"
 });
 formatter.match({
@@ -13581,14 +8320,14 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 72350650,
+  "duration": 78174279,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 61057930,
+  "duration": 55009380,
   "status": "passed"
 });
 formatter.match({
@@ -13601,14 +8340,14 @@ formatter.match({
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 366065184,
+  "duration": 394808264,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3208612543,
+  "duration": 3898887502,
   "status": "passed"
 });
 formatter.match({
@@ -13621,36 +8360,36 @@ formatter.match({
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 95480654,
+  "duration": 73611914,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1899574584,
+  "duration": 2392712121,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 43624580,
+  "duration": 28885892,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1308835324,
+  "duration": 1402617188,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4810203770,
+  "duration": 4718182279,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 79,
+  "line": 57,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;57",
+  "id": "testing-google-translate;;;35",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -13667,7 +8406,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the ancient to query box",
+  "name": "put the seals to query box",
   "matchedColumns": [
     0
   ],
@@ -13700,7 +8439,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the ancient to input box",
+  "name": "put the seals to input box",
   "matchedColumns": [
     0
   ],
@@ -13713,7 +8452,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the ancient result",
+  "name": "save the seals result",
   "matchedColumns": [
     0
   ],
@@ -13726,7 +8465,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms ancient to search box",
+  "name": "put the synonyms seals to search box",
   "matchedColumns": [
     0
   ],
@@ -13746,4432 +8485,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11414553882,
+  "duration": 41973270660,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ancient",
+      "val": "seals",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 52389788,
+  "duration": 60768787,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3231037283,
+  "duration": 46724883015,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 30677935,
+  "duration": 71003758,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1740770652,
+  "duration": 1890004701,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 116402200,
+  "duration": 85116652,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 204296800,
+  "duration": 158975482,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ancient",
+      "val": "seals",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 127043321,
+  "duration": 65917944,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 76816831,
+  "duration": 53357216,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ancient",
+      "val": "seals",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 15400405211,
+  "duration": 15459227412,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4524338042,
+  "duration": 3509055084,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ancient",
+      "val": "seals",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 57465339,
+  "duration": 56332518,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 4467148944,
+  "duration": 6354113827,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 27707618,
+  "duration": 53566009,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1473217728,
+  "duration": 1371638085,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4667629110,
+  "duration": 4683175697,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 80,
+  "line": 58,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;58",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the fountain to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the fountain to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the fountain result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms fountain to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12200305683,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "fountain",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 83522258,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4082051029,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 52354011,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1999268637,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 125333388,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 166354210,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "fountain",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 89016569,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 65906214,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "fountain",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 367974528,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4923375541,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "fountain",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 76074325,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1634097276,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 31387891,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1431160271,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4830813007,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 81,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;59",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the as long as to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the as long as to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the as long as result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms as long as to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12024803282,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "as long as",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57883218,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3303002018,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 47996333,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1664287538,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 121197406,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 186874592,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "as long as",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 137945434,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 64998608,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "as long as",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15353930253,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3532539040,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "as long as",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 92130579,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2705295459,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 5028686776,
-  "error_message": "java.lang.NullPointerException\r\n\tat Steps.findRelevancyList(Steps.java:154)\r\n\tat ✽.Then find relevancy list(translate.feature:20)\r\n",
-  "status": "failed"
-});
-formatter.after({
-  "duration": 1539233911,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4948099938,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 82,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;60",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the attractions to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the attractions to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the attractions result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms attractions to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11828857622,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attractions",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 61318042,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 5788329458,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 40882702,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1980059664,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 124140451,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 166618427,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attractions",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 84860353,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 63640280,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attractions",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 356630488,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 7567339760,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "attractions",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 135754572,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1750550502,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 41446913,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1565787594,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4906538071,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 83,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;61",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the wherever to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the wherever to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the wherever result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms wherever to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12626439375,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wherever",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 102078460,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2447778098,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 53861896,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1961247751,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 102893692,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 198589590,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wherever",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 119776908,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 81747224,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wherever",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 349927699,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3151596754,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "wherever",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 79386863,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1939803342,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 23091588,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1607862647,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4773757336,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 84,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;62",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the plenty to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the plenty to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the plenty result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms plenty to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7107997688,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "plenty",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 75189006,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2279253259,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 54437251,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1978794295,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 114007823,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 197841513,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "plenty",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 88809243,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 72830112,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "plenty",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 387789352,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3246935476,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "plenty",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 111365945,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2677510423,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 32281421,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1466990003,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 5062826221,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 85,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;63",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the entrance to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the entrance to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the entrance result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms entrance to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 14762466962,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "entrance",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 60508675,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 6579230708,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 47636517,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1812193757,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 89450578,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 208591429,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "entrance",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 119246421,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 87708093,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "entrance",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15357253643,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3396105010,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "entrance",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 124943073,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2611657287,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 22623269,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1614087733,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4934831894,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 86,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;64",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the guarantee to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the guarantee to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the guarantee result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms guarantee to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11981698633,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "guarantee",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 62954957,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4396715848,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 42470059,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1864795857,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 110996744,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 194913716,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "guarantee",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 92466348,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 85635117,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "guarantee",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 395054300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4402429215,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "guarantee",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 93298296,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2166038968,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 29140432,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1446005115,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 5009895096,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 87,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;65",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the commentary to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the commentary to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the commentary result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms commentary to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 9221211980,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commentary",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 90141178,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2662087879,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 52801802,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1807174216,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 116163788,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 187686598,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commentary",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 130179618,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 82242228,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commentary",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 417194001,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3029734847,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commentary",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 65061071,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2890179770,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 26521719,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1387084676,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4715911360,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 88,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;66",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the tourist to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the tourist to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the tourist result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms tourist to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 10949552693,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "tourist",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 76347632,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3224552085,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 37546411,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1724385372,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 110297932,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 199491037,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "tourist",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 78284541,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 59621891,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "tourist",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 428658566,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4471710430,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "tourist",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 105951984,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2212286951,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 46597242,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1461479564,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4763272516,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 89,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;67",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the protection to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the protection to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the protection result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms protection to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6746420678,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "protection",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 72974684,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2879421936,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 50204790,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2897330057,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 146654045,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 195072950,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "protection",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 92032047,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 64296277,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "protection",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 417064972,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3043484699,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "protection",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 79158422,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2216919109,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 34590168,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1581551773,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4926037360,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 90,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;68",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the occasionally to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the occasionally to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the occasionally result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms occasionally to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6976288777,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occasionally",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 65687450,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2756790544,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 35233850,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1709349624,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 122299141,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 204774209,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occasionally",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 90444691,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 76257898,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occasionally",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 406589243,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3603122279,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occasionally",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 84916070,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1389100761,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 41816701,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1449034083,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 5162350483,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 91,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;69",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the rainwear to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the rainwear to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the rainwear result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms rainwear to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 10578642158,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "rainwear",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57028984,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2843101306,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 51290984,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1908138330,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 102317164,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 186568440,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "rainwear",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 83973862,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67819369,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "rainwear",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5397292668,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4092540248,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "rainwear",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 62412447,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2333713677,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28955978,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1424300594,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4871154664,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 92,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;70",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the advised to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the advised to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the advised result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms advised to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 8677400747,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "advised",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 50473113,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2532821731,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 42858320,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2070857721,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 106024710,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 183471439,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "advised",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 88011605,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 68624337,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "advised",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 399336612,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3412404075,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "advised",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 60096074,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2302575927,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 26916725,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1463633477,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4784201687,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 93,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;71",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the technologies to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the technologies to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the technologies result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms technologies to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7058473528,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "technologies",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 63588961,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2787798971,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 33289903,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1984039931,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 144188409,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 170426850,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "technologies",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 85755056,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67722597,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "technologies",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 373891409,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3984021163,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "technologies",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 60998401,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1459724762,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 25522034,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1355689453,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4859016508,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 94,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;72",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the department to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the department to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the department result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms department to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7376372881,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "department",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 56802889,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2605444223,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 60757057,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2586976877,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 95970380,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 177820241,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "department",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 73990499,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67801481,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "department",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 375306042,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 6079632899,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "department",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 73050929,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2609467305,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28939263,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1340707076,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4665601587,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 95,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;73",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the thanks to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the thanks to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the thanks result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms thanks to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 14145289558,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "thanks",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57358889,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2638800108,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 27681813,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1545036426,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 112374134,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 166126355,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "thanks",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 64480438,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 60593718,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "thanks",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5378450842,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3082360114,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "thanks",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 74286680,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1258896217,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 22887780,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1479756299,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4841337708,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 96,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;74",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the admissions to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the admissions to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the admissions result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms admissions to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 8790210357,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "admissions",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 93425566,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3206080045,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 51963403,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2056158035,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 113852109,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 177221133,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "admissions",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 82649258,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 65540239,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "admissions",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 375847966,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3768690583,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "admissions",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 163842533,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2090396892,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 55729013,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1351081047,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4700463011,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 97,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;75",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the enrolments to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the enrolments to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the enrolments result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms enrolments to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 15084414909,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "enrolments",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 66149317,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3278903120,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 32522764,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1912144696,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 101502519,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 209431880,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "enrolments",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 120213262,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67619080,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "enrolments",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 508378853,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3169321888,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "enrolments",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 110181805,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2854086115,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 43657130,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1458737100,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4883622726,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 98,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;76",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the suit to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the suit to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the suit result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms suit to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11441492014,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suit",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 88930061,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 8443879354,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 40074215,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1769046293,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 107052254,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 175485980,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suit",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 60215720,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 65739648,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suit",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 354035529,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3772506337,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "suit",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 48364653,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 3219182405,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 53544895,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1538328945,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4718216003,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 99,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;77",
+  "id": "testing-google-translate;;;36",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -18267,7 +8711,7 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 14032227169,
+  "duration": 8647979384,
   "status": "passed"
 });
 formatter.match({
@@ -18280,42 +8724,42 @@ formatter.match({
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 74333599,
+  "duration": 56719606,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2704366153,
+  "duration": 2703183187,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 29112574,
+  "duration": 44945372,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1804475740,
+  "duration": 1717071453,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 90705683,
+  "duration": 84768273,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 177031694,
+  "duration": 183982572,
   "status": "passed"
 });
 formatter.match({
@@ -18328,14 +8772,14 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 72819262,
+  "duration": 70555381,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 71085575,
+  "duration": 60263812,
   "status": "passed"
 });
 formatter.match({
@@ -18348,14 +8792,14 @@ formatter.match({
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 352819720,
+  "duration": 391905100,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3657732841,
+  "duration": 2792120872,
   "status": "passed"
 });
 formatter.match({
@@ -18368,36 +8812,36 @@ formatter.match({
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 67924352,
+  "duration": 58348898,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1633980270,
+  "duration": 1255710655,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 23137335,
+  "duration": 27032559,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1385965344,
+  "duration": 1367995055,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4730539493,
+  "duration": 4711914085,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 100,
+  "line": 59,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;78",
+  "id": "testing-google-translate;;;37",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -18414,7 +8858,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the responsible to query box",
+  "name": "put the excited to query box",
   "matchedColumns": [
     0
   ],
@@ -18447,7 +8891,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the responsible to input box",
+  "name": "put the excited to input box",
   "matchedColumns": [
     0
   ],
@@ -18460,7 +8904,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the responsible result",
+  "name": "save the excited result",
   "matchedColumns": [
     0
   ],
@@ -18473,7 +8917,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms responsible to search box",
+  "name": "put the synonyms excited to search box",
   "matchedColumns": [
     0
   ],
@@ -18493,137 +8937,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12500671980,
+  "duration": 7740761854,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "responsible",
+      "val": "excited",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 59867340,
+  "duration": 47959384,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2793477442,
+  "duration": 2389186390,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 59176446,
+  "duration": 45447121,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2186137951,
+  "duration": 1762514761,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 148419990,
+  "duration": 105400970,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 164925795,
+  "duration": 162072190,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "responsible",
+      "val": "excited",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 84101426,
+  "duration": 69416696,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 65591265,
+  "duration": 58566488,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "responsible",
+      "val": "excited",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 376069955,
+  "duration": 453545423,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3724998263,
+  "duration": 2923198125,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "responsible",
+      "val": "excited",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 73789329,
+  "duration": 56828989,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2163012639,
+  "duration": 1298261943,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 27572137,
+  "duration": 43418132,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1381488021,
+  "duration": 1339716188,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4690303990,
+  "duration": 4606971463,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 101,
+  "line": 60,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;79",
+  "id": "testing-google-translate;;;38",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -18640,7 +9084,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the introduced to query box",
+  "name": "put the amazed to query box",
   "matchedColumns": [
     0
   ],
@@ -18673,7 +9117,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the introduced to input box",
+  "name": "put the amazed to input box",
   "matchedColumns": [
     0
   ],
@@ -18686,7 +9130,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the introduced result",
+  "name": "save the amazed result",
   "matchedColumns": [
     0
   ],
@@ -18699,7 +9143,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms introduced to search box",
+  "name": "put the synonyms amazed to search box",
   "matchedColumns": [
     0
   ],
@@ -18719,137 +9163,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 8674835113,
+  "duration": 8632625166,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "introduced",
+      "val": "amazed",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 106910321,
+  "duration": 50247898,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3038853420,
+  "duration": 3839092008,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 47650007,
+  "duration": 33711595,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1594728617,
+  "duration": 1789417705,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 93010912,
+  "duration": 85683796,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 184692234,
+  "duration": 164152497,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "introduced",
+      "val": "amazed",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 66115007,
+  "duration": 65215319,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 67208239,
+  "duration": 54662466,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "introduced",
+      "val": "amazed",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 382224955,
+  "duration": 439238398,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3425826661,
+  "duration": 2967798050,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "introduced",
+      "val": "amazed",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 60654420,
+  "duration": 61865244,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1467225775,
+  "duration": 1481258319,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 30952710,
+  "duration": 28325200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1611859629,
+  "duration": 1526220406,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4846942866,
+  "duration": 4608464394,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 102,
+  "line": 61,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;80",
+  "id": "testing-google-translate;;;39",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -18866,7 +9310,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the experiencing to query box",
+  "name": "put the frightening to query box",
   "matchedColumns": [
     0
   ],
@@ -18899,7 +9343,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the experiencing to input box",
+  "name": "put the frightening to input box",
   "matchedColumns": [
     0
   ],
@@ -18912,7 +9356,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the experiencing result",
+  "name": "save the frightening result",
   "matchedColumns": [
     0
   ],
@@ -18925,7 +9369,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms experiencing to search box",
+  "name": "put the synonyms frightening to search box",
   "matchedColumns": [
     0
   ],
@@ -18945,137 +9389,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 9034201027,
+  "duration": 8668761636,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "experiencing",
+      "val": "frightening",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 57869143,
+  "duration": 63705381,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2770159173,
+  "duration": 11440583237,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 32496079,
+  "duration": 40369517,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1675164725,
+  "duration": 1815572277,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 128577306,
+  "duration": 85133955,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 262915193,
+  "duration": 161298600,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "experiencing",
+      "val": "frightening",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 99984077,
+  "duration": 79600935,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 89009238,
+  "duration": 58377636,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "experiencing",
+      "val": "frightening",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 350841169,
+  "duration": 402247107,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3222667374,
+  "duration": 3005422758,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "experiencing",
+      "val": "frightening",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 77150548,
+  "duration": 114537724,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1525928917,
+  "duration": 1666060814,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25539922,
+  "duration": 29536904,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1329316411,
+  "duration": 1345684388,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4755267409,
+  "duration": 4592440396,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 103,
+  "line": 62,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;81",
+  "id": "testing-google-translate;;;40",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -19092,7 +9536,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the increasing to query box",
+  "name": "put the unsure to query box",
   "matchedColumns": [
     0
   ],
@@ -19125,7 +9569,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the increasing to input box",
+  "name": "put the unsure to input box",
   "matchedColumns": [
     0
   ],
@@ -19138,7 +9582,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the increasing result",
+  "name": "save the unsure result",
   "matchedColumns": [
     0
   ],
@@ -19151,7 +9595,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms increasing to search box",
+  "name": "put the synonyms unsure to search box",
   "matchedColumns": [
     0
   ],
@@ -19171,137 +9615,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 9344525469,
+  "duration": 10463900040,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increasing",
+      "val": "unsure",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 53317041,
+  "duration": 51882761,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3499303680,
+  "duration": 2686255984,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 40551624,
+  "duration": 43811379,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1820283613,
+  "duration": 1862284767,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 129706021,
+  "duration": 100998424,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 187971929,
+  "duration": 174355798,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increasing",
+      "val": "unsure",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 84831028,
+  "duration": 63981622,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 57563577,
+  "duration": 64212408,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increasing",
+      "val": "unsure",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 371346009,
+  "duration": 422402394,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3481671214,
+  "duration": 3043327225,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "increasing",
+      "val": "unsure",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 64522666,
+  "duration": 55884141,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1368024966,
+  "duration": 1349884592,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 23172231,
+  "duration": 44553298,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1309524165,
+  "duration": 1354865717,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4803640274,
+  "duration": 4610892200,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 104,
+  "line": 63,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;82",
+  "id": "testing-google-translate;;;41",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -19318,7 +9762,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the crashed to query box",
+  "name": "put the perfectly to query box",
   "matchedColumns": [
     0
   ],
@@ -19351,7 +9795,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the crashed to input box",
+  "name": "put the perfectly to input box",
   "matchedColumns": [
     0
   ],
@@ -19364,7 +9808,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the crashed result",
+  "name": "save the perfectly result",
   "matchedColumns": [
     0
   ],
@@ -19377,7 +9821,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms crashed to search box",
+  "name": "put the synonyms perfectly to search box",
   "matchedColumns": [
     0
   ],
@@ -19397,137 +9841,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 9821634610,
+  "duration": 11408646677,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crashed",
+      "val": "perfectly",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 77845841,
+  "duration": 54911141,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2519608818,
+  "duration": 5951414530,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 39771290,
+  "duration": 45371170,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2103674027,
+  "duration": 1691116290,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 101694891,
+  "duration": 117650268,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 241885438,
+  "duration": 174998600,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crashed",
+      "val": "perfectly",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 77924139,
+  "duration": 73000783,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 55957454,
+  "duration": 56766820,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crashed",
+      "val": "perfectly",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 15408688025,
+  "duration": 370299698,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3552520430,
+  "duration": 3114148582,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crashed",
+      "val": "perfectly",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 55036652,
+  "duration": 101622458,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2479591199,
+  "duration": 2787138868,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25581270,
+  "duration": 35857297,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1472733869,
+  "duration": 1441241873,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4890654247,
+  "duration": 4603255121,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 105,
+  "line": 64,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;83",
+  "id": "testing-google-translate;;;42",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -19544,7 +9988,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the takes ages to query box",
+  "name": "put the impressed to query box",
   "matchedColumns": [
     0
   ],
@@ -19577,7 +10021,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the takes ages to input box",
+  "name": "put the impressed to input box",
   "matchedColumns": [
     0
   ],
@@ -19590,7 +10034,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the takes ages result",
+  "name": "save the impressed result",
   "matchedColumns": [
     0
   ],
@@ -19603,7 +10047,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms takes ages to search box",
+  "name": "put the synonyms impressed to search box",
   "matchedColumns": [
     0
   ],
@@ -19623,137 +10067,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 8395012951,
+  "duration": 8545486856,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "takes ages",
+      "val": "impressed",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 60569085,
+  "duration": 67375683,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2601561609,
+  "duration": 2625444968,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 50506544,
+  "duration": 33505735,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1661031303,
+  "duration": 1694199215,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 124677096,
+  "duration": 81930797,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 207862999,
+  "duration": 163692684,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "takes ages",
+      "val": "impressed",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 107197119,
+  "duration": 72923366,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 82735179,
+  "duration": 56093227,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "takes ages",
+      "val": "impressed",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 368791812,
+  "duration": 15400599342,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 5412380321,
+  "duration": 13371155398,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "takes ages",
+      "val": "impressed",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 78186302,
+  "duration": 73910441,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3032162948,
+  "duration": 2154579389,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 51489513,
+  "duration": 32553848,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1425098525,
+  "duration": 1439708475,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4755423711,
+  "duration": 4616249857,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 106,
+  "line": 65,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;84",
+  "id": "testing-google-translate;;;43",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -19770,7 +10214,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the timetabling to query box",
+  "name": "put the organise to query box",
   "matchedColumns": [
     0
   ],
@@ -19803,7 +10247,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the timetabling to input box",
+  "name": "put the organise to input box",
   "matchedColumns": [
     0
   ],
@@ -19816,7 +10260,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the timetabling result",
+  "name": "save the organise result",
   "matchedColumns": [
     0
   ],
@@ -19829,7 +10273,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms timetabling to search box",
+  "name": "put the synonyms organise to search box",
   "matchedColumns": [
     0
   ],
@@ -19849,137 +10293,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7580447984,
+  "duration": 7437766875,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "timetabling",
+      "val": "organise",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 74910420,
+  "duration": 56842478,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2844961677,
+  "duration": 2480305847,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 52614710,
+  "duration": 47296348,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2053737559,
+  "duration": 1699438985,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 101003116,
+  "duration": 83434578,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 190694159,
+  "duration": 155886985,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "timetabling",
+      "val": "organise",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 94430530,
+  "duration": 73820707,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 98522817,
+  "duration": 56682364,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "timetabling",
+      "val": "organise",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 384626664,
+  "duration": 448698313,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3516834977,
+  "duration": 9836732235,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "timetabling",
+      "val": "organise",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 102766422,
+  "duration": 65594783,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3134606796,
+  "duration": 1608833300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24233792,
+  "duration": 36114769,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1561600000,
+  "duration": 1327632869,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4921577632,
+  "duration": 4635299889,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 107,
+  "line": 66,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;85",
+  "id": "testing-google-translate;;;44",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -19996,7 +10440,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the options to query box",
+  "name": "put the afterwards to query box",
   "matchedColumns": [
     0
   ],
@@ -20029,7 +10473,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the options to input box",
+  "name": "put the afterwards to input box",
   "matchedColumns": [
     0
   ],
@@ -20042,7 +10486,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the options result",
+  "name": "save the afterwards result",
   "matchedColumns": [
     0
   ],
@@ -20055,7 +10499,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms options to search box",
+  "name": "put the synonyms afterwards to search box",
   "matchedColumns": [
     0
   ],
@@ -20075,137 +10519,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7080675105,
+  "duration": 7451814961,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "options",
+      "val": "afterwards",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 50693050,
+  "duration": 93644623,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2738204138,
+  "duration": 8185724176,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 34456741,
+  "duration": 47642088,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1802360536,
+  "duration": 2198527422,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 140408138,
+  "duration": 88931528,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 213631204,
+  "duration": 161624692,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "options",
+      "val": "afterwards",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 113774398,
+  "duration": 84287638,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 78537322,
+  "duration": 53339914,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "options",
+      "val": "afterwards",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 385574737,
+  "duration": 5882616003,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3393400669,
+  "duration": 3353865152,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "options",
+      "val": "afterwards",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 98901695,
+  "duration": 94690056,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1813166170,
+  "duration": 2240697780,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24188338,
+  "duration": 31156224,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1492551040,
+  "duration": 1446386045,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4800084338,
+  "duration": 4797540111,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 108,
+  "line": 67,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;86",
+  "id": "testing-google-translate;;;45",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -20222,7 +10666,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the seemed to query box",
+  "name": "put the conservation to query box",
   "matchedColumns": [
     0
   ],
@@ -20255,7 +10699,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the seemed to input box",
+  "name": "put the conservation to input box",
   "matchedColumns": [
     0
   ],
@@ -20268,7 +10712,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the seemed result",
+  "name": "save the conservation result",
   "matchedColumns": [
     0
   ],
@@ -20281,7 +10725,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms seemed to search box",
+  "name": "put the synonyms conservation to search box",
   "matchedColumns": [
     0
   ],
@@ -20301,137 +10745,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7836574466,
+  "duration": 12507200285,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "seemed",
+      "val": "conservation",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 106488923,
+  "duration": 62439719,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2709705041,
+  "duration": 5072161799,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 84481769,
+  "duration": 45311053,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1717957944,
+  "duration": 1757292292,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 141246244,
+  "duration": 90445278,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 205271559,
+  "duration": 165855980,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "seemed",
+      "val": "conservation",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 81271281,
+  "duration": 90953771,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 83667417,
+  "duration": 59659426,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "seemed",
+      "val": "conservation",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 399780885,
+  "duration": 401014875,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3539458540,
+  "duration": 4056621368,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "seemed",
+      "val": "conservation",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 85872062,
+  "duration": 60585506,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2385928982,
+  "duration": 2095821116,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25000344,
+  "duration": 28919615,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1535926357,
+  "duration": 1404845879,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4770528666,
+  "duration": 4700357147,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 109,
+  "line": 68,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;87",
+  "id": "testing-google-translate;;;46",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -20448,7 +10892,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the efficient to query box",
+  "name": "put the aware to query box",
   "matchedColumns": [
     0
   ],
@@ -20481,7 +10925,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the efficient to input box",
+  "name": "put the aware to input box",
   "matchedColumns": [
     0
   ],
@@ -20494,7 +10938,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the efficient result",
+  "name": "save the aware result",
   "matchedColumns": [
     0
   ],
@@ -20507,7 +10951,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms efficient to search box",
+  "name": "put the synonyms aware to search box",
   "matchedColumns": [
     0
   ],
@@ -20527,137 +10971,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6485860860,
+  "duration": 7690085814,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "efficient",
+      "val": "aware",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 104122111,
+  "duration": 51598895,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3131512140,
+  "duration": 1835469212,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 45618965,
+  "duration": 33882559,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1609791931,
+  "duration": 1921477047,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 105343493,
+  "duration": 84019022,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 205229624,
+  "duration": 175118246,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "efficient",
+      "val": "aware",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 176943719,
+  "duration": 65587452,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 76268456,
+  "duration": 60843272,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "efficient",
+      "val": "aware",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 394967791,
+  "duration": 409063091,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3062431508,
+  "duration": 3239216579,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "efficient",
+      "val": "aware",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 76790145,
+  "duration": 57858879,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1799067058,
+  "duration": 2140384091,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 53548707,
+  "duration": 39599445,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1524065907,
+  "duration": 1357360971,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4783141886,
+  "duration": 4558915600,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 110,
+  "line": 69,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;88",
+  "id": "testing-google-translate;;;47",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -20674,7 +11118,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the obviously to query box",
+  "name": "put the worrying to query box",
   "matchedColumns": [
     0
   ],
@@ -20707,7 +11151,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the obviously to input box",
+  "name": "put the worrying to input box",
   "matchedColumns": [
     0
   ],
@@ -20720,7 +11164,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the obviously result",
+  "name": "save the worrying result",
   "matchedColumns": [
     0
   ],
@@ -20733,7 +11177,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms obviously to search box",
+  "name": "put the synonyms worrying to search box",
   "matchedColumns": [
     0
   ],
@@ -20753,137 +11197,137 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7114111633,
+  "duration": 8351650243,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "obviously",
+      "val": "worrying",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 57002885,
+  "duration": 75475510,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4595103389,
+  "duration": 2498205757,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 50489242,
+  "duration": 49192789,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2094257220,
+  "duration": 1813358834,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 111496734,
+  "duration": 115968779,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 203259579,
+  "duration": 183233614,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "obviously",
+      "val": "worrying",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 88172893,
+  "duration": 71162699,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 74267912,
+  "duration": 64456099,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "obviously",
+      "val": "worrying",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 378098650,
+  "duration": 414362098,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3555185476,
+  "duration": 3615878017,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "obviously",
+      "val": "worrying",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 71809020,
+  "duration": 61184027,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1905851282,
+  "duration": 1203248142,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 28537512,
+  "duration": 64734978,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1514980764,
+  "duration": 1396494151,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4845205659,
+  "duration": 4737864555,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 111,
+  "line": 70,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;89",
+  "id": "testing-google-translate;;;48",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -20900,7 +11344,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the schedule to query box",
+  "name": "put the situation to query box",
   "matchedColumns": [
     0
   ],
@@ -20933,7 +11377,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the schedule to input box",
+  "name": "put the situation to input box",
   "matchedColumns": [
     0
   ],
@@ -20946,7 +11390,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the schedule result",
+  "name": "save the situation result",
   "matchedColumns": [
     0
   ],
@@ -20959,7 +11403,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms schedule to search box",
+  "name": "put the synonyms situation to search box",
   "matchedColumns": [
     0
   ],
@@ -20979,137 +11423,4431 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7480649828,
+  "duration": 10927889227,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "schedule",
+      "val": "situation",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 63866668,
+  "duration": 63160525,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3740129903,
+  "duration": 2124516396,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 32565286,
+  "duration": 36159637,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1760403957,
+  "duration": 1812330704,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 120783632,
+  "duration": 88423327,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 212655859,
+  "duration": 175431142,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "schedule",
+      "val": "situation",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 104596295,
+  "duration": 85077065,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 82903210,
+  "duration": 60073494,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "schedule",
+      "val": "situation",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 374585823,
+  "duration": 412988226,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3638374897,
+  "duration": 3746008957,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "schedule",
+      "val": "situation",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 89165246,
+  "duration": 222731889,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1509355371,
+  "duration": 1655719980,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 27551024,
+  "duration": 28401738,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1529722677,
+  "duration": 1412536330,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4826564416,
+  "duration": 4667939367,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 112,
+  "line": 71,
   "name": "",
   "description": "",
-  "id": "testing-google-translate;;;90",
+  "id": "testing-google-translate;;;49",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the species to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the species to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the species result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms species to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 14424061890,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "species",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 81116152,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4594365868,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 45689931,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1486525362,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 91430887,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 176479507,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "species",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 75331232,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 55043104,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "species",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 381796226,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 5622718927,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "species",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 77501567,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 32727374751,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 31919552,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1436010314,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4585328232,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 72,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;50",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the petition to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the petition to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the petition result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms petition to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 12361974362,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "petition",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 70343949,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4695701236,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 39047551,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1831320913,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 90054083,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 183455017,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "petition",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 69502032,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 60655886,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "petition",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 404140615,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4587376868,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "petition",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 71206394,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 3446055847,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 28582672,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1408958987,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4573107379,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 73,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;51",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the signatures to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the signatures to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the signatures result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms signatures to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 12239845012,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "signatures",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 78938779,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4423369529,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 42093820,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1739311739,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 106243767,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 160078685,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "signatures",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 101118363,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 57131621,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "signatures",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 758290805,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 5850205260,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "signatures",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 79582168,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 3259343715,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 32550916,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1501181646,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4563571220,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 74,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;52",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the seriously to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the seriously to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the seriously result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms seriously to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 12557360796,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seriously",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 76091919,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 5235990256,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 40637253,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1745752657,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 95764812,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 170720686,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seriously",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 76118898,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 65431151,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seriously",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 387984070,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 5385599663,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seriously",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 97521960,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 3151027852,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 32011631,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1472605718,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4643853959,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 75,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;53",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the discover to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the discover to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the discover result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms discover to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 10961997002,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "discover",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 68431966,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2617627247,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 38488619,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1666831180,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 92985986,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 151151603,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "discover",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 73288754,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 57660349,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "discover",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 408793302,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4002017845,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "discover",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 62663468,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1210382886,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 46184935,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1402358542,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4621563819,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 76,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;54",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the learnt to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the learnt to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the learnt result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms learnt to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 14668832309,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "learnt",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 74660278,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 5664232115,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 35506279,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1724576864,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 83583548,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 184073772,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "learnt",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 60342404,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 63262868,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "learnt",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 450830525,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3037043195,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "learnt",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 56311698,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1168385838,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 30200233,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1360309002,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4578805791,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 77,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;55",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the cave to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the cave to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the cave result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms cave to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 12566224829,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cave",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 61387249,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3996906225,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 48663181,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1754056878,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85716640,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 165413467,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cave",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 61275228,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 66670420,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cave",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 15346912222,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 2870548519,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cave",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 55555702,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2007442949,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 38834946,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1373392006,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4629961294,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 78,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;56",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the beyond to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the beyond to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the beyond result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms beyond to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 9424735775,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "beyond",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 60062058,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2450790056,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 44589075,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1970029967,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 105609762,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 164385044,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "beyond",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 62158787,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 63589547,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "beyond",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 448693327,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4192511715,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "beyond",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 51580127,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1282313604,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 40087998,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1361926270,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4598000395,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 79,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;57",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the endangered to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the endangered to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the endangered result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms endangered to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 19871502458,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "endangered",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 99791412,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 9808538996,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 37117387,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 3132910644,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85117826,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 161144938,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "endangered",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 76450269,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 53783307,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "endangered",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 482101702,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3587596218,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "endangered",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 68367158,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2469497867,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 34168184,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1320865272,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4555433270,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 80,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;58",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the overlooked to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the overlooked to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the overlooked result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms overlooked to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 11279284930,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "overlooked",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 95972726,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4523562692,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 35005996,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1868240064,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 108186247,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 157792516,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "overlooked",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 73820414,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 60433603,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "overlooked",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 420638502,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 6251675551,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "overlooked",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 96528725,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1786270851,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 29298786,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1428896684,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4568018339,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 81,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;59",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the apologise to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the apologise to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the apologise result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms apologise to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7660455949,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "apologise",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 89728871,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2538704597,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 52223222,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1770382041,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85306678,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 166294974,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "apologise",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 69383265,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 67518496,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "apologise",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 398242500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3111856550,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "apologise",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 72579678,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1629199727,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 30447149,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1341875086,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4648393744,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 82,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;60",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the entertained to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the entertained to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the entertained result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms entertained to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 10909599296,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "entertained",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 70174745,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2682197712,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 47233006,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 2588490921,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 81645760,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 156689315,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "entertained",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 75711282,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 57179421,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "entertained",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 427109918,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4020147956,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "entertained",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 67399144,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1488372243,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 25578631,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1374918074,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4617628127,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 83,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;61",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the directly to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the directly to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the directly result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms directly to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 12621826278,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "directly",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 52468671,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 5593638612,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 36887187,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1836811705,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85990534,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 174520898,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "directly",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 70046888,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 60115722,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "directly",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 390692223,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4257484518,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "directly",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 54261595,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1101449734,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 25949004,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1396518784,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4576446311,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 84,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;62",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the opposite to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the opposite to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the opposite result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms opposite to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 6778778049,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "opposite",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 78279556,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2488149960,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 33920389,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 4546899143,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 146774571,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 154192887,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "opposite",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 68627857,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 54705867,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "opposite",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 949282024,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 9756667086,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "opposite",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 61010717,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1678242372,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 33088735,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1403402508,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4596863763,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 85,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;63",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the expecting to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the expecting to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the expecting result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms expecting to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 6537711656,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "expecting",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 97401727,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2636274942,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 27863920,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1660967668,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85840685,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 172093090,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "expecting",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 72122503,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 64054054,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "expecting",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 418016858,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3106246112,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "expecting",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 77972817,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1234948636,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 26470402,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1397651312,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4619475008,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 86,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;64",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the hatched to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the hatched to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the hatched result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms hatched to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7819068389,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "hatched",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 70841885,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2989391429,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 32022188,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1953543516,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 88814228,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 174733210,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "hatched",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 80649886,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 58058288,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "hatched",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 15412927524,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3507495587,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "hatched",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 59837135,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 3466859508,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 20927411,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1356965965,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4776008021,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 87,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;65",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the quieter to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the quieter to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the quieter result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms quieter to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 8006012481,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "quieter",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 68667152,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2745601927,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 47583438,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1636634758,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 89712156,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 178867139,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "quieter",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 59734205,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 71718113,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "quieter",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 477649599,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 6511844175,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "quieter",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 60592837,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1258249310,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 29016095,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1358256260,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4556590137,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 88,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;66",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the accent to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the accent to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the accent result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms accent to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 17970346090,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "accent",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 65120600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4770190550,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 40328462,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1396951619,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 83666537,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 172290446,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "accent",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 68621991,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 57811079,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "accent",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 334591664,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3239409244,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "accent",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 70481189,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2118104217,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 24054031,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1401878494,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4805682752,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 89,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;67",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the career to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the career to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the career result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms career to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7173778391,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "career",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 54287987,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 1950709267,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 38205927,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 2511310755,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 159852297,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 195592881,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "career",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 66898568,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 64754039,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "career",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 322094278,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 7810456551,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "career",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 58980556,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1812739199,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 32913958,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1355102369,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4664175518,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 90,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;68",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -21205,7 +15943,7 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7294129481,
+  "duration": 8737087154,
   "status": "passed"
 });
 formatter.match({
@@ -21218,42 +15956,42 @@ formatter.match({
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 57452729,
+  "duration": 62466991,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2914569278,
+  "duration": 32727040741,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 40168348,
+  "duration": 49599525,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2030218415,
+  "duration": 3528789267,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 96361280,
+  "duration": 100308703,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 208776762,
+  "duration": 164411729,
   "status": "passed"
 });
 formatter.match({
@@ -21266,14 +16004,14 @@ formatter.match({
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 74414830,
+  "duration": 68852192,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 79718821,
+  "duration": 54897065,
   "status": "passed"
 });
 formatter.match({
@@ -21286,14 +16024,14 @@ formatter.match({
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 399250691,
+  "duration": 751800034,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4420118572,
+  "duration": 3046737416,
   "status": "passed"
 });
 formatter.match({
@@ -21306,29 +16044,5001 @@ formatter.match({
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 65161948,
+  "duration": 57191151,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1309152913,
+  "duration": 1898672843,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 34203373,
+  "duration": 35006875,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1644275064,
+  "duration": 1405130623,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4976702258,
+  "duration": 4739908793,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 91,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;69",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the suppose to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the suppose to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the suppose result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms suppose to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 11307002812,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "suppose",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 61575222,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 4117125352,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 60142701,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 2571160500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 100970859,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 150137841,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "suppose",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 66051959,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 54124354,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "suppose",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 648280844,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 6936045064,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "suppose",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 62473442,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2984455758,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 44750361,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1468794070,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4562956863,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 92,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;70",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the theory to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the theory to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the theory result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms theory to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7051526463,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "theory",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 61038576,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2654267812,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 29069759,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 2570083103,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 121657220,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 159090436,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "theory",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 70680891,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 57092619,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "theory",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 390727413,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3282918870,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "theory",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 58007556,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2154672056,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 30984968,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1422519400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4631008485,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 93,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;71",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the heavy to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the heavy to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the heavy result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms heavy to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 14491225848,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "heavy",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 64339679,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3028500270,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 44741564,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1348198411,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 82882684,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 159387790,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "heavy",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 58336581,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 52866316,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "heavy",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 396019381,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3252963793,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "heavy",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 52405916,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1243319131,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 72621613,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1346374696,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4674624854,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 94,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;72",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the field to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the field to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the field result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms field to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7069552470,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "field",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 52997985,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2540872878,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 35270799,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1852453305,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 82990013,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 174648461,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "field",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 65474551,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 59652095,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "field",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 343201157,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4380155498,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "field",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 56859487,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2196917485,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 28934278,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1367412955,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4745268503,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 95,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;73",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the nearby to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the nearby to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the nearby result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms nearby to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 9630241640,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "nearby",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 51362243,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2116763776,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 41934586,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1657352497,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 135238454,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 220784130,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "nearby",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 69657160,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 58997271,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "nearby",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 313228192,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3271862509,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "nearby",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 61294289,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1299958388,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 36115063,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1339490973,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4585302133,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 96,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;74",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the cope to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the cope to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the cope result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms cope to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 10854730969,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cope",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 64853157,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2102853224,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 45548292,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1806016763,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 86334809,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 171478147,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cope",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 68575365,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 58843316,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cope",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 15360830692,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 6416620407,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "cope",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 56891744,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2694215637,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 25943433,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1444245035,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4759145332,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 97,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;75",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the lecture to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the lecture to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the lecture result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms lecture to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7987713459,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "lecture",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 54591794,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2349077865,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 27534015,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1863094133,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 115216889,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 159709191,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "lecture",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 70777663,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 65826156,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "lecture",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 420239977,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3032192272,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "lecture",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 59558842,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1196478492,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 42386776,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1314586814,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4567397237,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 98,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;76",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the knowledgeable to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the knowledgeable to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the knowledgeable result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms knowledgeable to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 15792618515,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "knowledgeable",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 115734179,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2142776122,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 30386740,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 3499659392,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 91780733,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 171473749,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "knowledgeable",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 85576760,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 59154159,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "knowledgeable",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 377905106,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 9142469677,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "knowledgeable",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 91804779,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2477914989,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 27702926,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1348167327,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4698498536,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 99,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;77",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the seminars to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the seminars to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the seminars result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms seminars to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 8022746434,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seminars",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 66378931,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 7801330940,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 33168498,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1893913415,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85031904,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 161865743,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seminars",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 73605462,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 55469781,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seminars",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 380740529,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3318389372,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "seminars",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 53928171,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1717892843,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 27380059,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1363214805,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4637759954,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 100,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;78",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the frustrating to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the frustrating to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the frustrating result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms frustrating to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 13968984242,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "frustrating",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 65989789,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3778076598,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 50456398,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1795286494,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 97516680,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 163713798,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "frustrating",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 76759353,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 54385346,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "frustrating",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 361511322,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3637939130,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "frustrating",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 93107684,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1048987221,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 33210433,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1397678877,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4610561416,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 101,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;79",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the perhaps to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the perhaps to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the perhaps result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms perhaps to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 14268069335,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "perhaps",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 51327054,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 10684248695,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 42587652,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1851497607,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 86640960,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 162756340,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "perhaps",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 68852191,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 58190836,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "perhaps",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 408261641,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3471254428,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "perhaps",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 87138017,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1615424655,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 28607598,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1326603566,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4615659254,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 102,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;80",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the appear to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the appear to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the appear result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms appear to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 6894687885,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "appear",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 61247662,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2496401396,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 43437779,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1792333478,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 84492326,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 168680260,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "appear",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 61462614,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 56622248,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "appear",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 418533268,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3899537928,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "appear",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 61139160,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 3238060006,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 29499955,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1350333849,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4604698492,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 103,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;81",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the tutor to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the tutor to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the tutor result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms tutor to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7077767837,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "tutor",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 69341917,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3843155264,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 51119434,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1797347740,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 90695419,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 181225739,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "tutor",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 62947333,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 63822974,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "tutor",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 368478915,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 2668481291,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "tutor",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 58061514,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2362675227,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 38374251,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1433174598,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4726451897,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 104,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;82",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the approachable to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the approachable to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the approachable result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms approachable to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 10881703705,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "approachable",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 111799953,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3677881089,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 40465996,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1492025831,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 83254229,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 173345556,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "approachable",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 70116094,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 55368609,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "approachable",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 388897246,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 5779584484,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "approachable",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 73994018,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2371150119,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 41210555,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1428814573,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4695542588,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 105,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;83",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the dreading to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the dreading to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the dreading result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms dreading to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 13228225320,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dreading",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 72843308,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3270029997,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 43247754,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1550424287,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 101566154,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 176080102,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dreading",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 60281115,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 61500150,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dreading",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 542798644,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 2920890550,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dreading",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 77432653,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1297729697,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 34574626,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1477312656,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4636569657,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 106,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;84",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the assessment to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the assessment to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the assessment result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms assessment to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 9307166152,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "assessment",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 55606141,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3135079513,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 32800764,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1541812155,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 78856669,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 163706759,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "assessment",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 73113978,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 60859401,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "assessment",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 444240343,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4111539254,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "assessment",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 73648276,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1848454857,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 27007633,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1325717954,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4664052940,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 107,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;85",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the residence to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the residence to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the residence result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms residence to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 11097836615,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "residence",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 52559286,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3118581919,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 47336230,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1600643740,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 92830564,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 181150960,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "residence",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 68297952,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 59896959,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "residence",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 438734596,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3401148890,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "residence",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 65263999,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2332957681,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 26769808,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1380176905,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4602813488,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 108,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;86",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the noisy to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the noisy to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the noisy result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms noisy to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 9326950478,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "noisy",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 98459769,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2343025208,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 35732666,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1569127112,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 82423749,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 165909938,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "noisy",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 81292688,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 55298816,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "noisy",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 422523799,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 4087623638,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "noisy",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 58107261,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2306652380,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 30600518,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1339397133,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4536903755,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 109,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;87",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the somewhere to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the somewhere to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the somewhere result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms somewhere to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7565587892,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "somewhere",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 64443195,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2740669774,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 46387570,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1517127640,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 85462100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 162688893,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "somewhere",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 73726867,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 57377364,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "somewhere",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 406049372,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3379161384,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "somewhere",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 63092198,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 2151553060,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 41358352,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1326497409,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4564119302,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 110,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;88",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the dash to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the dash to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the dash result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms dash to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7100685528,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dash",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 53774802,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 2150810262,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 54924630,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1713164205,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 83722254,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 152606997,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dash",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 55146034,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 55069789,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dash",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 440533091,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 2881040083,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "dash",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 50205377,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1222726024,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 22353773,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1432088111,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4792486553,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 111,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;89",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the presentation to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the presentation to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the presentation result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms presentation to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 7153245400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "presentation",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 65735543,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 3643656602,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 36582795,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1654737303,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 82221993,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 155991088,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "presentation",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 88304854,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 63270200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "presentation",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 408023523,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3039037581,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "presentation",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 66265444,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1780882990,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 28595283,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1324830876,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4594952073,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 112,
+  "name": "",
+  "description": "",
+  "id": "testing-google-translate;;;90",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@translate"
+    }
+  ]
+});
+formatter.step({
+  "line": 7,
+  "name": "open oxford dictionaries url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "put the sociology to query box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "press enter into query box",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "grab the real word",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 11,
+  "name": "open the url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 12,
+  "name": "select from english language",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 13,
+  "name": "select to bangla language",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "put the sociology to input box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 15,
+  "name": "press translate button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "save the sociology result",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "open synonyms url",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "put the synonyms sociology to search box",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "press submit button",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "find relevancy list",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.openOxfordDictionariesUrl()"
+});
+formatter.result({
+  "duration": 11091138518,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "sociology",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.putTheWordToQueryBox(String)"
+});
+formatter.result({
+  "duration": 75857027,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressEnterIntoQueryBox()"
+});
+formatter.result({
+  "duration": 5584256994,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.grabTheRealWord()"
+});
+formatter.result({
+  "duration": 71679697,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.open_the_url()"
+});
+formatter.result({
+  "duration": 1531577477,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_from_english_language()"
+});
+formatter.result({
+  "duration": 94707944,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.select_to_bangla_language()"
+});
+formatter.result({
+  "duration": 189699458,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "sociology",
+      "offset": 8
+    }
+  ],
+  "location": "Steps.put_the_to_input_box(String)"
+});
+formatter.result({
+  "duration": 72986414,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.press_translate_button()"
+});
+formatter.result({
+  "duration": 59436851,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "sociology",
+      "offset": 9
+    }
+  ],
+  "location": "Steps.save_the_result(String)"
+});
+formatter.result({
+  "duration": 5445563189,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.openSynonymsUrl()"
+});
+formatter.result({
+  "duration": 3745847376,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "sociology",
+      "offset": 17
+    }
+  ],
+  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
+});
+formatter.result({
+  "duration": 58890235,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.pressSubmitButton()"
+});
+formatter.result({
+  "duration": 1466017589,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Steps.findRelevancyList()"
+});
+formatter.result({
+  "duration": 22818573,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1414071195,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4655204156,
   "status": "passed"
 });
 formatter.scenario({
@@ -21352,7 +21062,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the prefer to query box",
+  "name": "put the prepare to query box",
   "matchedColumns": [
     0
   ],
@@ -21385,7 +21095,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the prefer to input box",
+  "name": "put the prepare to input box",
   "matchedColumns": [
     0
   ],
@@ -21398,7 +21108,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the prefer result",
+  "name": "save the prepare result",
   "matchedColumns": [
     0
   ],
@@ -21411,7 +21121,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms prefer to search box",
+  "name": "put the synonyms prepare to search box",
   "matchedColumns": [
     0
   ],
@@ -21431,130 +21141,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6857643809,
+  "duration": 10549238682,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "prefer",
+      "val": "prepare",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 53663954,
+  "duration": 89710396,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2606434818,
+  "duration": 4324611820,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 35868440,
+  "duration": 41647789,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1962222510,
+  "duration": 1641014429,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 96085040,
+  "duration": 83884421,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 186627970,
+  "duration": 156595474,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "prefer",
+      "val": "prepare",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 99084096,
+  "duration": 64504777,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 84226936,
+  "duration": 67187124,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "prefer",
+      "val": "prepare",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 363725938,
+  "duration": 493051908,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3348985784,
+  "duration": 4211655586,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "prefer",
+      "val": "prepare",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 108330232,
+  "duration": 214967832,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1569891612,
+  "duration": 2486262317,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 27457770,
+  "duration": 31103733,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1542758175,
+  "duration": 1405201883,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4880591413,
+  "duration": 4630108799,
   "status": "passed"
 });
 formatter.scenario({
@@ -21578,7 +21288,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the quite to query box",
+  "name": "put the principles to query box",
   "matchedColumns": [
     0
   ],
@@ -21611,7 +21321,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the quite to input box",
+  "name": "put the principles to input box",
   "matchedColumns": [
     0
   ],
@@ -21624,7 +21334,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the quite result",
+  "name": "save the principles result",
   "matchedColumns": [
     0
   ],
@@ -21637,7 +21347,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms quite to search box",
+  "name": "put the synonyms principles to search box",
   "matchedColumns": [
     0
   ],
@@ -21657,130 +21367,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7554409539,
+  "duration": 11934523396,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "quite",
+      "val": "principles",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 70557434,
+  "duration": 75131237,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2122258379,
+  "duration": 5038760460,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 39787125,
+  "duration": 42820198,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2220834862,
+  "duration": 1904880335,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 117846451,
+  "duration": 91439098,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 183616304,
+  "duration": 165397338,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "quite",
+      "val": "principles",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 96092957,
+  "duration": 72490237,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 71824562,
+  "duration": 56014343,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "quite",
+      "val": "principles",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 384020518,
+  "duration": 495271216,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3394404460,
+  "duration": 6220617858,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "quite",
+      "val": "principles",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 63139411,
+  "duration": 66669540,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1520842809,
+  "duration": 3628521149,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 29699658,
+  "duration": 27088276,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1607959713,
+  "duration": 1437882708,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4974836023,
+  "duration": 4582306009,
   "status": "passed"
 });
 formatter.scenario({
@@ -21804,7 +21514,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the probably to query box",
+  "name": "put the across to query box",
   "matchedColumns": [
     0
   ],
@@ -21837,7 +21547,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the probably to input box",
+  "name": "put the across to input box",
   "matchedColumns": [
     0
   ],
@@ -21850,7 +21560,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the probably result",
+  "name": "save the across result",
   "matchedColumns": [
     0
   ],
@@ -21863,7 +21573,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms probably to search box",
+  "name": "put the synonyms across to search box",
   "matchedColumns": [
     0
   ],
@@ -21883,130 +21593,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7060404279,
+  "duration": 11985151931,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "probably",
+      "val": "across",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 57246281,
+  "duration": 72245961,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2563159205,
+  "duration": 3183479357,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 33974053,
+  "duration": 42550995,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1657897940,
+  "duration": 1796815493,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 129599279,
+  "duration": 120303583,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 172599531,
+  "duration": 161178955,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "probably",
+      "val": "across",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 106956948,
+  "duration": 66443739,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 90156721,
+  "duration": 66683616,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "probably",
+      "val": "across",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 381589192,
+  "duration": 404674035,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3356635473,
+  "duration": 5452848956,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "probably",
+      "val": "across",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 77514177,
+  "duration": 59989331,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1944772444,
+  "duration": 2908331288,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 38912363,
+  "duration": 22436177,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1501178714,
+  "duration": 1404912447,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4754716101,
+  "duration": 4531834656,
   "status": "passed"
 });
 formatter.scenario({
@@ -22030,7 +21740,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the although to query box",
+  "name": "put the audience to query box",
   "matchedColumns": [
     0
   ],
@@ -22063,7 +21773,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the although to input box",
+  "name": "put the audience to input box",
   "matchedColumns": [
     0
   ],
@@ -22076,7 +21786,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the although result",
+  "name": "save the audience result",
   "matchedColumns": [
     0
   ],
@@ -22089,7 +21799,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms although to search box",
+  "name": "put the synonyms audience to search box",
   "matchedColumns": [
     0
   ],
@@ -22109,130 +21819,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7372523990,
+  "duration": 10683158102,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "although",
+      "val": "audience",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 79767794,
+  "duration": 105560204,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 1793302372,
+  "duration": 4431643546,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 38115606,
+  "duration": 35770495,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1699117585,
+  "duration": 1694526774,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 143370245,
+  "duration": 98163881,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 191648976,
+  "duration": 153033967,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "although",
+      "val": "audience",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 85591422,
+  "duration": 68436072,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 87864981,
+  "duration": 63008328,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "although",
+      "val": "audience",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 296481629,
+  "duration": 448099204,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 5590877966,
+  "duration": 7203383623,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "although",
+      "val": "audience",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 72136579,
+  "duration": 60510142,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2336854079,
+  "duration": 1799028056,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24567216,
+  "duration": 28344848,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1544377789,
+  "duration": 1471160588,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4756414892,
+  "duration": 4577872380,
   "status": "passed"
 });
 formatter.scenario({
@@ -22256,7 +21966,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the intake to query box",
+  "name": "put the instance to query box",
   "matchedColumns": [
     0
   ],
@@ -22289,7 +21999,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the intake to input box",
+  "name": "put the instance to input box",
   "matchedColumns": [
     0
   ],
@@ -22302,7 +22012,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the intake result",
+  "name": "save the instance result",
   "matchedColumns": [
     0
   ],
@@ -22315,7 +22025,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms intake to search box",
+  "name": "put the synonyms instance to search box",
   "matchedColumns": [
     0
   ],
@@ -22335,130 +22045,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7599898008,
+  "duration": 12138928111,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "intake",
+      "val": "instance",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 82337241,
+  "duration": 53472756,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 5619084107,
+  "duration": 3883912162,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 53092998,
+  "duration": 49594540,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1508179151,
+  "duration": 1773081691,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 95032570,
+  "duration": 103643236,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 165104970,
+  "duration": 165887358,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "intake",
+      "val": "instance",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 65793606,
+  "duration": 81151635,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 74327441,
+  "duration": 55397348,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "intake",
+      "val": "instance",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 355521128,
+  "duration": 396665408,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4149210882,
+  "duration": 6204717318,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "intake",
+      "val": "instance",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 86125429,
+  "duration": 158748801,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1388830386,
+  "duration": 2467539258,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25510598,
+  "duration": 22833529,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1388294033,
+  "duration": 1436011780,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4857166987,
+  "duration": 4604179735,
   "status": "passed"
 });
 formatter.scenario({
@@ -22482,7 +22192,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the processing to query box",
+  "name": "put the group to query box",
   "matchedColumns": [
     0
   ],
@@ -22515,7 +22225,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the processing to input box",
+  "name": "put the group to input box",
   "matchedColumns": [
     0
   ],
@@ -22528,7 +22238,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the processing result",
+  "name": "save the group result",
   "matchedColumns": [
     0
   ],
@@ -22541,7 +22251,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms processing to search box",
+  "name": "put the synonyms group to search box",
   "matchedColumns": [
     0
   ],
@@ -22561,130 +22271,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7435050803,
+  "duration": 10562376231,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "processing",
+      "val": "group",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 84287052,
+  "duration": 50838501,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3111029881,
+  "duration": 5266430367,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 48635909,
+  "duration": 57658590,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1545398882,
+  "duration": 1692974901,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 133240843,
+  "duration": 98208748,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 229615026,
+  "duration": 150668622,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "processing",
+      "val": "group",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 114406642,
+  "duration": 64240267,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 75871103,
+  "duration": 66462507,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "processing",
+      "val": "group",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 15306432150,
+  "duration": 928940231,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3447575170,
+  "duration": 3442871751,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "processing",
+      "val": "group",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 85700218,
+  "duration": 65836128,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2751654584,
+  "duration": 1386590257,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 27427273,
+  "duration": 33917163,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1502273998,
+  "duration": 1410029345,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4733422129,
+  "duration": 4693311551,
   "status": "passed"
 });
 formatter.scenario({
@@ -22708,7 +22418,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the initial to query box",
+  "name": "put the bear to query box",
   "matchedColumns": [
     0
   ],
@@ -22741,7 +22451,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the initial to input box",
+  "name": "put the bear to input box",
   "matchedColumns": [
     0
   ],
@@ -22754,7 +22464,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the initial result",
+  "name": "save the bear result",
   "matchedColumns": [
     0
   ],
@@ -22767,7 +22477,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms initial to search box",
+  "name": "put the synonyms bear to search box",
   "matchedColumns": [
     0
   ],
@@ -22787,130 +22497,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12741788812,
+  "duration": 7269264617,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "initial",
+      "val": "bear",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 53518502,
+  "duration": 65218838,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 5658886188,
+  "duration": 2623920661,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 52459288,
+  "duration": 71914296,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1498199306,
+  "duration": 1759557640,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 101255603,
+  "duration": 85457995,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 202491267,
+  "duration": 160147598,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "initial",
+      "val": "bear",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 82579463,
+  "duration": 59016332,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 74372602,
+  "duration": 57998759,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "initial",
+      "val": "bear",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 303116385,
+  "duration": 15328971256,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 6061204261,
+  "duration": 3856726527,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "initial",
+      "val": "bear",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 60121293,
+  "duration": 56563892,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1831633810,
+  "duration": 3946932514,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 40543120,
+  "duration": 27753365,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1651206294,
+  "duration": 1328824925,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4887785980,
+  "duration": 4578605502,
   "status": "passed"
 });
 formatter.scenario({
@@ -22934,7 +22644,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the estimate to query box",
+  "name": "put the supportive to query box",
   "matchedColumns": [
     0
   ],
@@ -22967,7 +22677,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the estimate to input box",
+  "name": "put the supportive to input box",
   "matchedColumns": [
     0
   ],
@@ -22980,7 +22690,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the estimate result",
+  "name": "save the supportive result",
   "matchedColumns": [
     0
   ],
@@ -22993,7 +22703,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms estimate to search box",
+  "name": "put the synonyms supportive to search box",
   "matchedColumns": [
     0
   ],
@@ -23013,130 +22723,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11678326827,
+  "duration": 8610098669,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "estimate",
+      "val": "supportive",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 84504057,
+  "duration": 161898880,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3980292504,
+  "duration": 2777280428,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 31498152,
+  "duration": 39972165,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1407969566,
+  "duration": 1844630012,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 114387874,
+  "duration": 81032283,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 195283209,
+  "duration": 166675317,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "estimate",
+      "val": "supportive",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 86480846,
+  "duration": 74900156,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66141106,
+  "duration": 59670277,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "estimate",
+      "val": "supportive",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 327048717,
+  "duration": 428042743,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3758723053,
+  "duration": 3796711097,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "estimate",
+      "val": "supportive",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 54380360,
+  "duration": 67110001,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1630308794,
+  "duration": 1499416581,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25090372,
+  "duration": 24017667,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1477290662,
+  "duration": 1310183975,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4841798988,
+  "duration": 4567200174,
   "status": "passed"
 });
 formatter.scenario({
@@ -23160,7 +22870,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the improve to query box",
+  "name": "put the gathering to query box",
   "matchedColumns": [
     0
   ],
@@ -23193,7 +22903,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the improve to input box",
+  "name": "put the gathering to input box",
   "matchedColumns": [
     0
   ],
@@ -23206,7 +22916,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the improve result",
+  "name": "save the gathering result",
   "matchedColumns": [
     0
   ],
@@ -23219,7 +22929,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms improve to search box",
+  "name": "put the synonyms gathering to search box",
   "matchedColumns": [
     0
   ],
@@ -23239,130 +22949,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7936484937,
+  "duration": 7165053358,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "gathering",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 49553484,
+  "duration": 90762573,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4125606109,
+  "duration": 2982867229,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 33112781,
+  "duration": 45865294,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1437257501,
+  "duration": 1867726585,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 127882893,
+  "duration": 86370878,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 217539918,
+  "duration": 167481752,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "gathering",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 100716319,
+  "duration": 78742303,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66207380,
+  "duration": 58285849,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "gathering",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 410748391,
+  "duration": 402952371,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3539657948,
+  "duration": 2860017073,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "improve",
+      "val": "gathering",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 49976056,
+  "duration": 57070919,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2056949220,
+  "duration": 1315558640,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 36039405,
+  "duration": 26047243,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1408513835,
+  "duration": 1343676221,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4784092598,
+  "duration": 4625808303,
   "status": "passed"
 });
 formatter.scenario({
@@ -23386,7 +23096,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the least to query box",
+  "name": "put the shocking to query box",
   "matchedColumns": [
     0
   ],
@@ -23419,7 +23129,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the least to input box",
+  "name": "put the shocking to input box",
   "matchedColumns": [
     0
   ],
@@ -23432,7 +23142,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the least result",
+  "name": "save the shocking result",
   "matchedColumns": [
     0
   ],
@@ -23445,7 +23155,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms least to search box",
+  "name": "put the synonyms shocking to search box",
   "matchedColumns": [
     0
   ],
@@ -23465,130 +23175,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 13919318736,
+  "duration": 17576846302,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "least",
+      "val": "shocking",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 61017169,
+  "duration": 53299153,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3063258177,
+  "duration": 3583581056,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 37938484,
+  "duration": 79384811,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1543395406,
+  "duration": 2156242697,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 118541157,
+  "duration": 92935253,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 216809434,
+  "duration": 187176638,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "least",
+      "val": "shocking",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 70234567,
+  "duration": 80610004,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 86640961,
+  "duration": 64151999,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "least",
+      "val": "shocking",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 322630336,
+  "duration": 434234693,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3641785381,
+  "duration": 2874008269,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "least",
+      "val": "shocking",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 64153172,
+  "duration": 61117460,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2051966336,
+  "duration": 2848014105,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 30648024,
+  "duration": 38330264,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1571030590,
+  "duration": 1414199637,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4746435634,
+  "duration": 4639598038,
   "status": "passed"
 });
 formatter.scenario({
@@ -23612,7 +23322,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the discussed to query box",
+  "name": "put the relevant to query box",
   "matchedColumns": [
     0
   ],
@@ -23645,7 +23355,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the discussed to input box",
+  "name": "put the relevant to input box",
   "matchedColumns": [
     0
   ],
@@ -23658,7 +23368,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the discussed result",
+  "name": "save the relevant result",
   "matchedColumns": [
     0
   ],
@@ -23671,7 +23381,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms discussed to search box",
+  "name": "put the synonyms relevant to search box",
   "matchedColumns": [
     0
   ],
@@ -23691,130 +23401,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7210237141,
+  "duration": 6408186276,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "discussed",
+      "val": "relevant",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 73979941,
+  "duration": 55029027,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3666570481,
+  "duration": 2407383655,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 55096474,
+  "duration": 46066169,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1614976864,
+  "duration": 1738933155,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 111325183,
+  "duration": 112871777,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 190642253,
+  "duration": 166386761,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "discussed",
+      "val": "relevant",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 88850297,
+  "duration": 80236699,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 76648799,
+  "duration": 54013800,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "discussed",
+      "val": "relevant",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 308677263,
+  "duration": 434717380,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4039020279,
+  "duration": 2956662218,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "discussed",
+      "val": "relevant",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 88181690,
+  "duration": 62843816,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1739640471,
+  "duration": 2169424818,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 26078327,
+  "duration": 28992928,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1548431954,
+  "duration": 1441317825,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4830525329,
+  "duration": 4662574672,
   "status": "passed"
 });
 formatter.scenario({
@@ -23838,7 +23548,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the ahead to query box",
+  "name": "put the covering to query box",
   "matchedColumns": [
     0
   ],
@@ -23871,7 +23581,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the ahead to input box",
+  "name": "put the covering to input box",
   "matchedColumns": [
     0
   ],
@@ -23884,7 +23594,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the ahead result",
+  "name": "save the covering result",
   "matchedColumns": [
     0
   ],
@@ -23897,7 +23607,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms ahead to search box",
+  "name": "put the synonyms covering to search box",
   "matchedColumns": [
     0
   ],
@@ -23917,130 +23627,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11220956560,
+  "duration": 7191870673,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ahead",
+      "val": "covering",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 75290764,
+  "duration": 84633379,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2466725785,
+  "duration": 2638111560,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 38342287,
+  "duration": 35096023,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1593078800,
+  "duration": 1902980083,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 120495661,
+  "duration": 81900886,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 222558872,
+  "duration": 162239049,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ahead",
+      "val": "covering",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 87282589,
+  "duration": 72966180,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 79537594,
+  "duration": 63637054,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ahead",
+      "val": "covering",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 309867560,
+  "duration": 447821791,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3315258940,
+  "duration": 2919258913,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "ahead",
+      "val": "covering",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 63727668,
+  "duration": 64556389,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1749946115,
+  "duration": 2674800217,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 53051357,
+  "duration": 31872045,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1435736420,
+  "duration": 1365914454,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4982672218,
+  "duration": 4638931776,
   "status": "passed"
 });
 formatter.scenario({
@@ -24064,7 +23774,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the mentioned to query box",
+  "name": "put the agenda to query box",
   "matchedColumns": [
     0
   ],
@@ -24097,7 +23807,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the mentioned to input box",
+  "name": "put the agenda to input box",
   "matchedColumns": [
     0
   ],
@@ -24110,7 +23820,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the mentioned result",
+  "name": "save the agenda result",
   "matchedColumns": [
     0
   ],
@@ -24123,7 +23833,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms mentioned to search box",
+  "name": "put the synonyms agenda to search box",
   "matchedColumns": [
     0
   ],
@@ -24143,130 +23853,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7071643920,
+  "duration": 12058621032,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "agenda",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 124494403,
+  "duration": 62519483,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2615964233,
+  "duration": 5282497472,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 55322569,
+  "duration": 54687392,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1871502751,
+  "duration": 1594954712,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 105547594,
+  "duration": 91057582,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 197709844,
+  "duration": 170593708,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "agenda",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 133471043,
+  "duration": 61890464,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 74040644,
+  "duration": 62793084,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "agenda",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 392127382,
+  "duration": 418928861,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3742588208,
+  "duration": 5166862118,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "mentioned",
+      "val": "agenda",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 65836714,
+  "duration": 53750169,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1413628975,
+  "duration": 1488756986,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24865450,
+  "duration": 24870729,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1523646268,
+  "duration": 1413582055,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4846040246,
+  "duration": 4650062916,
   "status": "passed"
 });
 formatter.scenario({
@@ -24290,7 +24000,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the analyst to query box",
+  "name": "put the detailed to query box",
   "matchedColumns": [
     0
   ],
@@ -24323,7 +24033,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the analyst to input box",
+  "name": "put the detailed to input box",
   "matchedColumns": [
     0
   ],
@@ -24336,7 +24046,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the analyst result",
+  "name": "save the detailed result",
   "matchedColumns": [
     0
   ],
@@ -24349,7 +24059,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms analyst to search box",
+  "name": "put the synonyms detailed to search box",
   "matchedColumns": [
     0
   ],
@@ -24369,130 +24079,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 6844987776,
+  "duration": 10564713131,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "analyst",
+      "val": "detailed",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 56353339,
+  "duration": 59600777,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3469606076,
+  "duration": 4093700340,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 50351121,
+  "duration": 47541211,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1826282018,
+  "duration": 2387043034,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 117476957,
+  "duration": 93930247,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 192816987,
+  "duration": 155552095,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "analyst",
+      "val": "detailed",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 95214091,
+  "duration": 67286242,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 90790138,
+  "duration": 72330123,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "analyst",
+      "val": "detailed",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 5419647908,
+  "duration": 459032695,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3606230131,
+  "duration": 4113852988,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "analyst",
+      "val": "detailed",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 104432075,
+  "duration": 57722811,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2305777032,
+  "duration": 3422892706,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25386553,
+  "duration": 29938069,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1572832605,
+  "duration": 1434772804,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4780511444,
+  "duration": 4490675713,
   "status": "passed"
 });
 formatter.scenario({
@@ -24516,7 +24226,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the different to query box",
+  "name": "put the summarise to query box",
   "matchedColumns": [
     0
   ],
@@ -24549,7 +24259,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the different to input box",
+  "name": "put the summarise to input box",
   "matchedColumns": [
     0
   ],
@@ -24562,7 +24272,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the different result",
+  "name": "save the summarise result",
   "matchedColumns": [
     0
   ],
@@ -24575,7 +24285,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms different to search box",
+  "name": "put the synonyms summarise to search box",
   "matchedColumns": [
     0
   ],
@@ -24595,130 +24305,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7458113067,
+  "duration": 14438575069,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "different",
+      "val": "summarise",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 53542842,
+  "duration": 114488752,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2457228042,
+  "duration": 4923006047,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 40849272,
+  "duration": 45391110,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1815729751,
+  "duration": 2265965568,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 145686324,
+  "duration": 88486669,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 215705939,
+  "duration": 168828351,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "different",
+      "val": "summarise",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 109750729,
+  "duration": 70316383,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 70582654,
+  "duration": 58155647,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "different",
+      "val": "summarise",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 386940983,
+  "duration": 441975876,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3383049571,
+  "duration": 4321307491,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "different",
+      "val": "summarise",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 91521208,
+  "duration": 77087499,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1499279634,
+  "duration": 2228076642,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 55456291,
+  "duration": 28016996,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1566312217,
+  "duration": 1429863232,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4730992270,
+  "duration": 4518089789,
   "status": "passed"
 });
 formatter.scenario({
@@ -24742,7 +24452,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the conference to query box",
+  "name": "put the consistent to query box",
   "matchedColumns": [
     0
   ],
@@ -24775,7 +24485,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the conference to input box",
+  "name": "put the consistent to input box",
   "matchedColumns": [
     0
   ],
@@ -24788,7 +24498,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the conference result",
+  "name": "save the consistent result",
   "matchedColumns": [
     0
   ],
@@ -24801,7 +24511,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms conference to search box",
+  "name": "put the synonyms consistent to search box",
   "matchedColumns": [
     0
   ],
@@ -24821,130 +24531,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 13315088563,
+  "duration": 10324451998,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "conference",
+      "val": "consistent",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 153826032,
+  "duration": 58996978,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 5463963968,
+  "duration": 2896344447,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 40065418,
+  "duration": 33767899,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1601260442,
+  "duration": 1868377598,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 127692867,
+  "duration": 83293232,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 181183804,
+  "duration": 165708182,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "conference",
+      "val": "consistent",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 107153131,
+  "duration": 70738662,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 61519211,
+  "duration": 57405809,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "conference",
+      "val": "consistent",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 15355231691,
+  "duration": 390784010,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3502347604,
+  "duration": 3002691731,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "conference",
+      "val": "consistent",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 108372753,
+  "duration": 60479936,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2153435132,
+  "duration": 3393150235,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 21129753,
+  "duration": 26195920,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1551260926,
+  "duration": 1356742803,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4903591800,
+  "duration": 4653284842,
   "status": "passed"
 });
 formatter.scenario({
@@ -24968,7 +24678,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the origins to query box",
+  "name": "put the diagrams to query box",
   "matchedColumns": [
     0
   ],
@@ -25001,7 +24711,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the origins to input box",
+  "name": "put the diagrams to input box",
   "matchedColumns": [
     0
   ],
@@ -25014,7 +24724,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the origins result",
+  "name": "save the diagrams result",
   "matchedColumns": [
     0
   ],
@@ -25027,7 +24737,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms origins to search box",
+  "name": "put the synonyms diagrams to search box",
   "matchedColumns": [
     0
   ],
@@ -25047,130 +24757,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11307299580,
+  "duration": 7819992417,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "origins",
+      "val": "diagrams",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 52280699,
+  "duration": 116151179,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4987213177,
+  "duration": 2614648426,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 44707841,
+  "duration": 35352615,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1765190950,
+  "duration": 1777394795,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 118355824,
+  "duration": 87471148,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 190341380,
+  "duration": 175397711,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "origins",
+      "val": "diagrams",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 127829522,
+  "duration": 72553579,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 75874329,
+  "duration": 72759732,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "origins",
+      "val": "diagrams",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 377682237,
+  "duration": 387145378,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 5056832801,
+  "duration": 2856388998,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "origins",
+      "val": "diagrams",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 67761600,
+  "duration": 61075232,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1706057025,
+  "duration": 3076932958,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 37147592,
+  "duration": 27639291,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1550758884,
+  "duration": 1332288195,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4879044818,
+  "duration": 4615957781,
   "status": "passed"
 });
 formatter.scenario({
@@ -25194,7 +24904,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the inorganic to query box",
+  "name": "put the histogram to query box",
   "matchedColumns": [
     0
   ],
@@ -25227,7 +24937,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the inorganic to input box",
+  "name": "put the histogram to input box",
   "matchedColumns": [
     0
   ],
@@ -25240,7 +24950,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the inorganic result",
+  "name": "save the histogram result",
   "matchedColumns": [
     0
   ],
@@ -25253,7 +24963,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms inorganic to search box",
+  "name": "put the synonyms histogram to search box",
   "matchedColumns": [
     0
   ],
@@ -25273,130 +24983,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7208030444,
+  "duration": 12705599851,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "inorganic",
+      "val": "histogram",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 64183963,
+  "duration": 68672430,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2507674176,
+  "duration": 3179575922,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 34537384,
+  "duration": 34255279,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1752428174,
+  "duration": 3625730593,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 89908339,
+  "duration": 95827275,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 205664219,
+  "duration": 182831276,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "inorganic",
+      "val": "histogram",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 137101171,
+  "duration": 111781184,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 95754549,
+  "duration": 72855625,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "inorganic",
+      "val": "histogram",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 5352012406,
+  "duration": 5362396054,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4024641115,
+  "duration": 12640019143,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "inorganic",
+      "val": "histogram",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 78300669,
+  "duration": 75422726,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1813622172,
+  "duration": 3654705632,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 32358545,
+  "duration": 31697561,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1601482139,
+  "duration": 1360117804,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4772474372,
+  "duration": 4611914759,
   "status": "passed"
 });
 formatter.scenario({
@@ -25420,7 +25130,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the solids to query box",
+  "name": "put the impression to query box",
   "matchedColumns": [
     0
   ],
@@ -25453,7 +25163,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the solids to input box",
+  "name": "put the impression to input box",
   "matchedColumns": [
     0
   ],
@@ -25466,7 +25176,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the solids result",
+  "name": "save the impression result",
   "matchedColumns": [
     0
   ],
@@ -25479,7 +25189,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms solids to search box",
+  "name": "put the synonyms impression to search box",
   "matchedColumns": [
     0
   ],
@@ -25499,118 +25209,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 301180485286,
-  "error_message": "org.openqa.selenium.TimeoutException: timeout\n  (Session info: chrome\u003d63.0.3239.132)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir4592_32466}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d63.0.3239.132, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 445ff5925b4d7e9948e0ed4731edbb31\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:310)\r\n\tat Steps.openOxfordDictionariesUrl(Steps.java:174)\r\n\tat ✽.Given open oxford dictionaries url(translate.feature:7)\r\n",
-  "status": "failed"
+  "duration": 7705315693,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "solids",
+      "val": "impression",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 59983760,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2396016156,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 63513010,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1775796002,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 82932535,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 155703412,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "solids",
+      "val": "impression",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 88951468,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 58786718,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "solids",
+      "val": "impression",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 623908637,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2867878781,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "solids",
+      "val": "impression",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 62666401,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1990101972,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 27246924,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 1365049370,
+  "duration": 1379759026,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4972998232,
+  "duration": 4637740893,
   "status": "passed"
 });
 formatter.scenario({
@@ -25634,7 +25356,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the earthenware to query box",
+  "name": "put the enthusiastic to query box",
   "matchedColumns": [
     0
   ],
@@ -25667,7 +25389,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the earthenware to input box",
+  "name": "put the enthusiastic to input box",
   "matchedColumns": [
     0
   ],
@@ -25680,7 +25402,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the earthenware result",
+  "name": "save the enthusiastic result",
   "matchedColumns": [
     0
   ],
@@ -25693,7 +25415,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms earthenware to search box",
+  "name": "put the synonyms enthusiastic to search box",
   "matchedColumns": [
     0
   ],
@@ -25713,130 +25435,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 9823017866,
+  "duration": 11546992982,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "earthenware",
+      "val": "enthusiastic",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 59962059,
+  "duration": 99082336,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3648269993,
+  "duration": 2811784967,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 52564271,
+  "duration": 173725313,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1834912039,
+  "duration": 1921297287,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 108636091,
+  "duration": 140305500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 198849702,
+  "duration": 171441198,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "earthenware",
+      "val": "enthusiastic",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 118756402,
+  "duration": 93349615,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66590070,
+  "duration": 52965142,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "earthenware",
+      "val": "enthusiastic",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 306007232,
+  "duration": 444578459,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4385512275,
+  "duration": 2986392667,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "earthenware",
+      "val": "enthusiastic",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 73488749,
+  "duration": 78511809,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3040767162,
+  "duration": 1542279300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25091252,
+  "duration": 48374918,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1514904227,
+  "duration": 1431398976,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4708773390,
+  "duration": 4641146098,
   "status": "passed"
 });
 formatter.scenario({
@@ -25860,7 +25582,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the crockery to query box",
+  "name": "put the energetic to query box",
   "matchedColumns": [
     0
   ],
@@ -25893,7 +25615,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the crockery to input box",
+  "name": "put the energetic to input box",
   "matchedColumns": [
     0
   ],
@@ -25906,7 +25628,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the crockery result",
+  "name": "save the energetic result",
   "matchedColumns": [
     0
   ],
@@ -25919,7 +25641,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms crockery to search box",
+  "name": "put the synonyms energetic to search box",
   "matchedColumns": [
     0
   ],
@@ -25939,130 +25661,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11461994509,
+  "duration": 10367031439,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crockery",
+      "val": "energetic",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 87713665,
+  "duration": 86557678,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 6227645860,
+  "duration": 3986678877,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 65685397,
+  "duration": 38468385,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1756689666,
+  "duration": 1800451485,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 116051475,
+  "duration": 95001192,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 223841543,
+  "duration": 175693306,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crockery",
+      "val": "energetic",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 95164825,
+  "duration": 67192990,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 86695212,
+  "duration": 58144210,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crockery",
+      "val": "energetic",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 286283314,
+  "duration": 427955355,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3005880813,
+  "duration": 6482727203,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "crockery",
+      "val": "energetic",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 72428068,
+  "duration": 99099638,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2618027825,
+  "duration": 4431188423,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 39667479,
+  "duration": 45466768,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1522800539,
+  "duration": 1614197995,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4701186163,
+  "duration": 4626072815,
   "status": "passed"
 });
 formatter.scenario({
@@ -26086,7 +25808,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the glassware to query box",
+  "name": "put the rapidly to query box",
   "matchedColumns": [
     0
   ],
@@ -26119,7 +25841,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the glassware to input box",
+  "name": "put the rapidly to input box",
   "matchedColumns": [
     0
   ],
@@ -26132,7 +25854,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the glassware result",
+  "name": "save the rapidly result",
   "matchedColumns": [
     0
   ],
@@ -26145,7 +25867,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms glassware to search box",
+  "name": "put the synonyms rapidly to search box",
   "matchedColumns": [
     0
   ],
@@ -26165,130 +25887,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7194222528,
+  "duration": 7925615962,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "glassware",
+      "val": "rapidly",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 254520944,
+  "duration": 77395118,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3417184030,
+  "duration": 2619137186,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 64340264,
+  "duration": 37121786,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2101302524,
+  "duration": 1878825175,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 118745258,
+  "duration": 82419643,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 236481448,
+  "duration": 164387390,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "glassware",
+      "val": "rapidly",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 83053647,
+  "duration": 70275621,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 84241305,
+  "duration": 88814227,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "glassware",
+      "val": "rapidly",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 389625384,
+  "duration": 5375347390,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4700205538,
+  "duration": 2920309624,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "glassware",
+      "val": "rapidly",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 74471426,
+  "duration": 57433375,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2519045194,
+  "duration": 1914199491,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 36734991,
+  "duration": 30928663,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1543060809,
+  "duration": 1356848080,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4741700545,
+  "duration": 4591264468,
   "status": "passed"
 });
 formatter.scenario({
@@ -26312,7 +26034,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the concrete to query box",
+  "name": "put the unfamiliar to query box",
   "matchedColumns": [
     0
   ],
@@ -26345,7 +26067,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the concrete to input box",
+  "name": "put the unfamiliar to input box",
   "matchedColumns": [
     0
   ],
@@ -26358,7 +26080,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the concrete result",
+  "name": "save the unfamiliar result",
   "matchedColumns": [
     0
   ],
@@ -26371,7 +26093,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms concrete to search box",
+  "name": "put the synonyms unfamiliar to search box",
   "matchedColumns": [
     0
   ],
@@ -26391,130 +26113,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 8499127145,
+  "duration": 8259157209,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "concrete",
+      "val": "unfamiliar",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 55349842,
+  "duration": 79547270,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2536593498,
+  "duration": 5944683589,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 49729727,
+  "duration": 35571673,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1841642393,
+  "duration": 2147688041,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 118980738,
+  "duration": 84880294,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 206029314,
+  "duration": 166167117,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "concrete",
+      "val": "unfamiliar",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 92819127,
+  "duration": 72370592,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 88568779,
+  "duration": 57940109,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "concrete",
+      "val": "unfamiliar",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 398480032,
+  "duration": 384472415,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4234218740,
+  "duration": 3661515458,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "concrete",
+      "val": "unfamiliar",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 71622807,
+  "duration": 65793020,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1606340685,
+  "duration": 2539790204,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 23433516,
+  "duration": 27837527,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1515208325,
+  "duration": 1384117876,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4763550810,
+  "duration": 4618309638,
   "status": "passed"
 });
 formatter.scenario({
@@ -26538,7 +26260,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the dig up to query box",
+  "name": "put the terrified to query box",
   "matchedColumns": [
     0
   ],
@@ -26571,7 +26293,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the dig up to input box",
+  "name": "put the terrified to input box",
   "matchedColumns": [
     0
   ],
@@ -26584,7 +26306,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the dig up result",
+  "name": "save the terrified result",
   "matchedColumns": [
     0
   ],
@@ -26597,7 +26319,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms dig up to search box",
+  "name": "put the synonyms terrified to search box",
   "matchedColumns": [
     0
   ],
@@ -26617,118 +26339,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 301160676912,
-  "error_message": "org.openqa.selenium.TimeoutException: timeout\n  (Session info: chrome\u003d63.0.3239.132)\n  (Driver info: chromedriver\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform\u003dWindows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.6.0\u0027, revision: \u00276fbf3ec767\u0027, time: \u00272017-09-27T15:28:36.4Z\u0027\nSystem info: host: \u0027BM-PC-37\u0027, ip: \u002710.0.40.137\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir\u003dC:\\Users\\touhid\\AppData\\Local\\Temp\\scoped_dir6400_10877}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003d, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d63.0.3239.132, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: d0aad67bd230df92975ff306563c8616\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:586)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:310)\r\n\tat Steps.openOxfordDictionariesUrl(Steps.java:174)\r\n\tat ✽.Given open oxford dictionaries url(translate.feature:7)\r\n",
-  "status": "failed"
+  "duration": 9119280731,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "dig up",
+      "val": "terrified",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 55864493,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 3305960312,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 41925202,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1938532107,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 106215028,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 171528000,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "dig up",
+      "val": "terrified",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 93252256,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 56747172,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "dig up",
+      "val": "terrified",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 378233545,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 3232273033,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "dig up",
+      "val": "terrified",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 54885628,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2772349741,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 28966242,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 1290128100,
+  "duration": 1317728682,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4613998880,
+  "duration": 4687348629,
   "status": "passed"
 });
 formatter.scenario({
@@ -26752,7 +26486,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the temperature to query box",
+  "name": "put the uncomfortable to query box",
   "matchedColumns": [
     0
   ],
@@ -26785,7 +26519,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the temperature to input box",
+  "name": "put the uncomfortable to input box",
   "matchedColumns": [
     0
   ],
@@ -26798,7 +26532,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the temperature result",
+  "name": "save the uncomfortable result",
   "matchedColumns": [
     0
   ],
@@ -26811,7 +26545,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms temperature to search box",
+  "name": "put the synonyms uncomfortable to search box",
   "matchedColumns": [
     0
   ],
@@ -26831,130 +26565,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 8201920311,
+  "duration": 12310096294,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "temperature",
+      "val": "uncomfortable",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 102493993,
+  "duration": 113397279,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2651080490,
+  "duration": 3792533766,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 59694910,
+  "duration": 42088835,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2346119570,
+  "duration": 1820511760,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 132893929,
+  "duration": 137674472,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 176764544,
+  "duration": 178814354,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "temperature",
+      "val": "uncomfortable",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 75781075,
+  "duration": 85969420,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 67786232,
+  "duration": 64145840,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "temperature",
+      "val": "uncomfortable",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 5379771342,
+  "duration": 390517153,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3865801993,
+  "duration": 4214734113,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "temperature",
+      "val": "uncomfortable",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 63149967,
+  "duration": 86403722,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2411269494,
+  "duration": 4192926662,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25609423,
+  "duration": 31972336,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1304862388,
+  "duration": 1396336969,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4515342634,
+  "duration": 4635854130,
   "status": "passed"
 });
 formatter.scenario({
@@ -26978,7 +26712,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the transformed to query box",
+  "name": "put the absorb to query box",
   "matchedColumns": [
     0
   ],
@@ -27011,7 +26745,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the transformed to input box",
+  "name": "put the absorb to input box",
   "matchedColumns": [
     0
   ],
@@ -27024,7 +26758,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the transformed result",
+  "name": "save the absorb result",
   "matchedColumns": [
     0
   ],
@@ -27037,7 +26771,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms transformed to search box",
+  "name": "put the synonyms absorb to search box",
   "matchedColumns": [
     0
   ],
@@ -27057,130 +26791,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 11684927273,
+  "duration": 10925787220,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "transformed",
+      "val": "absorb",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 96556877,
+  "duration": 60064989,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4818790683,
+  "duration": 3758085237,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 33098412,
+  "duration": 47897801,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2171448235,
+  "duration": 1779282144,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 93250203,
+  "duration": 86817789,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 151831647,
+  "duration": 182169414,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "transformed",
+      "val": "absorb",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 68390911,
+  "duration": 61561145,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 60023935,
+  "duration": 61337396,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "transformed",
+      "val": "absorb",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 353979226,
+  "duration": 439750410,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 5220270064,
+  "duration": 3352252283,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "transformed",
+      "val": "absorb",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 64175753,
+  "duration": 70381191,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1879600818,
+  "duration": 2153151267,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 41299116,
+  "duration": 39063387,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1346070011,
+  "duration": 1381713236,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4730341257,
+  "duration": 4668473373,
   "status": "passed"
 });
 formatter.scenario({
@@ -27204,7 +26938,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the rigid to query box",
+  "name": "put the thought to query box",
   "matchedColumns": [
     0
   ],
@@ -27237,7 +26971,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the rigid to input box",
+  "name": "put the thought to input box",
   "matchedColumns": [
     0
   ],
@@ -27250,7 +26984,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the rigid result",
+  "name": "save the thought result",
   "matchedColumns": [
     0
   ],
@@ -27263,7 +26997,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms rigid to search box",
+  "name": "put the synonyms thought to search box",
   "matchedColumns": [
     0
   ],
@@ -27283,130 +27017,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12396379198,
+  "duration": 10554354995,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "rigid",
+      "val": "thought",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 48982235,
+  "duration": 94315576,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2587779499,
+  "duration": 2669020575,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 63670191,
+  "duration": 30015779,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1996360195,
+  "duration": 1871406565,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 108613511,
+  "duration": 97548938,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 180660942,
+  "duration": 166667693,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "rigid",
+      "val": "thought",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 73533030,
+  "duration": 88740916,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 64839961,
+  "duration": 53975384,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "rigid",
+      "val": "thought",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 356133725,
+  "duration": 15452736349,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4639955215,
+  "duration": 5414420453,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "rigid",
+      "val": "thought",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 54984747,
+  "duration": 61098105,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1462681004,
+  "duration": 2645831628,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 49146748,
+  "duration": 26122901,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1319607234,
+  "duration": 1407912676,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4631307599,
+  "duration": 4567172022,
   "status": "passed"
 });
 formatter.scenario({
@@ -27430,7 +27164,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the figurines to query box",
+  "name": "put the interruptions to query box",
   "matchedColumns": [
     0
   ],
@@ -27463,7 +27197,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the figurines to input box",
+  "name": "put the interruptions to input box",
   "matchedColumns": [
     0
   ],
@@ -27476,7 +27210,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the figurines result",
+  "name": "save the interruptions result",
   "matchedColumns": [
     0
   ],
@@ -27489,7 +27223,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms figurines to search box",
+  "name": "put the synonyms interruptions to search box",
   "matchedColumns": [
     0
   ],
@@ -27509,130 +27243,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 16779805593,
+  "duration": 10587762491,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "figurines",
+      "val": "interruptions",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 58251832,
+  "duration": 80392121,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 6403789010,
+  "duration": 4306149457,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 38527915,
+  "duration": 36273711,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 1987672991,
+  "duration": 2640264299,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 96768016,
+  "duration": 86462372,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 168735978,
+  "duration": 172902456,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "figurines",
+      "val": "interruptions",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 87168515,
+  "duration": 86997258,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 63817989,
+  "duration": 52968074,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "figurines",
+      "val": "interruptions",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 364435013,
+  "duration": 461607420,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 10910435935,
+  "duration": 3638853772,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "figurines",
+      "val": "interruptions",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 56518145,
+  "duration": 64911807,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 4908987579,
+  "duration": 1314824932,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 84439541,
+  "duration": 39587716,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1477207966,
+  "duration": 1490887438,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4624992192,
+  "duration": 4775134140,
   "status": "passed"
 });
 formatter.scenario({
@@ -27656,7 +27390,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the status to query box",
+  "name": "put the encouraged to query box",
   "matchedColumns": [
     0
   ],
@@ -27689,7 +27423,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the status to input box",
+  "name": "put the encouraged to input box",
   "matchedColumns": [
     0
   ],
@@ -27702,7 +27436,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the status result",
+  "name": "save the encouraged result",
   "matchedColumns": [
     0
   ],
@@ -27715,7 +27449,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms status to search box",
+  "name": "put the synonyms encouraged to search box",
   "matchedColumns": [
     0
   ],
@@ -27735,130 +27469,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 13078783358,
+  "duration": 12370270959,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "status",
+      "val": "encouraged",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 108545770,
+  "duration": 96130493,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 3000375652,
+  "duration": 4874734060,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 57183233,
+  "duration": 49916820,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2238651782,
+  "duration": 1768903775,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 85675292,
+  "duration": 95256612,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 169448279,
+  "duration": 156398412,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "status",
+      "val": "encouraged",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 67100323,
+  "duration": 74321283,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 60758523,
+  "duration": 56268590,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "status",
+      "val": "encouraged",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 357197338,
+  "duration": 407685994,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 4425389427,
+  "duration": 5794142824,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "status",
+      "val": "encouraged",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 55229023,
+  "duration": 73271745,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3717043301,
+  "duration": 5074418935,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 24791845,
+  "duration": 34877845,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1394593019,
+  "duration": 1489887753,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4590394399,
+  "duration": 4583432965,
   "status": "passed"
 });
 formatter.scenario({
@@ -27882,7 +27616,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the depicted to query box",
+  "name": "put the feedback to query box",
   "matchedColumns": [
     0
   ],
@@ -27915,7 +27649,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the depicted to input box",
+  "name": "put the feedback to input box",
   "matchedColumns": [
     0
   ],
@@ -27928,7 +27662,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the depicted result",
+  "name": "save the feedback result",
   "matchedColumns": [
     0
   ],
@@ -27941,7 +27675,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms depicted to search box",
+  "name": "put the synonyms feedback to search box",
   "matchedColumns": [
     0
   ],
@@ -27961,130 +27695,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7529073718,
+  "duration": 6862727279,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "depicted",
+      "val": "feedback",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 69008494,
+  "duration": 71957403,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2580252094,
+  "duration": 2730333046,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 27061884,
+  "duration": 50333820,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2849048100,
+  "duration": 1937979040,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 96106741,
+  "duration": 91776921,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 170736521,
+  "duration": 179199683,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "depicted",
+      "val": "feedback",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 59760305,
+  "duration": 71768551,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 66039642,
+  "duration": 57044820,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "depicted",
+      "val": "feedback",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 400744207,
+  "duration": 476366341,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3537252722,
+  "duration": 3071503748,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "depicted",
+      "val": "feedback",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 67485653,
+  "duration": 86340088,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1628839911,
+  "duration": 1215939366,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 21044418,
+  "duration": 52956638,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1309258189,
+  "duration": 1404301902,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4588703527,
+  "duration": 4647118404,
   "status": "passed"
 });
 formatter.scenario({
@@ -28108,7 +27842,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the centred to query box",
+  "name": "put the ensure to query box",
   "matchedColumns": [
     0
   ],
@@ -28141,7 +27875,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the centred to input box",
+  "name": "put the ensure to input box",
   "matchedColumns": [
     0
   ],
@@ -28154,7 +27888,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the centred result",
+  "name": "save the ensure result",
   "matchedColumns": [
     0
   ],
@@ -28167,7 +27901,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms centred to search box",
+  "name": "put the synonyms ensure to search box",
   "matchedColumns": [
     0
   ],
@@ -28187,130 +27921,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 12486561432,
+  "duration": 12082828725,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "centred",
+      "val": "ensure",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 53338448,
+  "duration": 58984368,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4608253255,
+  "duration": 4337627963,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 45858549,
+  "duration": 35178426,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2394584515,
+  "duration": 1796023721,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 113400212,
+  "duration": 105581024,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 171783126,
+  "duration": 153717823,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "centred",
+      "val": "ensure",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 74655294,
+  "duration": 89007772,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 65303001,
+  "duration": 94612344,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "centred",
+      "val": "ensure",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 5362457930,
+  "duration": 420000393,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3822743678,
+  "duration": 4282171672,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "centred",
+      "val": "ensure",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 63761978,
+  "duration": 55815814,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 3141464713,
+  "duration": 1307907191,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 25695637,
+  "duration": 30887608,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1336245881,
+  "duration": 1418893086,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4622876109,
+  "duration": 4618837779,
   "status": "passed"
 });
 formatter.scenario({
@@ -28334,7 +28068,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the drawback to query box",
+  "name": "put the unwelcome to query box",
   "matchedColumns": [
     0
   ],
@@ -28367,7 +28101,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the drawback to input box",
+  "name": "put the unwelcome to input box",
   "matchedColumns": [
     0
   ],
@@ -28380,7 +28114,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the drawback result",
+  "name": "save the unwelcome result",
   "matchedColumns": [
     0
   ],
@@ -28393,7 +28127,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms drawback to search box",
+  "name": "put the synonyms unwelcome to search box",
   "matchedColumns": [
     0
   ],
@@ -28413,130 +28147,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 10806542851,
+  "duration": 8321181687,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "drawback",
+      "val": "unwelcome",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 63652890,
+  "duration": 54971257,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 14202641996,
+  "duration": 4270369579,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 77311249,
+  "duration": 47554994,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2035638533,
+  "duration": 1719030062,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 87118956,
+  "duration": 84538660,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 171525654,
+  "duration": 159294831,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "drawback",
+      "val": "unwelcome",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 71189679,
+  "duration": 73433619,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 59310754,
+  "duration": 58726015,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "drawback",
+      "val": "unwelcome",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 353207981,
+  "duration": 398461852,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3545991831,
+  "duration": 2988365352,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "drawback",
+      "val": "unwelcome",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 71125457,
+  "duration": 67187418,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1611442922,
+  "duration": 1223901952,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 29131048,
+  "duration": 24168691,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1329239872,
+  "duration": 1336125063,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4698134029,
+  "duration": 4609020100,
   "status": "passed"
 });
 formatter.scenario({
@@ -28560,7 +28294,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the brittle to query box",
+  "name": "put the beforehand to query box",
   "matchedColumns": [
     0
   ],
@@ -28593,7 +28327,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the brittle to input box",
+  "name": "put the beforehand to input box",
   "matchedColumns": [
     0
   ],
@@ -28606,7 +28340,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the brittle result",
+  "name": "save the beforehand result",
   "matchedColumns": [
     0
   ],
@@ -28619,7 +28353,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms brittle to search box",
+  "name": "put the synonyms beforehand to search box",
   "matchedColumns": [
     0
   ],
@@ -28639,130 +28373,130 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 7379242028,
+  "duration": 7905208774,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "brittle",
+      "val": "beforehand",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 73029229,
+  "duration": 58216936,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 4190341380,
+  "duration": 2631985591,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 52714414,
+  "duration": 42146898,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2088979034,
+  "duration": 1841957049,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 96806725,
+  "duration": 99158874,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 163240200,
+  "duration": 176021745,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "brittle",
+      "val": "beforehand",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 65121479,
+  "duration": 77149082,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 60779051,
+  "duration": 57311384,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "brittle",
+      "val": "beforehand",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 354343148,
+  "duration": 364584570,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3480420214,
+  "duration": 4154599917,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "brittle",
+      "val": "beforehand",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 53282144,
+  "duration": 92512682,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 1927137337,
+  "duration": 1647801675,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 23719433,
+  "duration": 26582129,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1355312042,
+  "duration": 1369338721,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4561150451,
+  "duration": 4611322397,
   "status": "passed"
 });
 formatter.scenario({
@@ -28786,7 +28520,7 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "put the shattered to query box",
+  "name": "put the prediction to query box",
   "matchedColumns": [
     0
   ],
@@ -28819,7 +28553,7 @@ formatter.step({
 });
 formatter.step({
   "line": 14,
-  "name": "put the shattered to input box",
+  "name": "put the prediction to input box",
   "matchedColumns": [
     0
   ],
@@ -28832,7 +28566,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "save the shattered result",
+  "name": "save the prediction result",
   "matchedColumns": [
     0
   ],
@@ -28845,7 +28579,7 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "put the synonyms shattered to search box",
+  "name": "put the synonyms prediction to search box",
   "matchedColumns": [
     0
   ],
@@ -28865,8036 +28599,126 @@ formatter.match({
   "location": "Steps.openOxfordDictionariesUrl()"
 });
 formatter.result({
-  "duration": 10780227286,
+  "duration": 8263409610,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "shattered",
+      "val": "prediction",
       "offset": 8
     }
   ],
   "location": "Steps.putTheWordToQueryBox(String)"
 });
 formatter.result({
-  "duration": 54100894,
+  "duration": 64250824,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressEnterIntoQueryBox()"
 });
 formatter.result({
-  "duration": 2508780604,
+  "duration": 2376745601,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.grabTheRealWord()"
 });
 formatter.result({
-  "duration": 49226219,
+  "duration": 33860859,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.open_the_url()"
 });
 formatter.result({
-  "duration": 2393121203,
+  "duration": 2177039611,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_from_english_language()"
 });
 formatter.result({
-  "duration": 94118806,
+  "duration": 93770133,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.select_to_bangla_language()"
 });
 formatter.result({
-  "duration": 154683199,
+  "duration": 175409442,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "shattered",
+      "val": "prediction",
       "offset": 8
     }
   ],
   "location": "Steps.put_the_to_input_box(String)"
 });
 formatter.result({
-  "duration": 67954557,
+  "duration": 87549152,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.press_translate_button()"
 });
 formatter.result({
-  "duration": 57823102,
+  "duration": 61306019,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "shattered",
+      "val": "prediction",
       "offset": 9
     }
   ],
   "location": "Steps.save_the_result(String)"
 });
 formatter.result({
-  "duration": 371941304,
+  "duration": 433310665,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.openSynonymsUrl()"
 });
 formatter.result({
-  "duration": 3118050259,
+  "duration": 3498106639,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "shattered",
+      "val": "prediction",
       "offset": 17
     }
   ],
   "location": "Steps.putTheSynonymsWordToSearchBox(String)"
 });
 formatter.result({
-  "duration": 105458153,
+  "duration": 76368747,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.pressSubmitButton()"
 });
 formatter.result({
-  "duration": 2496437759,
+  "duration": 1948991122,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.findRelevancyList()"
 });
 formatter.result({
-  "duration": 33208087,
+  "duration": 29468871,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1403926251,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4757100215,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 147,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;125",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the dropped to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the dropped to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the dropped result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms dropped to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11768393521,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dropped",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 70621362,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4382545183,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 48258791,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1992993406,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 90377244,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 153929843,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dropped",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 74769074,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 63579577,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dropped",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 388248873,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4921101983,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dropped",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 60617177,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2606065618,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 34544129,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1407584530,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4610740298,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 148,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;126",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the despite to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the despite to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the despite result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms despite to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7141495798,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "despite",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 56659491,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2368095053,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 50578096,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1993620078,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 103759949,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 163446061,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "despite",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 66571888,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 75086662,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "despite",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 355840182,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3711626115,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "despite",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 74680513,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1754381798,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 27172732,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1336964927,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4600491837,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 149,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;127",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the minerals to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the minerals to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the minerals result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms minerals to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6490785681,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "minerals",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 59358847,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2500798370,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 34544715,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1820193879,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 108890631,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 188332039,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "minerals",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 67735207,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 65728798,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "minerals",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5425536052,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3593860893,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "minerals",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 76599827,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2617189134,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 32433323,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1315778283,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4732904251,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 150,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;128",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the appearance to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the appearance to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the appearance result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms appearance to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7600941974,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "appearance",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 58964720,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2496111960,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 81125536,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2152511398,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 102616571,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 171835324,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "appearance",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 82017892,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 70923701,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "appearance",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 392772530,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 2984550478,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "appearance",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 56768873,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1932320803,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 61421266,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1483882604,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4541793094,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 151,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;129",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the perfected to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the perfected to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the perfected result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms perfected to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11148417058,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "perfected",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 52744912,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2311310637,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 27859521,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1783708442,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 90454368,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 198914803,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "perfected",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 77954636,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 75901014,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "perfected",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 373208140,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4018461482,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "perfected",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 53806179,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1428255055,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 23641136,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1479057486,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4607334799,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 152,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;130",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the porcelain to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the porcelain to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the porcelain result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms porcelain to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7534627558,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "porcelain",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 51532035,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2430157947,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 47470831,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1956697701,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 122204715,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 178578289,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "porcelain",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 90942921,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 61171124,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "porcelain",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5401828935,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3709183352,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "porcelain",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 59948863,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2138670639,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 46052093,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1308453807,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4578334247,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 153,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;131",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the lighter to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the lighter to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the lighter result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms lighter to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11461183089,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lighter",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 51129697,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2601466303,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 52253134,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1862463942,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 82704681,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 167817815,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lighter",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 71246862,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 73750914,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lighter",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15301194432,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4112688203,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lighter",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 81374504,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2180540416,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 40526111,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1308361141,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4642954271,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 154,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;132",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the commodity to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the commodity to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the commodity result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms commodity to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7061744426,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commodity",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 63019766,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2701900809,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 46838587,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1965139749,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 115039766,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 165667422,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commodity",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 72145083,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67336095,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commodity",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 358884399,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3165968588,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "commodity",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 78416503,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1476830261,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 26886227,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1336793963,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4534770956,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 155,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;133",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the spies to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the spies to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the spies result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms spies to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6988853611,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "spies",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 50667243,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2626850217,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 29882645,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1767914059,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 100156214,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 164337831,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "spies",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 52608258,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 52132901,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "spies",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 380920877,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3562400570,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "spies",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 58699330,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2909395488,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 23217392,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1297650227,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4688353299,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 156,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;134",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the merchandise to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the merchandise to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the merchandise result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms merchandise to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12359351545,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "merchandise",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 58018699,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2266872879,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 32325994,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2288899387,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 89982531,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 184136528,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "merchandise",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 227657589,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 69059519,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "merchandise",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 463206213,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3619160646,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "merchandise",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 107281281,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1392927952,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 23029126,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1427207276,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4621865573,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 157,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;135",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the unravel to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the unravel to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the unravel result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms unravel to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 8158867567,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unravel",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 49685446,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2608178476,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 29586463,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1825885545,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 110031075,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 158369044,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unravel",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 67229939,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 69075061,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unravel",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 372666216,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4320339769,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unravel",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 70349814,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 3330865058,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 30555944,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1314888860,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4672872106,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 158,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;136",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the alchemist to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the alchemist to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the alchemist result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms alchemist to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11229858716,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "alchemist",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 64625009,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4460935000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 42970634,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1755693207,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 167411666,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 152577379,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "alchemist",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 67397678,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 54719357,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "alchemist",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 10367826143,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3824215786,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "alchemist",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 99097292,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2999429631,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 30358587,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1337752300,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4636743847,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 159,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;137",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the lead to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the lead to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the lead result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms lead to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11283722959,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lead",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 63565501,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3202225583,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 29615495,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1726283279,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 105859904,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 186069917,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lead",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 60321583,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 66124098,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lead",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15396869510,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3228982781,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "lead",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 64865767,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 3500957898,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 30133665,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1319332167,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4771852391,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 160,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;138",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the unfortunately to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the unfortunately to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the unfortunately result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms unfortunately to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6625791295,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unfortunately",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 69857448,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2617725192,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 47269076,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1639042331,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 107319110,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 152457440,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unfortunately",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 76559064,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 62565816,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unfortunately",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 384425202,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3584605667,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "unfortunately",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 73344471,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1744643296,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 42882367,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1292883172,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4611821507,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 161,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;139",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the experimentation to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the experimentation to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the experimentation result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms experimentation to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 9033372892,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experimentation",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 110223740,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3286060738,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 43630151,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1666054949,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 98186168,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 165990288,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experimentation",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 90863744,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 62562590,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experimentation",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5368354284,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3560976553,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "experimentation",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 79445806,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2781342511,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28019342,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1324379566,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4612964590,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 162,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;140",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the quartz to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the quartz to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the quartz result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms quartz to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 10443617483,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quartz",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 52545503,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2602680060,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 33041815,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1682108272,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 108156043,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 157532112,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quartz",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 61837386,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 61798383,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quartz",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 407436440,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3666926485,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "quartz",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 55575350,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2061585486,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 55661271,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1349656151,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4634548586,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 163,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;141",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the send to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the send to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the send result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms send to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 9957459854,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "send",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 71599641,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2862012631,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 62524468,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1730648875,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 93292431,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 170589017,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "send",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 55573004,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 71000533,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "send",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15365621498,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3372190566,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "send",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 51868978,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2294670817,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 37809747,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1369860704,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4639685133,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 164,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;142",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the sent to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the sent to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the sent result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms sent to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6608706911,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "sent",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 80999145,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3009159042,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 39234350,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1714227525,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 113077638,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 161329685,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "sent",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 67834325,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 63213603,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "sent",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15314957187,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 5033772004,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "sent",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 60314252,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2986806148,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 37947868,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1302809354,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4636656459,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 165,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;143",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the crystalline to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the crystalline to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the crystalline result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms crystalline to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 8960386478,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "crystalline",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 55335179,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2808585037,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 40378315,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2179048953,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 96706141,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 284028231,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "crystalline",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 110677983,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 55326382,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "crystalline",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 665421239,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3436363972,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "crystalline",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 62963755,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1576198222,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 30991419,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1355771269,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4612304194,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 166,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;144",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the occurring to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the occurring to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the occurring result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms occurring to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6965859968,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occurring",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 58326904,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2530792743,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 31523372,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2489262547,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 93866319,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 152828400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occurring",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 62383122,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 67846055,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occurring",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 415480548,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3977059142,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "occurring",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 58193769,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2127857086,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 25663966,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1295386931,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4797882919,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 167,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;145",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the innovative to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the innovative to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the innovative result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms innovative to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 14156503688,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 59704880,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3241668140,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 30051556,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2045646530,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 86987580,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 157248833,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 69014359,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 66144625,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 373318402,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3476647861,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 66713528,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1682731718,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 40775666,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1330671220,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4590893509,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 168,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;146",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the widespread to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the widespread to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the widespread result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms widespread to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6897477268,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "widespread",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57113733,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3288311716,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 38530553,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2058862962,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 121696515,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 155082018,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "widespread",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 71815765,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 66445791,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "widespread",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 360708994,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 5060828610,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "widespread",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 81803527,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2307460867,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 30364746,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1347780238,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4568600144,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 169,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;147",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the innovative to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the innovative to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the innovative result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms innovative to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7226476383,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57760934,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3386533661,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 48794849,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1879602871,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 94892983,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 155150638,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 75612458,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 60416595,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 269598627,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3402562643,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "innovative",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 137413774,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1985499138,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28891463,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1356043111,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4632898475,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 170,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;148",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the draughty to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the draughty to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the draughty result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms draughty to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11366083072,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "draughty",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 57066227,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3597379880,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 50105086,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1780239895,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 89394567,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 177070403,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "draughty",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 69361271,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 61476104,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "draughty",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 320631846,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3504875995,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "draughty",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 63016833,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 3366929388,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28203209,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1295763463,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4604730162,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 171,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;149",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the volcanic to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the volcanic to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the volcanic result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms volcanic to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 7160845237,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "volcanic",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 50572524,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2777514148,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 38088921,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1960352755,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 102005147,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 173787482,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "volcanic",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 75739141,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 74869658,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "volcanic",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 5370215241,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3423146953,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "volcanic",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 53971572,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2149116456,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 28172711,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1335662608,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4561464520,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 172,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;150",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the observed to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the observed to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the observed result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms observed to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12819066336,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "observed",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 73296378,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3172777239,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 33615116,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2192729306,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 91316521,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 155384063,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "observed",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 61112768,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 53796795,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "observed",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 388510451,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4115736525,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "observed",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 57597007,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1977119844,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 31644777,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1332908123,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4546921136,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 173,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;151",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the numerous to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the numerous to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the numerous result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms numerous to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 6845707995,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "numerous",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 66216178,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2530125601,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 35115377,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2887191564,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 90904505,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 169590211,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "numerous",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 71637176,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 55479457,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "numerous",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 393029416,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3319389937,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "numerous",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 56583833,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1754434289,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 45049182,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1353239945,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4580635957,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 174,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;152",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the intact to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the intact to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the intact result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms intact to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11761924451,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "intact",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 51404764,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2637979011,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 41660105,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2083346016,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 89707463,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 192750419,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "intact",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 68058660,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 61935038,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "intact",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 413655661,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4438525216,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "intact",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 63842915,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2867521018,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 24709442,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1341812331,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4586240530,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 175,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;153",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the empire to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the empire to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the empire result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms empire to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11823601430,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "empire",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 70141900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4484760883,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 61240625,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 2007226239,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 138445130,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 162489483,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "empire",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 64713277,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 57594075,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "empire",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 389478466,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 5748809189,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "empire",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 52049325,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2625815928,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 21851145,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1338677794,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4572157253,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 176,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;154",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the harbours to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the harbours to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the harbours result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms harbours to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12876922283,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbours",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 72876446,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3310742028,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 36823259,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1913821786,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 111649809,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 163850158,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbours",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 72600498,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 65855189,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbours",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 366967217,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 6727519910,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "harbours",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 84152744,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2242834098,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 33042401,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1383625512,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4575198829,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 177,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;155",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the hardening to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the hardening to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the hardening result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms hardening to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 12298482173,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "hardening",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 79400939,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 3271082760,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 37138501,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1494190300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 119033815,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 177477139,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "hardening",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 64908875,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 56426651,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "hardening",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 411087094,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3399147467,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "hardening",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 53958082,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 5519220557,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 36241453,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1320781403,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4615218501,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 178,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;156",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the dissolving to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the dissolving to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the dissolving result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms dissolving to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11903991205,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dissolving",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 134761338,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 4817933516,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 48724177,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1239804250,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 117155264,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 179698205,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dissolving",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 72128661,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 66740506,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dissolving",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 293081116,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 4686869167,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "dissolving",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 61689296,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1986399118,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 25093012,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1313155173,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4638828553,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 179,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;157",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the mass to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the mass to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the mass result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms mass to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 8609503667,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "mass",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 74599576,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2663562921,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 41076246,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1228552586,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 120259009,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 173909180,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "mass",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 56658025,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 66142572,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "mass",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 15267960539,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3796141315,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "mass",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 89000734,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2993545007,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 33504855,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1293268208,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4716041856,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 180,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;158",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the significant to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the significant to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the significant result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms significant to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 14568921545,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "significant",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 64356101,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2930218503,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 58489951,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1233914934,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 103817133,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 166184419,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "significant",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 77730594,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 60593131,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "significant",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 264496684,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3675552106,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "significant",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 69043097,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 1433379286,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 27892071,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1326634063,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 4603943669,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 181,
-  "name": "",
-  "description": "",
-  "id": "testing-google-translate;;;159",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@translate"
-    }
-  ]
-});
-formatter.step({
-  "line": 7,
-  "name": "open oxford dictionaries url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "put the contribution to query box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 9,
-  "name": "press enter into query box",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "grab the real word",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 11,
-  "name": "open the url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 12,
-  "name": "select from english language",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 13,
-  "name": "select to bangla language",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "put the contribution to input box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 15,
-  "name": "press translate button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "save the contribution result",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "open synonyms url",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 18,
-  "name": "put the synonyms contribution to search box",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "press submit button",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "find relevancy list",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Steps.openOxfordDictionariesUrl()"
-});
-formatter.result({
-  "duration": 11830544096,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "contribution",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.putTheWordToQueryBox(String)"
-});
-formatter.result({
-  "duration": 84802877,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressEnterIntoQueryBox()"
-});
-formatter.result({
-  "duration": 2371202611,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.grabTheRealWord()"
-});
-formatter.result({
-  "duration": 34586063,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.open_the_url()"
-});
-formatter.result({
-  "duration": 1097494687,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_from_english_language()"
-});
-formatter.result({
-  "duration": 90869022,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.select_to_bangla_language()"
-});
-formatter.result({
-  "duration": 164814653,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "contribution",
-      "offset": 8
-    }
-  ],
-  "location": "Steps.put_the_to_input_box(String)"
-});
-formatter.result({
-  "duration": 74229496,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.press_translate_button()"
-});
-formatter.result({
-  "duration": 61330066,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "contribution",
-      "offset": 9
-    }
-  ],
-  "location": "Steps.save_the_result(String)"
-});
-formatter.result({
-  "duration": 331959170,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.openSynonymsUrl()"
-});
-formatter.result({
-  "duration": 3261731640,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "contribution",
-      "offset": 17
-    }
-  ],
-  "location": "Steps.putTheSynonymsWordToSearchBox(String)"
-});
-formatter.result({
-  "duration": 68069510,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.pressSubmitButton()"
-});
-formatter.result({
-  "duration": 2318782618,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Steps.findRelevancyList()"
-});
-formatter.result({
-  "duration": 22861387,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1349435921,
+  "duration": 1389362046,
   "status": "passed"
 });
 });
