@@ -10,6 +10,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeDriverService;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
@@ -30,12 +31,18 @@ public class Steps {
 
     @Before
     public void setup() {
-        System.setProperty("webdriver.chrome.driver", "resources/windows/chromedriver_v2.33.exe");
+        System.setProperty("webdriver.chrome.driver", "resources/windows/chromedriver_v2.40.exe");
         ChromeOptions options = new ChromeOptions();
         options.addExtensions(new File("resources/addons/extension_1_13_4.crx"));
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-        driver = new ChromeDriver(capabilities);
+
+        ChromeDriverService service = new ChromeDriverService.Builder()
+                .usingDriverExecutable(new File("resources/windows/chromedriver_v2.40.exe"))
+                .usingAnyFreePort()
+                .build();
+        options.merge(capabilities);
+        driver =new ChromeDriver(service, options);
     }
 
 
@@ -151,17 +158,20 @@ public class Steps {
 
     @Then("^find relevancy list$")
     public void findRelevancyList() {
-        String body = findElementByRObject(By.className("relevancy-list")).getAttribute("innerHTML");
+        WebElement webElement = findElementByRObject(By.xpath("//*[@id=\"initial-load-content\"]/div/div/div[2]/section[1]/ul"));
         String synonyms = "";
-        int item = 0;
-        for (Element element : Jsoup.parse(body).select("li .text")) {
-            synonyms += element.ownText() + "\n";
-            if (item > 5) {
-                wordLine += "\"" + synonyms + "\",";
-                synonyms = "";
-                item = 0;
+        if (webElement != null){
+            String body = webElement.getAttribute("innerHTML");
+            int item = 0;
+            for (Element element : Jsoup.parse(body).select("li a")) {
+                synonyms += element.ownText() + "\n";
+                if (item > 5) {
+                    wordLine += "\"" + synonyms + "\",";
+                    synonyms = "";
+                    item = 0;
+                }
+                item++;
             }
-            item++;
         }
         wordLine += "\"" + synonyms + "\",";
         MyFileWriter.appendToFile(wordLine, "csv\\" + name);
