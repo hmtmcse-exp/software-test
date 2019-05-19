@@ -31,7 +31,7 @@ public class Steps {
 
     @Before
     public void setup() {
-        System.setProperty("webdriver.chrome.driver", "resources/windows/chromedriver_v2.40.exe");
+        System.setProperty("webdriver.chrome.driver", "resources/windows/chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addExtensions(new File("resources/addons/extension_1_13_4.crx"));
         DesiredCapabilities capabilities = new DesiredCapabilities();
@@ -53,18 +53,18 @@ public class Steps {
 
     @When("^select from english language$")
     public void select_from_english_language() {
-        WebElement englishTab = driver.findElement(By.id("gt-sl-sugg"));
-        WebElement englishButton = englishTab.findElement(By.xpath("//*[@value=\"en\"]"));
+        WebElement englishTab = driver.findElement(By.className("tlid-open-source-language-list"));
+        englishTab.click();
+        WebElement englishButton = driver.findElement(By.className("language_list_item_wrapper-en"));
         englishButton.click();
 
     }
 
     @Then("^select to bangla language$")
     public void select_to_bangla_language() {
-        WebElement selectBangla = driver.findElement(By.xpath("//*[@id=\"gt-tl-gms\"]"));
+        WebElement selectBangla = driver.findElement(By.className("tlid-open-target-language-list"));
         selectBangla.click();
-        WebElement banglaButton = selectBangla.findElement(By.xpath("//*[@id=\":36\"]/div"));
-        banglaButton.click();
+        driver.findElement(By.xpath("/html/body/div[2]/div[3]/div/div[2]/div[2]/div[2]/div/div[2]/div[10]/div[2]")).click();
     }
 
     @Then("^put the ([^\"]*) to input box$")
@@ -76,14 +76,14 @@ public class Steps {
 
     @Then("^press translate button$")
     public void press_translate_button(){
-        WebElement translateButton = driver.findElement(By.id("gt-submit"));
-        translateButton.click();
+//        WebElement translateButton = driver.findElement(By.id("gt-submit"));
+//        translateButton.click();
     }
 
     @Then("^save the ([^\"]*) result$")
     public void save_the_result(String word) {
 
-        String result = findElementBy(By.xpath("//*[@id=\"result_box\"]/span"));
+        String result = findElementBy(By.xpath("/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div/span[1]/span"));
         WebElement webElement = findElementByRObject(By.className("cd-exp-ar"));
         try {
             if (webElement != null) {
