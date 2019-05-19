@@ -145,20 +145,20 @@ public class Steps {
 
     @Then("^put the synonyms ([^\"]*) to search box$")
     public void putTheSynonymsWordToSearchBox(String word) {
-        WebElement textArea = driver.findElement(By.id("searchAreaInputText"));
+        WebElement textArea = driver.findElement(By.id("searchbar_input"));
 //        textArea.sendKeys(word);
         textArea.sendKeys(searchWord);
     }
 
     @Then("^press submit button$")
     public void pressSubmitButton() {
-        WebElement translateButton = driver.findElement(By.id("searchAreaSubmit"));
+        WebElement translateButton = driver.findElement(By.id("search-submit"));
         translateButton.click();
     }
 
     @Then("^find relevancy list$")
     public void findRelevancyList() {
-        WebElement webElement = findElementByRObject(By.xpath("//*[@id=\"initial-load-content\"]/div/div/div[2]/section[1]/ul"));
+        WebElement webElement = findElementByRObject(By.xpath("//*[@id=\"initial-load-content\"]/main/section/section/div[2]/ul"));
         String synonyms = "";
         if (webElement != null){
             String body = webElement.getAttribute("innerHTML");
