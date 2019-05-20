@@ -158,7 +158,7 @@ public class Steps {
 
     @Then("^find relevancy list$")
     public void findRelevancyList() {
-        WebElement webElement = findElementByRObject(By.xpath("//*[@id=\"initial-load-content\"]/main/section/section/div[2]/ul"));
+        WebElement webElement = findElementByRObject(By.className("css-1lc0dpe"));
         String synonyms = "";
         if (webElement != null){
             String body = webElement.getAttribute("innerHTML");
