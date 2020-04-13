@@ -22,7 +22,7 @@ public class GoogleCalculatorSteps {
     @Before
     public void setup() {
         try {
-            System.setProperty("webdriver.chrome.driver","D:\\touhid\\software-test\\cucumber-with-selenium-driver\\chrome_driver\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver","C:\\Users\\touhid\\Downloads\\chromedriver_win32\\chromedriver.exe");
 //            driver = new RemoteWebDriver(new URL("http://localhost:9515"), DesiredCapabilities.chrome());
             driver = new ChromeDriver();
             driver.manage().window().maximize();
@@ -42,19 +42,19 @@ public class GoogleCalculatorSteps {
     @When("^I enter \"([^\"]*)\" in search textbox$")
     public void i_enter_in_search_textbox(String arg1) {
         //Write term in google textbox
-        WebElement googleTextBox = driver.findElement(By.id("lst-ib"));
+        WebElement googleTextBox = driver.findElement(By.className("gLFyf"));
         googleTextBox.sendKeys(arg1);
 
 
         //Click on searchButton
-        WebElement searchButton = driver.findElement(By.className("lsb"));
+        WebElement searchButton = driver.findElement(By.className("gNO89b"));
         searchButton.click();
     }
 
     @Then("^I should get result as \"([^\"]*)\"$")
     public void i_should_get_result_as(String arg1) {
         //Get result from calculator
-        WebElement calculatorTextBox = driver.findElement(By.id("cwos"));
+        WebElement calculatorTextBox = driver.findElement(By.className("qv3Wpe"));
         String result = calculatorTextBox.getText();
         Assert.assertEquals(result, arg1);
         driver.close();
